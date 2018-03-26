@@ -1,0 +1,468 @@
+<br><br>
+<table cellpadding="0" cellspacing="0" align="center" style="min-width:900px;">
+	<tr>
+		<td>
+			<table cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="header_line"><!--lang_stats_visitors--></td>
+					<td class="header_line" align="right"><script>document.write(new Date(2017,10,9,0, 00, 00, 0).toLocaleDateString());</script></td>
+				</tr>
+				<tr>
+					<td class="header_nav_line">&nbsp;&nbsp;17 <!--lang_stats_visitors--> (<em>unique</em>)</td>
+					<td class="header_nav_line" align="right">Status:&nbsp;&nbsp;<!--lang_stats_status_closed-->&nbsp;</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="2" width="100%">
+				<tr>
+					<td class="bt_column_header" width="60" align="center"><!--lang_stats_pages--></td>
+					<td class="bt_column_header" width="80" align="center"><!--lang_stats_entrance--></td>
+					<td class="bt_column_header" width="100" align="center"><!--lang_stats_exit--></td>
+					<td class="bt_column_header" width="*"><!--lang_stats_country--></td>
+					<td class="bt_column_header" width="*"><!--lang_stats_city--></td>
+					<td class="bt_column_header" width="*"><!--lang_stats_system--></td>
+					<td class="bt_column_header" width="25">&nbsp;</td>
+				</tr>
+				<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_1');"><b>1</b></a></td>
+    <td align="center">09:13:11</td>
+    <td align="center">09:24:09</td>
+    <td NOWRAP>Brazil</td>
+    <td NOWRAP><!--lang_stats_unknown--></td>
+    <td NOWRAP>AndroidOS</td>
+    <td class="vs" align="right"><div class="ico_info" onclick="showInfoBox('','4','1','189.62.xxx.xxx','bd3e52e4.virtua.com.br','ea0b08ed11',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_11">
+		<td align="center">&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">09:13:11</td>
+		<td colspan="4">Referrer:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://l.facebook.com/" target="_blank"><b>https://l.facebook.com/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_12">
+		<td align="center">1</td>
+		<td align="center">09:13:11</td>
+		<td align="center">09:13:11</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://www.thepilatesfisiofitness.com.br/cursos.asp?cod_curso=2&amp;cidade=saopaulo" target="_blank"><b>http://www.thepilatesfisiofitness.com.br/cursos.asp?cod_curso=2&amp;cidade=saopaulo</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_2');"><b>1</b></a></td>
+    <td align="center">09:24:09</td>
+    <td align="center">09:39:15</td>
+    <td NOWRAP>Brazil</td>
+    <td NOWRAP><!--lang_stats_unknown--></td>
+    <td NOWRAP>AndroidOS</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('','1','1','191.240.xxx.xxx','AS28165-191-240-151-42.wcs.net.br','626b741c16',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_21">
+		<td align="center">&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">09:24:09</td>
+		<td colspan="4">Referrer:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://l.facebook.com/" target="_blank"><b>https://l.facebook.com/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_22">
+		<td align="center">1</td>
+		<td align="center">09:24:09</td>
+		<td align="center">09:24:09</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://www.thepilatesfisiofitness.com.br/cursos.asp?cod_curso=2&amp;cidade=saopaulo" target="_blank"><b>http://www.thepilatesfisiofitness.com.br/cursos.asp?cod_curso=2&amp;cidade=saopaulo</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_3');"><b>1</b></a></td>
+    <td align="center">11:19:58</td>
+    <td align="center">11:29:20</td>
+    <td NOWRAP>Brazil</td>
+    <td NOWRAP><!--lang_stats_unknown--></td>
+    <td NOWRAP>Windows 7</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('','1','1','201.6.xxx.xxx','c90687c7.virtua.com.br','5a7cb46108',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_31">
+		<td align="center">&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">11:19:58</td>
+		<td colspan="4">Referrer:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://www.thepilatesfisiofitness.com.br/blog/2017/11/07/pilates-na-gravidez-2/" target="_blank"><b>http://www.thepilatesfisiofitness.com.br/blog/2017/11/07/pilates-na-gravidez-2/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_32">
+		<td align="center">1</td>
+		<td align="center">11:19:58</td>
+		<td align="center">11:19:58</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://thepilatesfisiofitness.com.br/cursos.asp?cod_curso=2&amp;cidade=saopaulo" target="_blank"><b>http://thepilatesfisiofitness.com.br/cursos.asp?cod_curso=2&amp;cidade=saopaulo</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_4');"><b>1</b></a></td>
+    <td align="center">11:46:33</td>
+    <td align="center">13:23:27</td>
+    <td NOWRAP>Brazil</td>
+    <td NOWRAP><!--lang_stats_unknown--></td>
+    <td NOWRAP>AndroidOS</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('','1','1','189.46.xxx.xxx','189-46-11-9.dsl.telesp.net.br','20bbe6fdf7',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_41">
+		<td align="center">&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">11:46:33</td>
+		<td colspan="4">Referrer:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://l.facebook.com/" target="_blank"><b>https://l.facebook.com/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_42">
+		<td align="center">1</td>
+		<td align="center">11:46:33</td>
+		<td align="center">11:46:33</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://www.thepilatesfisiofitness.com.br/cursos.asp?cod_curso=2&amp;cidade=saopaulo" target="_blank"><b>http://www.thepilatesfisiofitness.com.br/cursos.asp?cod_curso=2&amp;cidade=saopaulo</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_5');"><b>1</b></a></td>
+    <td align="center">13:31:03</td>
+    <td align="center">13:40:09</td>
+    <td NOWRAP>Brazil</td>
+    <td NOWRAP><!--lang_stats_unknown--></td>
+    <td NOWRAP>AndroidOS</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('','1','1','177.189.xxx.xxx','177-189-254-188.dsl.telesp.net.br','92d4eb0725',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_51">
+		<td align="center">&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">13:31:03</td>
+		<td colspan="4">Referrer:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://m.facebook.com/" target="_blank"><b>http://m.facebook.com/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_52">
+		<td align="center">1</td>
+		<td align="center">13:31:03</td>
+		<td align="center">13:31:03</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://www.thepilatesfisiofitness.com.br/cursos.asp?cod_curso=2&amp;cidade=saopaulo" target="_blank"><b>http://www.thepilatesfisiofitness.com.br/cursos.asp?cod_curso=2&amp;cidade=saopaulo</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_6');"><b>2</b></a></td>
+    <td align="center">13:40:10</td>
+    <td align="center">14:05:39</td>
+    <td NOWRAP>Brazil</td>
+    <td NOWRAP><!--lang_stats_unknown--></td>
+    <td NOWRAP>AndroidOS</td>
+    <td class="vs" align="right"><div class="ico_info" onclick="showInfoBox('','5','1','200.153.xxx.xxx','200-153-163-63.dsl.telesp.net.br','d566db76f4',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_61">
+		<td align="center">&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">13:40:10</td>
+		<td colspan="4">Referrer:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://www.thepilatesfisiofitness.com.br/" target="_blank"><b>http://www.thepilatesfisiofitness.com.br/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_62">
+		<td align="center">1</td>
+		<td align="center">13:40:10</td>
+		<td align="center">13:40:10</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://www.thepilatesfisiofitness.com.br/cursos.asp?cod_curso=2&amp;cidade=saopaulo" target="_blank"><b>http://www.thepilatesfisiofitness.com.br/cursos.asp?cod_curso=2&amp;cidade=saopaulo</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_63">
+		<td align="center">2</td>
+		<td align="center">13:40:19</td>
+		<td align="center">13:40:19</td>
+		<td colspan="4"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://www.thepilatesfisiofitness.com.br/cursos.asp?cod_curso=2&amp;cidade=saopaulo" target="_blank"><b>http://www.thepilatesfisiofitness.com.br/cursos.asp?cod_curso=2&amp;cidade=saopaulo</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_7');"><b>9</b></a></td>
+    <td align="center">14:05:40</td>
+    <td align="center">00:04:02</td>
+    <td NOWRAP>Brazil</td>
+    <td NOWRAP><!--lang_stats_unknown--></td>
+    <td NOWRAP>iPhone / iOS</td>
+    <td class="vs" align="right"><div class="ico_info" onclick="showInfoBox('','7','1','200.158.xxx.xxx','ip-177-79-39-100.user.vivozap.com.br','f23f3b3d47',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_71">
+		<td align="center">1</td>
+		<td align="center">14:05:40</td>
+		<td align="center">14:05:40</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://www.thepilatesfisiofitness.com.br/cursos.asp?cod_curso=2&amp;cidade=saopaulo" target="_blank"><b>http://www.thepilatesfisiofitness.com.br/cursos.asp?cod_curso=2&amp;cidade=saopaulo</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_72">
+		<td align="center">2</td>
+		<td align="center">14:08:16</td>
+		<td align="center">14:08:55</td>
+		<td colspan="4"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://www.thepilatesfisiofitness.com.br/galeria-fotos-de-pilates.asp" target="_blank"><b>http://www.thepilatesfisiofitness.com.br/galeria-fotos-de-pilates.asp</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_73">
+		<td align="center">3</td>
+		<td align="center">14:08:55</td>
+		<td align="center">14:08:55</td>
+		<td colspan="4"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://www.thepilatesfisiofitness.com.br/galeria_comp.asp?id=16" target="_blank"><b>http://www.thepilatesfisiofitness.com.br/galeria_comp.asp?id=16</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_74">
+		<td align="center">4</td>
+		<td align="center">15:26:17</td>
+		<td align="center">15:26:20</td>
+		<td colspan="4"><!--lang_stats_browser--> 3:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://www.thepilatesfisiofitness.com.br/email_contato.asp" target="_blank"><b>http://www.thepilatesfisiofitness.com.br/email_contato.asp</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_75">
+		<td align="center">5</td>
+		<td align="center">15:26:20</td>
+		<td align="center">15:26:30</td>
+		<td colspan="4"><!--lang_stats_browser--> 3:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://www.thepilatesfisiofitness.com.br/cursos.asp?cod_curso=2&amp;cidade=saopaulo" target="_blank"><b>http://www.thepilatesfisiofitness.com.br/cursos.asp?cod_curso=2&amp;cidade=saopaulo</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_76">
+		<td align="center">6</td>
+		<td align="center">15:26:30</td>
+		<td align="center">15:26:30</td>
+		<td colspan="4"><!--lang_stats_browser--> 3:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.thepilatesfisiofitness.com.br/inscreva-se.asp?turma=80" target="_blank"><b>https://www.thepilatesfisiofitness.com.br/inscreva-se.asp?turma=80</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_77">
+		<td align="center">7</td>
+		<td align="center">20:46:25</td>
+		<td align="center">20:46:25</td>
+		<td colspan="4"><!--lang_stats_browser--> 4:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.thepilatesfisiofitness.com.br/inscreva-se.asp?turma=80" target="_blank"><b>https://www.thepilatesfisiofitness.com.br/inscreva-se.asp?turma=80</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_78">
+		<td align="center">8</td>
+		<td align="center">21:09:09</td>
+		<td align="center">21:09:09</td>
+		<td colspan="4"><!--lang_stats_browser--> 5:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.thepilatesfisiofitness.com.br/email_inscrevase.asp" target="_blank"><b>https://www.thepilatesfisiofitness.com.br/email_inscrevase.asp</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_79">
+		<td align="center">9</td>
+		<td align="center">21:10:12</td>
+		<td align="center">21:10:21</td>
+		<td colspan="4"><!--lang_stats_browser--> 6:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.thepilatesfisiofitness.com.br/email_inscrevase.asp" target="_blank"><b>https://www.thepilatesfisiofitness.com.br/email_inscrevase.asp</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_8');"><b>1</b></a></td>
+    <td align="center">15:19:17</td>
+    <td align="center">15:26:13</td>
+    <td NOWRAP>Brazil</td>
+    <td NOWRAP><!--lang_stats_unknown--></td>
+    <td NOWRAP>Windows 7</td>
+    <td class="vs" align="right"><div class="ico_info" onclick="showInfoBox('','2','1','186.204.xxx.xxx','bacc5a2f.virtua.com.br','a928b01a91',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_81">
+		<td align="center">&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">15:19:17</td>
+		<td colspan="4">Referrer:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.facebook.com/" target="_blank"><b>https://www.facebook.com/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_82">
+		<td align="center">1</td>
+		<td align="center">15:19:17</td>
+		<td align="center">15:19:17</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://www.thepilatesfisiofitness.com.br/" target="_blank"><b>http://www.thepilatesfisiofitness.com.br/</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_9');"><b>2</b></a></td>
+    <td align="center">16:46:18</td>
+    <td align="center">17:18:36</td>
+    <td NOWRAP>Brazil</td>
+    <td NOWRAP><!--lang_stats_unknown--></td>
+    <td NOWRAP>AndroidOS</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('','1','1','177.58.xxx.xxx','177-58-176-108.3g.claro.net.br','9901bdcbd5',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_91">
+		<td align="center">&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">16:46:18</td>
+		<td colspan="4">Referrer:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://l.facebook.com/" target="_blank"><b>https://l.facebook.com/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_92">
+		<td align="center">1</td>
+		<td align="center">16:46:18</td>
+		<td align="center">16:47:03</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://www.thepilatesfisiofitness.com.br/cursos.asp?cod_curso=2&amp;cidade=saopaulo" target="_blank"><b>http://www.thepilatesfisiofitness.com.br/cursos.asp?cod_curso=2&amp;cidade=saopaulo</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_93">
+		<td align="center">2</td>
+		<td align="center">16:47:47</td>
+		<td align="center">16:47:47</td>
+		<td colspan="4"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://www.thepilatesfisiofitness.com.br/cursos.asp?cod_curso=2&amp;cidade=saopaulo" target="_blank"><b>http://www.thepilatesfisiofitness.com.br/cursos.asp?cod_curso=2&amp;cidade=saopaulo</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_10');"><b>1</b></a></td>
+    <td align="center">17:18:40</td>
+    <td align="center">18:10:14</td>
+    <td NOWRAP>Brazil</td>
+    <td NOWRAP><!--lang_stats_unknown--></td>
+    <td NOWRAP>Windows 10</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('','1','1','88.238.xxx.xxx','88.238.xxx.xxx.dynamic.ttnet.com.tr','f7f3dfcd24',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_101">
+		<td align="center">&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">17:18:40</td>
+		<td colspan="4">Referrer:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.google.co.ao/search?q=teste+de+gaveta+anterior+do+tornozelo&amp;ie=utf-8&amp;num=100&amp;oe=utf-8&amp;hl=pt&amp;gl=AO&amp;uule=w+CAIQIFISCSeLrcpO8lEaET1OSg2dKApZ&amp;glp=1&amp;gws_rd=cr&amp;fg=1" target="_blank"><b>https://www.google.co.ao/search?q=teste+de+gaveta+anterior+do+tornozelo&amp;ie=utf-8&amp;num=100&amp;oe=utf-8&amp;hl=pt&amp;gl=AO&amp;uule=w+CAIQIFISCSeLrcpO8lEaET1OSg2dKApZ&amp;glp=1&amp;gws_rd=cr&amp;fg=1</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_102">
+		<td align="center">1</td>
+		<td align="center">17:18:40</td>
+		<td align="center">17:18:40</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.thepilatesfisiofitness.com.br/noticia_descricao.asp?id=39" target="_blank"><b>https://www.thepilatesfisiofitness.com.br/noticia_descricao.asp?id=39</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_11');"><b>1</b></a></td>
+    <td align="center">17:20:39</td>
+    <td align="center">18:10:14</td>
+    <td NOWRAP>Brazil</td>
+    <td NOWRAP><!--lang_stats_unknown--></td>
+    <td NOWRAP>AndroidOS</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('','1','1','177.104.xxx.xxx','177.104.xxx.xxx','2661b7f434',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_111">
+		<td align="center">&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">17:20:39</td>
+		<td colspan="4">Referrer:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://l.facebook.com/" target="_blank"><b>https://l.facebook.com/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_112">
+		<td align="center">1</td>
+		<td align="center">17:20:39</td>
+		<td align="center">17:20:39</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://www.thepilatesfisiofitness.com.br/cursos.asp?cod_curso=2&amp;cidade=saopaulo" target="_blank"><b>http://www.thepilatesfisiofitness.com.br/cursos.asp?cod_curso=2&amp;cidade=saopaulo</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_12');"><b>2</b></a></td>
+    <td align="center">18:10:15</td>
+    <td align="center">18:32:26</td>
+    <td NOWRAP>Brazil</td>
+    <td NOWRAP><!--lang_stats_unknown--></td>
+    <td NOWRAP>Samsung / AndroidOS</td>
+    <td class="vs" align="right"><div class="ico_info" onclick="showInfoBox('','19','1','138.121.xxx.xxx','dynamic-user3novanet162.novanet-rj.com.br','039f3a3f32',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_121">
+		<td align="center">1</td>
+		<td align="center">18:10:15</td>
+		<td align="center">18:10:15</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://www.thepilatesfisiofitness.com.br/cursos.asp?cod_curso=2&amp;cidade=saopaulo" target="_blank"><b>http://www.thepilatesfisiofitness.com.br/cursos.asp?cod_curso=2&amp;cidade=saopaulo</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_122">
+		<td align="center">2</td>
+		<td align="center">00:28:02</td>
+		<td align="center">00:28:02</td>
+		<td colspan="4"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://www.thepilatesfisiofitness.com.br/cursos.asp?cod_curso=2&amp;cidade=saopaulo" target="_blank"><b>http://www.thepilatesfisiofitness.com.br/cursos.asp?cod_curso=2&amp;cidade=saopaulo</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_13');"><b>2</b></a></td>
+    <td align="center">18:38:00</td>
+    <td align="center">19:11:48</td>
+    <td NOWRAP>Brazil</td>
+    <td NOWRAP><!--lang_stats_unknown--></td>
+    <td NOWRAP>AndroidOS</td>
+    <td class="vs" align="right"><div class="ico_info" onclick="showInfoBox('','25','1','177.128.xxx.xxx','177-128-125-235.simconecte.com.br','5daf66e059',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_131">
+		<td align="center">1</td>
+		<td align="center">18:38:00</td>
+		<td align="center">18:38:05</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://www.thepilatesfisiofitness.com.br/" target="_blank"><b>http://www.thepilatesfisiofitness.com.br/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_132">
+		<td align="center">2</td>
+		<td align="center">18:38:05</td>
+		<td align="center">18:38:05</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://www.thepilatesfisiofitness.com.br/cursos.asp?cod_curso=2&amp;cidade=saopaulo" target="_blank"><b>http://www.thepilatesfisiofitness.com.br/cursos.asp?cod_curso=2&amp;cidade=saopaulo</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_14');"><b>1</b></a></td>
+    <td align="center">19:11:51</td>
+    <td align="center">19:30:24</td>
+    <td NOWRAP>Brazil</td>
+    <td NOWRAP><!--lang_stats_unknown--></td>
+    <td NOWRAP>Linux</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('','1','1','186.241.xxx.xxx','186-241-115-43.user.veloxzone.com.br','25c4f21975',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_141">
+		<td align="center">1</td>
+		<td align="center">19:11:51</td>
+		<td align="center">19:11:51</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://thepilatesfisiofitness.com.br/" target="_blank"><b>http://thepilatesfisiofitness.com.br/</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_15');"><b>1</b></a></td>
+    <td align="center">19:30:25</td>
+    <td align="center">19:41:47</td>
+    <td NOWRAP>Brazil</td>
+    <td NOWRAP><!--lang_stats_unknown--></td>
+    <td NOWRAP>Windows 7</td>
+    <td class="vs" align="right"><div class="ico_info" onclick="showInfoBox('','2','1','191.54.xxx.xxx','179-104-060-65.xd-dynamic.algarnetsuper.com.br','943f52eb09',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_151">
+		<td align="center">&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">19:30:25</td>
+		<td colspan="4">Referrer:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.google.com.br/" target="_blank"><b>https://www.google.com.br/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_152">
+		<td align="center">1</td>
+		<td align="center">19:30:25</td>
+		<td align="center">19:30:25</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://www.thepilatesfisiofitness.com.br/noticia_descricao.asp?id=17" target="_blank"><b>http://www.thepilatesfisiofitness.com.br/noticia_descricao.asp?id=17</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_16');"><b>2</b></a></td>
+    <td align="center">19:48:02</td>
+    <td align="center">20:46:24</td>
+    <td NOWRAP>Brazil</td>
+    <td NOWRAP><!--lang_stats_unknown--></td>
+    <td NOWRAP>AndroidOS</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('','1','1','201.81.xxx.xxx','c951b85f.virtua.com.br','f0f919bec7',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_161">
+		<td align="center">&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">19:48:02</td>
+		<td colspan="4">Referrer:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=android-app://m.facebook.com" target="_blank"><b>android-app://m.facebook.com</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_162">
+		<td align="center">1</td>
+		<td align="center">19:48:02</td>
+		<td align="center">19:49:00</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://www.thepilatesfisiofitness.com.br/" target="_blank"><b>http://www.thepilatesfisiofitness.com.br/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_163">
+		<td align="center">2</td>
+		<td align="center">19:49:00</td>
+		<td align="center">19:49:00</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://www.thepilatesfisiofitness.com.br/cursos.asp?cod_curso=2&amp;cidade=saopaulo" target="_blank"><b>http://www.thepilatesfisiofitness.com.br/cursos.asp?cod_curso=2&amp;cidade=saopaulo</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_17');"><b>2</b></a></td>
+    <td align="center">20:56:05</td>
+    <td align="center">21:08:24</td>
+    <td NOWRAP>Brazil</td>
+    <td NOWRAP><!--lang_stats_unknown--></td>
+    <td NOWRAP>iPhone / iOS</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('','1','1','186.204.xxx.xxx','baccd22e.virtua.com.br','0db886b404',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_171">
+		<td align="center">&nbsp;</td>
+		<td align="center">&nbsp;</td>
+		<td align="center">20:56:05</td>
+		<td colspan="4">Referrer:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=https://www.google.com.br/" target="_blank"><b>https://www.google.com.br/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_172">
+		<td align="center">1</td>
+		<td align="center">20:56:05</td>
+		<td align="center">20:56:53</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://www.thepilatesfisiofitness.com.br/estudio-de-pilates.asp" target="_blank"><b>http://www.thepilatesfisiofitness.com.br/estudio-de-pilates.asp</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_173">
+		<td align="center">2</td>
+		<td align="center">20:56:53</td>
+		<td align="center">20:57:21</td>
+		<td colspan="4"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://www.thepilatesfisiofitness.com.br/default.asp" target="_blank"><b>http://www.thepilatesfisiofitness.com.br/default.asp</b></a></td>
+	</tr>
+
+			</table>
+			<br>
+		</td>
+	</tr>
+</table>
+<script type="text/javascript">
+function showInfoBox(_isp, _visits, _visits_day, _ip, _host, _id, _parent)
+{
+if(ibCurrent != _parent)
+{
+document.getElementById("info_box").innerHTML = "<strong>ID:</strong> " + _id + "<br><strong><!--lang_stats_isp-->:</strong> " + _isp + "<br><strong>IP:</strong> " +_ip + "<br><strong>Host:</strong> " +_host + "<br><strong><!--lang_stats_visits-->:</strong> " + _visits + "<br><strong><!--lang_stats_visits_today-->:</strong> " + _visits_day;
+assignPosition(document.getElementById("info_box"));
+document.getElementById("info_box").style.display = "block";
+ibCurrent = _parent;
+}
+else
+{
+document.getElementById("info_box").style.display = "none";
+ibCurrent = null;
+}
+}
+</script>

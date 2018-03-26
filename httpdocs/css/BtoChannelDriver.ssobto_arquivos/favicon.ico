@@ -1,0 +1,188 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<META HTTP-EQUIV="expires" CONTENT="Wed, 26 Feb 1997 08:21:57 GMT">
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-STORE">
+<META HTTP-EQUIV="PRAGMA" CONTENT="NO-CACHE">
+<meta http-equiv="robots" content="noindex">
+<title>Page cannot be found</title>
+<style title="" type="text/css">
+
+	html {
+	font-family: font-family:"Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	font-size: 1.0em;
+	color: black;
+	border: #dadada 2px solid;
+	}
+
+	.border1 {
+	border-bottom: #ffffff 1px solid;
+	}
+
+	.logo {
+		background-color: white;
+		background-image: url(/errorParticulares/logo.gif);
+		background-position: top;
+		background-position: left;
+		background-repeat: no-repeat;
+	}
+	.greybck {
+			background-color: #E8E8E8;
+			padding: 20px 30px 10px 30px;
+		}
+
+		.outline {
+			padding: 20px;
+		}
+
+		.message {
+			font-size: 0.8em;
+			color: #000000;
+		}
+
+		.legal {
+			font-size: 0.8em;
+			color: #000000;
+			border: #777777 2px inset;
+			padding: 8px;
+			background-color: #efefef;
+		}
+
+		.warning {
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 1.55em;
+		font-weight: 100;
+		color: #ffffff;
+		}
+
+		.title {
+			font-size: 0.9em;
+			color: black;
+			font-weight: bold;
+		}
+
+		.information {
+			font-size: 0.8em;
+		}
+
+		a {
+			color: #000000;
+			font-size: 0.98em;
+			text-decoration: none;
+		}
+
+		a:hover {
+			color: #000000;
+			text-decoration: underline;
+		}
+
+		a:JustVisited {
+			color: #000000;
+			font-size: 0.9em;
+		}
+
+p {
+	font-size: 0.8em;
+	color: black;
+}
+
+.indent {
+	text-indent: 70px;
+}
+</style>
+
+<script language="javascript" type="text/javascript">
+	//$output = ob_get_clean();
+	//foreach($_SESSION['arr_visited_links'] as $link){
+		    //$_SESSION['arr_visited_links'] contains elements like 'href="test.php"'
+	//$output = str_replace($link, 'class="JustVisited" '. $link, $output);
+	//}
+
+$url = window.location.href
+
+function AbbeyCom() {
+ window.open ('https://myonlineaccounts2.abbeynational.co.uk/CentralLogonWeb/Logon?action=prepare');
+}
+
+
+function AbbeyComhelp() {
+ self.location.href='http://www.abbey.com/csgs/Satellite?c=GSAgrupAsset&cid=1127562757056&pagename=Abbey/GSAgrupAsset/GS_OpcionesMenuPie';
+}
+
+function Promo1() {
+ self.location.href='http://www.abbey.com/';
+}
+
+function Promo2() {
+ self.location.href='http://www.abbey.com/';
+}
+
+function Promo3() {
+ self.location.href='http://www.abbey.com/';
+}
+</script>
+</head>
+
+<body topmargin="0" leftmargin="0" >
+<table width="100%" border="1" cellspacing="0" cellpadding="0">
+<tr>
+<td align="left" valign="top">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+	<td align="left" valign="top">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" style="background-color: #ffffff; border-bottom: #777777 1px solid;">
+		<tr  style="border-bottom: #ffffff 1px solid;">
+		<td width="250" height="117" align="left" class="logo" ></a></td>
+		<td style="background-color: #ffffff; border-bottom: #ffffff 1px solid;">&nbsp;</td>
+		</tr>
+		</table>
+	</td>
+	</tr>
+
+	<tr>
+	<td width="100%" height="10">&nbsp;</td>
+	</tr>
+
+	<tr>
+	<td align="center" valign="top" class="outline" >
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: #777777 1px solid;">
+		<tr>
+		<td align="center" valign="middle"   class="greybck"><p class="message"><b>Lo sentimos, la página no ha sido encontrada.</b><br></p></td>
+		</tr>
+
+		<tr>
+		<td align="center">
+			<table width="100%" border="0"  cellspacing="0" cellpadding="0" class="greybck">
+			<tr>
+			<td width="10%">&nbsp;</td>
+			<td align="left">
+			<p><script type="text/javascript">document.write($url);</script></p>
+
+			<p class="message"><strong>Esto ha podido suceder porque: </strong>
+			<ul class="message">
+			<li type="square">Ha debido teclear de manera incorrecta la dirección internet. Por favor revise la dirección.</li>
+			<br><br>
+			<li type="square">Es posible que la pagina que está buscando haya sido borrada, o haya cambiado el nombre.</li>
+			</ul>
+			</p>
+			<br>
+			<p class="message">Puede acceder a la página principal <a href="https://www.bancosantander.es">  <strong>www.bancosantander.es</strong> </a>y seguir las referencias para buscar la información requerida.</p>
+			<p>&nbsp;</p>
+			</td>
+			<td width="10%">&nbsp;</td>
+			</tr>
+			</table>
+		</td>
+		</tr>
+		</table>
+	</td>
+	</tr>
+	</table>
+</td>
+</tr>
+</table>
+
+</body>
+</html>

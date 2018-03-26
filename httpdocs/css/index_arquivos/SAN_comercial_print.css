@@ -1,0 +1,23 @@
+body	{ color:#000; font:normal 68.8%/1.6em Verdana,sans-serif; line-height: 1; margin:0; padding:0;}
+
+#sidebarLeft,
+#sidebarLeft img,
+#SideBarMenu li a,
+#sidebarRight,
+#sidebarRight img,
+#sidebarRight *,
+#login,
+.headtop,
+#secondMenu,
+#menu,
+#footer ul,
+#linksPrintBack,
+#blockbtnLink,
+.generalBtn,
+.generalLink,
+#menuDcho			{ display:none}
+
+#content2Col,
+#content,
+#breadCrumb,
+#content2Colb			{ width:auto; float:none}

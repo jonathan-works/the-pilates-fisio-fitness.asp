@@ -1,0 +1,36 @@
+function getEstados()
+	dim estados
+	Set estados = Server.CreateObject("Scripting.Dictionary")
+	estados.add = "AC", "Acre"
+	estados.add = "AL", "Alagoas"
+	estados.add = "AM", "Amazonas"
+	estados.add = "AP", "Amapá"
+	estados.add = "BA", "Bahia"
+	estados.add = "CE", "Ceará"
+	estados.add = "DF", "Distro Federal"
+	estados.add = "ES", "Espírito Santo"
+	estados.add = "GO", "Goiás"
+	estados.add = "MA", "Maranhão"
+	estados.add = "MG", "Minas Gerais"
+	estados.add = "MS", "Mato Grosso do SUl"
+	estados.add = "MT", "Mato Grosso"
+	estados.add = "PA", "Pará"
+	estados.add = "PB", "Paraíba"
+	estados.add = "PE", "Pernambuco"
+	estados.add = "PI", "Piauí"
+	estados.add = "PR", "Paraná"
+	estados.add = "RJ", "Rio de Janeiro"
+	estados.add = "RN", "Rio Grande do Norte"
+	estados.add = "RO", "Rondônia"
+	estados.add = "RR", "Roraima"
+	estados.add = "RS", "Rio Grande do Sul"
+	estados.add = "SC", "Santa Catarina"
+	estados.add = "SE", "Sergipe"
+	estados.add = "SP", "São Paulo"
+	estados.add = "TO", "Tocatins"
+		
+	
+	set rs = cn.execute(str_sql)
+	set getEstados = estados
+	set rs = nothing
+end function

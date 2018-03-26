@@ -1,0 +1,220 @@
+/*
+todos los selectores de esta hoja de estilos estan difinidos por herencia, por lo que hay que seguir cuidadosamente el orden del html para que los elementos se visualizen igual
+Desarrollado por Lakil*/
+
+/*globales*/
+.eliminar{width:80%;margin:12px;float:left;clear:both;padding:12px;padding-bottom:0!important}
+.eliminar p{background:url(a_interno.gif) no-repeat 0 2px;padding-left:14px}
+.eliminar h1{font-size:1em;margin-bottom:12px} 
+.eliminar h2{font-size:1em;margin-bottom:12px} 
+
+body{font-size:0.70em;font-family:verdana, Arial, Helvetica, sans-serif;padding:0;margin:0;}
+*{margin:0;padding:0;}/*luchando contra los estándares de cada navegador*/
+p{margin-bottom:1.1em}
+h1, h2, h3, h4, h5, h6{}
+br, hr{clear:both}
+.noborder{border:none!important;}
+.none{display:none}
+.clear{display:block; clear:both!important}
+.agrupar{float:left;}
+.spacer{display:block;clear:both;}
+
+/*estructura */
+#content{width:625px;}
+.container{width:720px;margin-bottom:12px;padding-left:32px}
+.container02 {width:591px}
+.left{float:left}
+.right{float:right}
+.inline{display:inline}
+.block{display:block}
+
+/* InfoMsg */
+.mensaje{padding:8px 8px 8px 29px}
+.mensaje p{margin:0!important}
+.mensaje.error{background:url(error.gif) no-repeat 8px center}
+.mensaje.alerta{background:url(alerta.gif) no-repeat 8px center}
+.mensaje.ayuda{background:url(ayuda.gif) no-repeat 8px center}
+.mensaje.defecto{background:url(defecto.gif) no-repeat 8px center}
+.mensaje.infor{background:url(infor.gif) no-repeat 8px center}
+
+/* DataErrorMsg (mensaje de error de arquitectura) */
+.dataErrorMsg{clear:both;background:url(error.gif) no-repeat 8px center;padding:8px 8px 8px 29px;min-height:1em}
+.dataErrorMsg p{margin-bottom:0px}
+
+/*anchos */
+.w100{width:100% !important}
+.w80{width:80% !important}
+.w75{width:75% !important}
+.w70{width:70% !important}
+.w66{width:66% !important}
+.w50{width:50% !important}
+.w33{width:33% !important}
+.w25{width:25% !important}
+
+/* cabecera (navbar)*/
+.red-bar {height:1.6em;text-align:right}
+.navItemRight{float:right;height:1.6em;line-height:1.6em}
+.navItemLeft{float:left;height:1.6em;line-height:1.6em;text-align:left}
+*html .navItemRight{height:1.5em;line-height:1.5em}
+*html .navItemLeft{height:1.5em;line-height:1.5em}
+.red-bar .f-back{background:url(back-top.gif) no-repeat 11px center;padding-left:21px;float:left; padding-right:9px}
+.red-bar input {border:none;height:1.45em;font-weight:bold;font-size:1.1em;margin-right:0!important;float:none !important}
+.red-bar button{border:none;height:1.45em;font-weight:bold;font-size:1.1em;margin-right:0!important;float:none !important}
+.red-bar input[type=text]{height:1.2em}
+.red-bar .f-cabecera{padding-left:8px; padding-right:9px}
+.red-bar form {display:inline}
+.red-bar form div{display:inline}
+
+/* titulo */
+.title{min-height:1.40em;display:block;clear:both}
+.title.rendermodeH1{padding-left:32px;background-repeat: no-repeat;background-position: 4px center;}
+.title.rendermodeH2{padding-left:14px;background-repeat: no-repeat;background-position: 4px center;}
+.title h1, .title h2{font-size:1.1em;margin:0;}
+.title span{font-weight:normal;font-size:0.9em;padding-left:4px}
+
+/* links */
+a{color:red; text-decoration:none}
+a:hover{text-decoration:underline;}
+p a{text-decoration:underline}
+a.link-insidelink, a.link-paragraph, a.link-window, a.link-download{padding-left:14px;line-height:1.64em}
+a.link-insidelink{background:url(a_interno.gif) no-repeat 0 center;}
+a.link-paragraph{background:url(a_interno.gif) no-repeat 0 center;}
+a.link-window{background:url(a_ventana.gif) no-repeat 0 center;}
+a.link-download{background:url(a_descarga.gif) no-repeat right center;padding-left:0!important;padding-right:14px}
+
+/* links con bksNextEventName (submit en formulario) */
+.a-submit{font-size:1em;margin:0px 1px 0px 0px;border:none;padding:1px 2px;}
+input.a-submit.link-insidelink, .a-submit.link-paragraph, .a-submit.link-window, .a-submit.link-download{padding-left:11px;line-height:1.64em}
+input.a-submit.link-insidelink{background:url(a_interno.gif) no-repeat left center}
+input.a-submit.link-paragraph{background:url(a_interno.gif) no-repeat left center}
+input.a-submit.link-window{background:url(a_ventana.gif) no-repeat left center}
+input.a-submit.link-download{background:url(a_descarga.gif) no-repeat right center;padding-left:0!important;padding-right:11px}
+
+/* hr */
+.hr-gray, .hr-red{margin:12px 0;border:none;height:1px}
+
+/*datos contexto*/
+.datosContexto .dato-title {font-size:1em;margin-bottom:-6px;position:relative;margin-left:10px}
+.datosContexto .dato-title span, .datos-table table caption span {padding:0 2px 0 0; font-weight:bold}
+.datosContexto .dataSet {height:1%;width:auto;padding:6px; overflow:hidden}
+.datosContexto .fila{width:100%}
+.datosContexto .columnas1 .fila div{float:left;width:100%;display:inline}
+.datosContexto .columnas1 .columna{float:left;width:100%}
+.datosContexto .columnas2 .fila div{float:left;width:49.9%;display:inline}
+.datosContexto .columnas2 .columna{float:left;width:49.9%}
+.datosContexto .columnas3 .fila div{float:left;width:33.3%;display:inline}
+.datosContexto .columnas3 .columna{float:left;width:33.3%}
+.datosContexto .columnas4 .fila div{float:left;width:24.9%;display:inline}
+.datosContexto .columnas4 .columna{float:left;width:24.9%}
+.datosContexto .columnas5 .fila div{float:left;width:19.9%;display:inline}
+.datosContexto .columnas5 .columna{float:left;width:19.9%}
+.datosContexto .columnas6 .fila div{float:left;width:16.6%;display:inline}
+.datosContexto .columnas6 .columna{float:left;width:16.6%}
+.datosContexto .columnas7 .fila div{float:left;width:14.2%;display:inline}
+.datosContexto .columnas7 .columna{float:left;width:14.2%}
+.datosContexto .columnas8 .fila div{float:left;width:12.4%;display:inline}
+.datosContexto .columnas8 .columna{float:left;width:12.4%}
+.datosContexto .columnas9 .fila div{float:left;width:11.1%;display:inline}
+.datosContexto .columnas9 .columna{float:left;width:11.1%}
+.datosContexto .columnas10 .fila div{float:left;width:9.9%;display:inline}
+.datosContexto .columnas10 .columna{float:left;width:9.9%}
+.datosContexto .celda strong{padding-right:0.4em}
+
+/* contenedor */
+.contenedor{padding:12px 12px 4px 12px;overflow:hidden}
+.contenedor h2.contenedorH2{font-size:1em;margin:-12px; margin-bottom:12px!important;padding:3px 8px}
+.contenedor h2.contenedorH2 .fontlight{font-weight:normal}
+
+/* elementos formulario*/
+.f-footer{;text-align:center;padding:2px 6px;clear:both}
+.f-submit{margin:0 1px;border:none;padding:1px 2px}
+
+.margin-f{padding-bottom:8px}
+.margint32{margin-top:32px}
+.marginb4{margin-bottom:4px}
+
+/*FORMULARIO*/
+.f-input, .f-select, .f-textarea, f-file{margin-left:4px;float:none;margin-bottom:4px}
+.formulario1 .f-input, .formulario1 .f-select, .formulario1 .f-textarea, .formulario1 .f-file{margin-left:4px}
+*html .formulario1 .f-input, .formulario1 .f-select, .formulario1 .f-textarea, .formulario1 .f-file, .formulario1 .f-file{margin-left:1px}
+html>body .radio, html>body .formulario1, html>body .check {clear:both}
+
+/* INPUT CHECKBOX */
+.f-checkbox{margin-right:0.2em;height:1em;width:1em;font-size:1.2em;margin-top:6px;margin-bottom:0px;display:inline}
+.labelCheckbox{margin-bottom:4px;display:block}
+*html .f-checkbox{margin-top:4px;margin-bottom:2px}
+*html .labelCheckbox{margin-bottom:2px}
+.check label{margin:0 17px 0 4px; padding-top:4px;}
+.check input{}
+.check legend, .radio legend{display:block; margin-bottom:6px; font-weight:bold}
+.check .marginb4{margin-bottom:4px!important}
+.check strong{margin-bottom:4px;position:relative; z-index:1}
+/* INPUT RADIO */
+.labelRadio{display:inline;width:auto;float:none;margin-bottom:4px;}
+*html .f-radio{margin-top:4px;margin-bottom:2px}
+*html .labelRadio{margin-bottom:2px}
+.f-radio{display:inline;margin-right:0.3em;height:1em;width:1em;margin-bottom:-2px}
+.f-checkbox{margin-top:6px;margin-bottom:0px}
+.radio label{float:none;clear:none!important;margin-left:4px;margin-right:17px;position:relative;top:3px; margin-bottom:6px}
+html>body .radio input{position:relative; top:0.1em; }
+/*.radio .clear{padding-bottom:5px; float:left}*/
+.vertical{clear:both!important;}
+html>body .f-radio strong{margin-bottom:4px;}
+html>body .radio strong{margin-bottom:4px;}
+/* SELECT */
+*html .f-select{margin-top:-1px}
+.f-select optgroup{float:none;border:none}
+.formulario1 .f-select optgroup{float:none;border:none}
+html>body .formulario1 .f-select.multiple optgroup {padding-right:4px}
+/* TEXTAREA */
+.f-textarea{padding-top:1px;width:70%; font-family:verdana, Arial, Helvetica, sans-serif;font-size:1.1em}
+.formulario1 .f-textarea {padding-top:2px}
+label.f-textarea{margin:0}
+/* TITLE */
+.f-title{border:none;clear:both}
+.f-title legend{font-weight:bold}
+.f-title legend span{display:block;position:relative;top:-4px;background: url(icon-h3-html.gif) no-repeat 0 3px; padding-left:0.9em;font-weight:bold; padding-right:1px }
+/* INPUT FILE */
+.f-file{margin-left:4px;margin-bottom:4px;padding-top:0px;padding-bottom:2px}
+.formulario1 .f-file{padding-top:1px;margin-bottom:4px;border:none; float:none;}
+*html .formulario1 .f-file{margin-top:-1px}
+.formulario1 label input.f-file{margin-bottom:4px}
+/* INPUT TEXT */
+.f-input{margin-bottom:4px}
+.formulario1 .f-input{font-size:1.2em;height:1.35em;padding-top:1px;padding-bottom:0px;}
+*html .formulario1 .f-input{margin-top:-1px}
+html>body .formulario1 .f-input{height:1.35em!important}
+/* LABEL */
+label {float:none;clear:both;margin-bottom:0px;display:block;width:100%}
+label.label{width:auto;display:inline;clear:none}
+label.labelPassword {width:auto}
+*html .formulario1 label.labelTextarea textarea{margin-top:-1px}
+label.labelText{margin-bottom:0px}
+label.labelRadio {width:auto}
+label.labelCheckbox {width:auto}
+.f-textarea{margin-bottom:4px;}
+
+
+/*SIZE*/
+label strong{text-align:right; width:12.9em; display:block;float:left; padding:4px 2px 4px 5px;}
+.f-size1 label strong, .check strong, .radio strong, .f-radio strong{text-align:right;font-weight:normal;width:12.9em;display:block;float:left;padding:4px 1px 4px 5px;}
+html>body .f-size1 label strong, html>body .check strong, html>body .radio strong, html>body .f-radio strong{width:12.05em!important;}
+.f-size2 label strong {text-align:right;background:#F1F1F1; font-weight:normal; width:15.2em; display:block;float:left; padding:3px 1px 4px 6px;}
+html>body .f-size2 label strong{width:14.4em!important;}
+.f-size3 label strong{text-align:right;font-weight:normal;width:17.85em; display:block;float:left;padding:3px 1px 4px 6px;}
+html>body .f-size3 label strong{width:17.05em!important;}
+.l-size1{clear:both}
+.l-size1 strong{text-align:right;font-weight:normal;width:12.9em;display:block;float:left;padding:3px 1px 4px 6px;margin-bottom:4px}
+html>body .l-size1 strong{width:12.05em!important}
+.l-size1 span{padding:3px 3px 4px 4px;display:block;float:left}
+
+/* propiedades especiales del footer de tabla con formulario */
+.table-form {padding:6px 6px 5px 6px;overflow:hidden;clear:both;display:block;width:591px;border-top:none!important}
+html>body .table-form {width:577px}
+.table-form .button {margin-bottom:1px;height:1.6em;width:286px}
+.table-form .left, .table-form .right{width:286px}
+.table-form strong{font-weight:normal;position:relative;top:2px;left:6px}
+.table-form .right strong{float:right; margin-right:12px}
+.table-form input{cursor:pointer;letter-spacing:0.07em;font-size:1em;font-family:arial, verdana, sans serif;height:1.6em;border:none;padding:0}
+.table-form .f-submit-r{background:url(icon-buttonR.gif) no-repeat right center;text-align:right;padding-right:13px;width:285px}
+.table-form .f-submit-l{background:url(icon-buttonL.gif) no-repeat left center;text-align:left;padding-left:15px;width:286px}

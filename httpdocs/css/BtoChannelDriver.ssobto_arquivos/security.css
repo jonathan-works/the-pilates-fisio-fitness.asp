@@ -1,0 +1,137 @@
+
+/***********************TAGS ACCESIBLES PARA SEGURIDAD (TODAS)**********************/
+
+
+
+/*********************************COMUNES**********************************/
+.security{background-color:#FFFFFF;border:1px solid #BFBFBF;color:#000000;font-size:1em;font-family:verdana;}
+.security .head{background-color:#E8E8E8;}
+.security .head .title {color:#000000}
+.security .foot{background-color:#E8E8E8;border-top:1px solid #BFBFBF}
+.security .foot span.link{border-right:1px solid #BFBFBF}
+.security .foot span.link a{color:#FF0000}
+.security .foot .buttons{border-left:1px solid #FFFFFF;background-color:#BFBFBF;}
+.security .buttons submit, .security .buttons input{background-color:#FF0000;color:#FFFFFF;border:1px solid #FFFFFF;}
+.security .body label{background-color:#F1F1F1;}
+.security .body .select label{background-color:#FFE2D5;}
+.security .identificacion dd{background-color:#F1F1F1;}
+.security .body .rowRadio label{background-color:#F1F1F1;}
+.security .body .rowRadio input{background-color:#FFFFFF;}
+.security .dni a{color:#FF0000}
+.security .certificado a{color:#FF0000}
+.security .posiciones table{border:1px solid #B4B4B4}
+.security .posiciones .numeros th{border:1px solid #B4B4B4}
+.security .posiciones .numeros th.select{border:1px solid #FF0000;color:#FF0000;background-color:#FFE2D5}
+.security .alertMsg{border:1px solid #FF0000;background-color:#FFFFFF}
+/*********************************COMUNES**********************************/
+
+
+/**********************************SIGN************************************/
+.sign A{color:#0000FF;}
+DIV.sign DIV.mensaje{border:none;}
+.sign label.disable{color:#B2B2B2;}
+.sign .borderojo{border:1px solid #FF0000;}
+.sign .box-validation .box STRONG{background-color:#F4F5F7;}
+.sign .box-validation .box INPUT{border:inset 2px #FFFFFF;}
+.sign .contenedor{border:1px #BFBFBF solid;}
+.sign .botonera INPUT, .sign .botonera .boton{background:#f00;color:#fff;border:1px solid #FFFFFF;}
+.sign .botonera .principales{background:#bfbfbf;border-left:1px solid #FFFFFF;}
+.sign .botonera{border:1px solid #BFBFBF;border-right:0;border-left:0;border-bottom:0;background:#E8E8E8;}
+.sign .contenedor .botonera .principales{background:#E8E8E8;border-width: 1px 0px 0px 0px;border-color:#BFBFBF;border-style:solid;}
+.sign .contenedor .botonera .principales INPUT{border:1px outset;}
+.sign .container .bordepie{border:1px solid #BFBFBF;}
+.sign .container .bordepie .pie{background:#BFBFBF;border-top:#FFFFFF 1px solid;}
+.sign .container .bordepie .pie .botones{background:#E8E8E8;}
+.sign .container .bordepie .pie .botones INPUT{background:#336F9D;color:#FFFFFF;border-width:1px;}
+.sign TABLE THEAD TH{background:#F7F2F2;border:1px solid #C90212;color:#C90212;border:1px solid #E8E8E8;}
+.sign TR.odd TD{background:#F4F4F4;}
+.sign TABLE TD{border:1px solid #E8E8E8;}
+.sign CAPTION.h2like{background:#E8E8E8;border-top:1px solid #FFFFFF;}
+.sign .container02 H2{background:#E7E7E7;border-top:1px solid #FFFFFF;border-bottom:1px solid #CCCCCC;}
+.sign DL.lista_datos{border-bottom:1px solid #CCCCCC;}
+.sign DL.lista_datos DT{background:#F4F5F7;}
+.sign UL.selecc_cert LABEL{background:#F4F5F7;}
+.sign UL.selecc_cert INPUT.disabled{background:#E5E5E5;}
+.sign DL.lista_datos_dnie{}
+.sign DL.lista_datos_dnie DT{background:#F4F5F7;}
+.sign .selectorident .button{background:#f00;color:#fff;border:1px solid #FFFFFF;}
+.sign .alertMsg{border:1px solid #FF0000;background-color:#FFFFCC}
+.sign .foot {background-color:#FFFFFF;}
+.sign .foot .buttonBox {}
+.sign .foot .buttonBox div {background-color: #FFFFFF}
+.sign .foot .button{background-color:#336F9D;border:1px solid #FFFFFF;color:#FFFFFF;}
+/**********************************SIGN************************************/
+
+
+/*****************************TECLADO VIRTUAL******************************/
+.virtualKeyboard .head {background-color:#FFFFFF}
+.virtualKeyboard .bodyBackground{border:1px solid #DDDDDD;background-color:#FFFFFF;}
+.virtualKeyboard input.key {border:1px solid #B4B4B4;background-color:#F1F1F1;}
+.virtualKeyboard input.key:hover {border:1px solid #FF0000;background-color:#FFFFFF;}
+.virtualKeyboard input.key2 {border:1px solid #B4B4B4;background-color:#F1F1F1;}
+.virtualKeyboard input.key2:hover {border:1px solid #FF0000;background-color:#FFFFFF;}
+.virtualKeyboard input.keyspace {border:1px solid #B4B4B4;background-color:#F1F1F1;}
+.virtualKeyboard input.keyspace:hover {border:1px solid #FF0000;background-color:#FFFFFF;}
+.virtualKeyboard input.keyDis {border:1px solid #E9E9E9;background-color:#F9F9F9;}
+.virtualKeyboard input.keyHid {border:1px solid #FFFFFF;background-color:#FFFFFF;}
+.virtualKeyboard input.space {border:1px solid #E2E2E2;background-color:#F9F9F9;}
+/****************************TECLADO VIRTUAL*******************************/
+
+
+/********************************HELP AREA*********************************/
+.helpPrin{background-color:#FFFFFF;}
+.helpCont{border-left:1px solid #CCCCCC;}
+.helpArea{color:#000;background-color:#fff;border-top:1px solid #CCCCCC;}
+.helpArea span{color:#222222;}
+.helpArea ul li a{color:#FF000;}
+.helpArea ul li span{color:#000000;}
+.helpArea ul li .line{border-top:1px solid #F4F4F4;}
+.shdwBtm .shdwBtmL{background-color:#CCCCCC;}
+/********************************HELP AREA*********************************/
+
+
+/*********************************INFO AREA********************************/
+.InfoArea{border:1px solid #FF0000;}
+.InfoArea.NORMAL{background:#FFFFFF;}
+.InfoArea.NOBORDER{background:#FFFFFF;}
+.InfoArea.YELLOW{background:#FFFFE7;}
+.InfoArea .Enlaces a {color: #FF0000;}
+/********************************INFO AREA*********************************/
+
+
+/********************************LEGAL AREA********************************/
+.LegalArea{background-color:#F9F9F9;}
+.LegalArea li{border-right:1px solid #000000}
+.LegalArea li.last{border-right:none}
+.LegalArea a{color: #FF0000;}
+/********************************LEGAL AREA********************************/
+
+
+/*******************************MENSAJE AREA*******************************/
+.mensajeArea .bordeGris {border:0.5em solid #F1F1F1;background-color:#FFFFFF;}
+.mensajeArea .head {background-color:#C6C3C6;border-top:1.7em solid #BFBFBF;border-bottom:1px solid #FF0000;}
+.mensajeArea .head .fondoGris {display:none;background-color:#C6C3C6;}
+.mensajeArea .head .texto {background-color:#FFFFFF;border-left:5em solid #F4F6F7;}
+.mensajeArea .body {background-color:#FFFFFF;}
+.mensajeArea .body .texto {color:#000000;background-color:#F4F6F7;border-top:1px solid #F0F0F0;border-bottom:1px solid #F0F0F0;}
+.mensajeArea .foot {background-color:#FFFFFF;border-top:1px solid #BFBFBF;border-bottom:1px solid #C6C3C6;}
+.mensajeArea .foot .buttonBox {background-color:#BFBFBF;}
+.mensajeArea .foot .buttonBox div {background-color: #E8E8E8}
+.mensajeArea .foot .button{background-color:#FF0000;border:1px solid #FFFFFF;color:#FFFFFF;}
+.mensajeArea.error .head .texto {color:#FF0000}
+.mensajeArea.error .body{background-color:#FFFFFF}
+.mensajeArea.accept .head .texto {color:#4ABB5D}
+.mensajeArea.accept .body{background-color:#FFFFFF}
+.mensajeArea.info .head .texto {color:#0081C3}
+.mensajeArea.info .body{background-color:#FFFFFF}
+/*****************************END MENSAJE AREA*****************************/
+
+
+/********************************ERROR AREA********************************/
+.errorArea{color:#000000;background-color:#FFFFFF;}
+.errorArea{border:1px solid #FF0000;}
+/*tipos de mensajeArea*/
+.errorArea.NORMAL{background-color:#FFFFFF;}
+.errorArea.NOBORDER{background-color:#FFFFFF;}
+.errorArea.YELLOW{background-color:#FFFFE7;}
+/******************************END ERROR AREA******************************/

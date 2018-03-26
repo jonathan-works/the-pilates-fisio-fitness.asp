@@ -1,0 +1,2905 @@
+09.03.16 15:33:00 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+09.03.16 15:33:21 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+09.03.16 17:32:20 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+11.03.16 01:51:07 - 1040: Too many connections
+
+SQL: connect
+
+11.03.16 01:51:07 - 1040: Too many connections
+
+SQL: connect
+
+11.03.16 01:51:26 - 1040: Too many connections
+
+SQL: connect
+
+11.03.16 01:51:30 - 1040: Too many connections
+
+SQL: connect
+
+11.03.16 01:51:30 - 1040: Too many connections
+
+SQL: connect
+
+11.03.16 01:51:31 - 1040: Too many connections
+
+SQL: connect
+
+21.03.16 12:48:08 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+21.03.16 12:48:20 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+21.03.16 12:48:58 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+21.03.16 13:23:05 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+21.03.16 23:23:40 - 1406: Data too long for column 'host' at row 1
+
+SQL: INSERT INTO `lz_chat_archive` (`time`,`endtime`,`closed`,`chat_id`,`external_id`,`fullname`,`internal_id`,`group_id`,`area_code`,`html`,`plaintext`,`transcript_text`,`transcript_html`,`email`,`company`,`iso_language`,`iso_country`,`host`,`ip`,`gzip`,`transcript_sent`,`transcript_receiver`,`question`,`customs`,`subject`,`voucher_id`,`ref_url`) VALUES ('1458602619',0,0,'11854','816ccf2ef6','','','','','','','Hi %efullname%,\r\n\r\nThank you for chatting with us. Please find your chat transcript below.\r\n\r\nthepilatesfisiofitness.com.br / ThePilates\r\n\r\nDate: 2016-03-21\r\n-------------------------------------------------------------\r\nName: %efullname%\r\nEmail: %eemail%\r\nTopic: \r\n\r\nChat reference number: 11854\r\n-------------------------------------------------------------\r\n%transcript%\r\n-------------------------------------------------------------\r\n\r\nWould you like to give feedback?\r\nhttp://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTE4NTQ_','','','','PT-BR','CH','180.236.197.178.dynamic.wless.lssmb00p-cgnat.res.cust.swisscom.ch','178.197.xxx.xxx',0,0,'','','a:0:{}','thepilatesfisiofitness.com.br - Chat Transcript','','http://www.thepilatesfisiofitness.com.br/cursos.asp?cod_curso=2&cidade=saopaulo&gclid=CIWHmJj20ssCFQeVGwodItMFbw');
+
+22.03.16 14:56:44 - 1062: Duplicate entry 'e991b00a869f8298d89f368e4589366e' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('e991b00a869f8298d89f368e4589366e', '1458658604','e3e631586c', '0fab883f3a','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTE4NTU_&el=cHQtYnI_','',0,0);
+
+22.03.16 17:26:48 - 1040: Too many connections
+
+SQL: connect
+
+27.03.16 15:13:58 - 1040: Too many connections
+
+SQL: connect
+
+31.03.16 16:30:08 - 1062: Duplicate entry '3bae00c9e82f97ef8911c57a2edbd36e' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('3bae00c9e82f97ef8911c57a2edbd36e', '1459438208','a8e3a93107', '4b50c90299','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTE5MDU_&el=cHQtYnI_','',0,0);
+
+11.04.16 16:50:26 - 1366: Incorrect integer value: '' for column 'priority' at row 1
+
+SQL: INSERT INTO `lz_event_action_senders` (`id`, `pid`, `user_id`, `group_id`, `priority`) VALUES ('920faa314ff2ea409a3b34fad8e51ac4', '9c9293d8dbba9b149a92f5152e0b1d7a','','thepilates', '');
+
+15.04.16 16:52:01 - 1040: Too many connections
+
+SQL: connect
+
+15.04.16 16:52:06 - 1040: Too many connections
+
+SQL: connect
+
+15.04.16 16:52:08 - 1040: Too many connections
+
+SQL: connect
+
+21.04.16 17:01:00 - 1062: Duplicate entry 'e39f17556e47c25607511299f08ea347' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('e39f17556e47c25607511299f08ea347', '1461254460','648ee226e7', 'a638577d89','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTIxNzQ_&el=cHQtYnI_','',0,0);
+
+03.05.16 00:43:44 - 1062: Duplicate entry 'ccf5ca97145902872a6c847e90022ab4' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('ccf5ca97145902872a6c847e90022ab4', '1462232624','7fbfec9741', '0a42eaf07a','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTIyNzQ_&el=cHQtYnI_','',0,0);
+
+11.05.16 01:26:09 - 1062: Duplicate entry 'b02c7f1485aa5d67dbc455d12ee2087b' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('b02c7f1485aa5d67dbc455d12ee2087b', '1462926369','00eba7592c', '6a27fd5f66','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTIzODY_&el=cHQtYnI_','',0,0);
+
+12.05.16 16:44:27 - 1062: Duplicate entry 'b366434b99032b5db2a9abbf52cde4bb' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('b366434b99032b5db2a9abbf52cde4bb', '1463067867','70fcad6e00', '29f14a892f','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTI0MjA_&el=cHQtYnI_','',0,0);
+
+12.05.16 16:44:27 - 1062: Duplicate entry 'b366434b99032b5db2a9abbf52cde4bb' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('b366434b99032b5db2a9abbf52cde4bb', '1463067867','70fcad6e00', '29f14a892f','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTI0MjA_&el=cHQtYnI_','',0,0);
+
+12.05.16 16:44:27 - 1062: Duplicate entry 'b366434b99032b5db2a9abbf52cde4bb' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('b366434b99032b5db2a9abbf52cde4bb', '1463067867','70fcad6e00', '29f14a892f','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTI0MjA_&el=cHQtYnI_','',0,0);
+
+12.05.16 16:44:27 - 1062: Duplicate entry '5d2fc4dbcbd89d57e0e1826c07367f31' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('5d2fc4dbcbd89d57e0e1826c07367f31', '1463067867','70fcad6e00', '3fa1d85aac','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTI0MjA_&el=cHQtYnI_','',0,0);
+
+12.05.16 16:44:27 - 1062: Duplicate entry 'b366434b99032b5db2a9abbf52cde4bb' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('b366434b99032b5db2a9abbf52cde4bb', '1463067867','70fcad6e00', '29f14a892f','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTI0MjA_&el=cHQtYnI_','',0,0);
+
+12.05.16 16:44:28 - 1062: Duplicate entry '5d2fc4dbcbd89d57e0e1826c07367f31' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('5d2fc4dbcbd89d57e0e1826c07367f31', '1463067868','70fcad6e00', '3fa1d85aac','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTI0MjA_&el=cHQtYnI_','',0,0);
+
+12.05.16 16:44:28 - 1062: Duplicate entry '5d2fc4dbcbd89d57e0e1826c07367f31' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('5d2fc4dbcbd89d57e0e1826c07367f31', '1463067868','70fcad6e00', '3fa1d85aac','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTI0MjA_&el=cHQtYnI_','',0,0);
+
+12.05.16 16:44:28 - 1062: Duplicate entry '5d2fc4dbcbd89d57e0e1826c07367f31' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('5d2fc4dbcbd89d57e0e1826c07367f31', '1463067868','70fcad6e00', '3fa1d85aac','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTI0MjA_&el=cHQtYnI_','',0,0);
+
+12.05.16 19:30:45 - 1062: Duplicate entry 'e4c2e142f6d24a01bd2c4649ee30b369' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('e4c2e142f6d24a01bd2c4649ee30b369', '1463077845','70fcad6e00', '29f14a892f','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTI0Njc_&el=cHQtYnI_','',0,0);
+
+12.05.16 19:30:45 - 1062: Duplicate entry 'aeb0123c05e39166ec095a91e6c8d251' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('aeb0123c05e39166ec095a91e6c8d251', '1463077845','70fcad6e00', '3fa1d85aac','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTI0Njc_&el=cHQtYnI_','',0,0);
+
+12.05.16 19:30:46 - 1062: Duplicate entry 'aeb0123c05e39166ec095a91e6c8d251' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('aeb0123c05e39166ec095a91e6c8d251', '1463077846','70fcad6e00', '3fa1d85aac','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTI0Njc_&el=cHQtYnI_','',0,0);
+
+12.05.16 19:30:46 - 1062: Duplicate entry 'e4c2e142f6d24a01bd2c4649ee30b369' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('e4c2e142f6d24a01bd2c4649ee30b369', '1463077846','70fcad6e00', '29f14a892f','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTI0Njc_&el=cHQtYnI_','',0,0);
+
+12.05.16 19:30:46 - 1062: Duplicate entry 'e4c2e142f6d24a01bd2c4649ee30b369' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('e4c2e142f6d24a01bd2c4649ee30b369', '1463077846','70fcad6e00', '29f14a892f','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTI0Njc_&el=cHQtYnI_','',0,0);
+
+12.05.16 19:30:46 - 1062: Duplicate entry 'e4c2e142f6d24a01bd2c4649ee30b369' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('e4c2e142f6d24a01bd2c4649ee30b369', '1463077846','70fcad6e00', '29f14a892f','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTI0Njc_&el=cHQtYnI_','',0,0);
+
+12.05.16 19:30:46 - 1062: Duplicate entry 'aeb0123c05e39166ec095a91e6c8d251' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('aeb0123c05e39166ec095a91e6c8d251', '1463077846','70fcad6e00', '3fa1d85aac','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTI0Njc_&el=cHQtYnI_','',0,0);
+
+12.05.16 19:30:47 - 1062: Duplicate entry 'aeb0123c05e39166ec095a91e6c8d251' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('aeb0123c05e39166ec095a91e6c8d251', '1463077847','70fcad6e00', '3fa1d85aac','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTI0Njc_&el=cHQtYnI_','',0,0);
+
+12.05.16 20:06:08 - 1040: Too many connections
+
+SQL: connect
+
+12.05.16 20:07:14 - 1040: Too many connections
+
+SQL: connect
+
+12.05.16 20:07:14 - 1040: Too many connections
+
+SQL: connect
+
+12.05.16 20:07:15 - 1040: Too many connections
+
+SQL: connect
+
+12.05.16 20:07:31 - 1040: Too many connections
+
+SQL: connect
+
+12.05.16 20:07:32 - 1040: Too many connections
+
+SQL: connect
+
+18.05.16 19:58:51 - 1130: Host '172.16.1.18' is not allowed to connect to this MySQL server
+
+SQL: connect
+
+19.05.16 20:30:20 - 1062: Duplicate entry '4aaff1761d5a761bd2bac2cef6595316' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('4aaff1761d5a761bd2bac2cef6595316', '1463686220','447d9a68f5', '8c0c1c6841','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTI1NDc_&el=cHQtYnI_','',0,0);
+
+19.05.16 20:30:20 - 1062: Duplicate entry '4aaff1761d5a761bd2bac2cef6595316' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('4aaff1761d5a761bd2bac2cef6595316', '1463686220','447d9a68f5', '8c0c1c6841','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTI1NDc_&el=cHQtYnI_','',0,0);
+
+20.05.16 17:41:57 - 1062: Duplicate entry '4f306e7aca80be1d44e5a9378f8973b9' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('4f306e7aca80be1d44e5a9378f8973b9', '1463762517','9f5b9e949e', '51716c0cca','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTI1NjQ_&el=cHQtYnI_','',0,0);
+
+24.05.16 13:41:33 - 1062: Duplicate entry '951c3ca60935b78d4940a50998b28c6f' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('951c3ca60935b78d4940a50998b28c6f', '1464093693','19eddd504e', 'bdf3666837','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTI1OTY_&el=cHQtYnI_','',0,0);
+
+24.05.16 16:57:45 - 1062: Duplicate entry 'e658de6fda892a9d3e05c84b5ca2f318' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('e658de6fda892a9d3e05c84b5ca2f318', '1464105465','19eddd504e', 'bdf3666837','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTI2MDA_&el=cHQtYnI_','',0,0);
+
+24.05.16 16:57:53 - 1062: Duplicate entry 'e658de6fda892a9d3e05c84b5ca2f318' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('e658de6fda892a9d3e05c84b5ca2f318', '1464105473','19eddd504e', 'bdf3666837','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTI2MDA_&el=cHQtYnI_','',0,0);
+
+24.05.16 16:58:17 - 1062: Duplicate entry 'e658de6fda892a9d3e05c84b5ca2f318' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('e658de6fda892a9d3e05c84b5ca2f318', '1464105497','19eddd504e', 'bdf3666837','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTI2MDA_&el=cHQtYnI_','',0,0);
+
+25.05.16 21:18:07 - 1040: Too many connections
+
+SQL: connect
+
+25.05.16 21:18:08 - 1040: Too many connections
+
+SQL: connect
+
+25.05.16 21:18:09 - 1040: Too many connections
+
+SQL: connect
+
+26.05.16 19:53:08 - 1062: Duplicate entry '6c977a056417862921e8a6c005ca1037' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('6c977a056417862921e8a6c005ca1037', '1464288788','3383ff046a', 'd6213a214a','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTI2MjU_','',0,0);
+
+27.05.16 20:36:42 - 1062: Duplicate entry '366cabd3d89616508c5b4d2e88be9d84' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('366cabd3d89616508c5b4d2e88be9d84', '1464377802','00eba7592c', '7e0ee3bdb2','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTI2NTM_&el=cHQtYnI_','',0,0);
+
+30.05.16 15:01:17 - 1040: Too many connections
+
+SQL: connect
+
+30.05.16 15:01:17 - 1040: Too many connections
+
+SQL: connect
+
+30.05.16 15:01:18 - 1040: Too many connections
+
+SQL: connect
+
+30.05.16 15:01:32 - 1040: Too many connections
+
+SQL: connect
+
+30.05.16 15:01:55 - 1040: Too many connections
+
+SQL: connect
+
+30.05.16 15:01:55 - 1040: Too many connections
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('111','eF7FVktv2zgQ7k8pdG8iybJiy6c8Gy+Sxo3r5rhgJNomVha1JJXYDbq/fWf4EtU26WWBNeADhyPO65tvhhRZ8cKKeMaKJMuzPMknkxwPM1mMxvmoiEiRFC+ySOIiGo0mo/U6znISze6KkyL6yiRTXERFnqHOpIjOBH+WVMhopr/Dl++KJPGq51uiomKcojo8cMXFMxFVNPs00+cHwhRrNuacFZFWd4cvh5ZG1rc0h0veNLRE/VsqJdnQCybbmhxo/94t3T1qb/CcjOENQRpZCtaqyx1htbnIjaG5/S5Ji+ieypY3kn5hO2ql4MGpKLfsiZ4LShRawfBkMYULcOPJyNyDNZfuCHm5oGXNmv6bBGTzRlHRkNp+zHhjLcHd5f6Vu6y/C02g3L03kEPZ7loqCOTex4eJZzVdtTUn1T39u6NS9eo3RCptFgI3EoeM/CQy0SwE44KpA0aTohLg5LSueYkpMCmzYYKpzx3tqK3QcsufIZJHczkyef/Ku3JLtXuyAHPO7Dmp61t6Rsq//BeJfa5acKk0yOLi5bsp2bxhCp97YGpro5nagtc6g0uqECwWDVNMgpAKrbj3cw0yD0A4LhVRnfRlXAG2L4jS+A+P8NoLgBKc0EFgNfpm+fPu641N3FVX1w3Z0SBSAKWFohedILZ3LWkOQ73Fljf0B71OKr6TfY/QvQo0wOQN1JhWb/kFzyzJk9PRX2JKc0StZIJWmNWPgndtj8/gZkGEaqjwWbUU8BuL1wwcF4chT8RevhJ1VIwwqQASPBjCOSOSru5vbL7h7QXBYvt4c5QIggkJZRccMtwM83IKTXzOqzCfU/x6Az2vai1OQaC2tGWAHyrXwGB8zSBWKY9Kvjt6FA6pc+l6EpGU2LjnckkJMMZls2FYN4Mx3dxl3VWuRcHIqlG6B3TKxlDprVJtcXz8pvHjGlr0G6trclxCGY7abasLN0H2WlMhsCb/Q9aCDv5P8+KAiYqNgrYuBwSVxUmcpaDx3fAEQnPIbSB8oI8whuiik44ikB+fqICxccb3RjZGMqNC+RNQDiLVzaRh+G4MenZNLLE4Dg15ddVWUE0/nqxln5zci2C2KUg+ltBSH5CL+dqVynEfsoAbSD+nA1AMEbyz49f25rtfMd+qb9ofZr3O+fIgFd0ZBXyyV/jnxwb/bhk5KEFPoW6yeoqdSzPlbZyxN9WsucXXA2sqcPz9ifMOHuF1Z8airwTU5ppLTX846pPR5ChJ06P9fo9/C2qdCA10qFNu3zfCC3Jw60VYVH1Kq9FoOilDfaxnmPFxDr/Y6n+k/FwPSDecUcA7wO3hk+X/HKmSfDPMP1SZL+9M6UDl3tqE23u6GUaMSQb5DYdOUp2BJTz0YZzqzxGKeA3T71e3xk0c199grtyt15Iqm5jYOgj38+UitJhYT2RX2+yAJHPv4bhkJVZO7OzWEnQ3U2Y36HPWbxUnfnDYeM+3gu/o+3Hs6mnWGBjOBh6vQeMP8kTMhmedS6zmkm0aGObCteRJILplEvwtt555AJSCPNdurOGqglTWVEsg4CCuFCpwTeRpWdJWmXk4IB1779a/n+4netTvaOM6xCyfJQgcUt9YVtAZxzu/7+Ab0mw6YGo84jbx5YMB16C5rVN2XwtoJliGzNLnN3Jr/YrXlc9XYpyDTOGm+QozhjjIJtPYScIN1Nfj4gCLEyt/sar1u+FppwCabc1Cx7VZ2LsOZhPylTPLmmViz6A2mMuK+aO75mJw7Y6Dtc7pu/XNThC7uVn1z1h/v9L3C6D7ONzp0M2Fa4E0jo/SJA8pDWtF9ogrXZgp/GYGr1Z8ukNOCe+y/pO+ogmwtqksziJWjEBzBMbHNKfJ+nGSjtNxNpmsH7MkK0lcrksoWJzjwP0X7wxZmg==',1464616915);
+
+30.05.16 15:01:55 - 1040: Too many connections
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('118','eF5lkFsSwjAIRfeSFZCEUEoX46SRjBmf01Z/HPduOr6qfgKHy+VGQbkWga6IRUKyxMxz0Y3i2IqJ0sh1rEMx59M6TrqaStrqNJpKWC9mXgPPRCEQvJpPVPex7B6kmL/hRQ9fMpba1qKHp8znYhzSplx0eXE2igTuFx30dBy+zYWGmRzyA6U3mlXXfUzbJeypAW4g+F/dXHaTDotXbqam5Lq+JlXE17Z3YoKS2tyzCy4gc+7RYoqQcuIWgFxduwNEjWeZ',1464616915);
+
+30.05.16 15:02:03 - 1040: Too many connections
+
+SQL: connect
+
+30.05.16 15:04:06 - 1040: Too many connections
+
+SQL: connect
+
+30.05.16 15:04:37 - 1040: Too many connections
+
+SQL: connect
+
+30.05.16 15:05:08 - 1040: Too many connections
+
+SQL: connect
+
+30.05.16 15:07:13 - 1040: Too many connections
+
+SQL: connect
+
+30.05.16 15:07:43 - 1040: Too many connections
+
+SQL: connect
+
+30.05.16 15:07:51 - 1040: Too many connections
+
+SQL: connect
+
+30.05.16 15:09:24 - 1040: Too many connections
+
+SQL: connect
+
+30.05.16 15:09:46 - 1040: Too many connections
+
+SQL: connect
+
+30.05.16 15:10:16 - 1040: Too many connections
+
+SQL: connect
+
+30.05.16 15:10:49 - 1130: Host '172.16.1.18' is not allowed to connect to this MySQL server
+
+SQL: connect
+
+30.05.16 15:11:18 - 1040: Too many connections
+
+SQL: connect
+
+30.05.16 15:11:48 - 1040: Too many connections
+
+SQL: connect
+
+30.05.16 15:12:19 - 1040: Too many connections
+
+SQL: connect
+
+30.05.16 15:12:50 - 1040: Too many connections
+
+SQL: connect
+
+30.05.16 15:13:21 - 1040: Too many connections
+
+SQL: connect
+
+30.05.16 15:13:52 - 1040: Too many connections
+
+SQL: connect
+
+30.05.16 15:14:23 - 1040: Too many connections
+
+SQL: connect
+
+30.05.16 15:14:54 - 1040: Too many connections
+
+SQL: connect
+
+30.05.16 15:15:25 - 1040: Too many connections
+
+SQL: connect
+
+30.05.16 15:19:02 - 1040: Too many connections
+
+SQL: connect
+
+30.05.16 15:19:33 - 1040: Too many connections
+
+SQL: connect
+
+30.05.16 16:20:52 - 1040: Too many connections
+
+SQL: connect
+
+30.05.16 16:21:03 - 1040: Too many connections
+
+SQL: connect
+
+30.05.16 16:21:04 - 1040: Too many connections
+
+SQL: connect
+
+30.05.16 16:21:04 - 1040: Too many connections
+
+SQL: connect
+
+30.05.16 16:21:24 - 1040: Too many connections
+
+SQL: connect
+
+30.05.16 16:21:31 - 1040: Too many connections
+
+SQL: connect
+
+31.05.16 00:28:54 - 1062: Duplicate entry '8839c97f4e09ce16e7b70a014470151d' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('8839c97f4e09ce16e7b70a014470151d', '1464650934','459f820724', 'e46550f9e9','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTI3MDA_&el=cHQtYnI_','',0,0);
+
+31.05.16 03:59:51 - 2003: Can't connect to MySQL server on '172.16.1.17' (10061)
+
+SQL: connect
+
+31.05.16 03:59:53 - 2003: Can't connect to MySQL server on '172.16.1.17' (10061)
+
+SQL: connect
+
+31.05.16 03:59:55 - 2003: Can't connect to MySQL server on '172.16.1.17' (10061)
+
+SQL: connect
+
+31.05.16 19:58:19 - 1040: Too many connections
+
+SQL: connect
+
+31.05.16 19:58:19 - 1040: Too many connections
+
+SQL: connect
+
+31.05.16 19:58:19 - 1040: Too many connections
+
+SQL: connect
+
+31.05.16 19:58:20 - 1040: Too many connections
+
+SQL: connect
+
+31.05.16 19:58:20 - 1040: Too many connections
+
+SQL: connect
+
+01.06.16 16:03:03 - 1062: Duplicate entry 'ab7a5d2a061b4304aeda789074772aaf' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('ab7a5d2a061b4304aeda789074772aaf', '1464793383','459f820724', '4aa9a2b2f6','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTI3NTU_&el=cHQtYnI_','',0,0);
+
+01.06.16 16:19:37 - 1062: Duplicate entry 'e19ebedc4f64fc588f01cdc5bf54117f' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('e19ebedc4f64fc588f01cdc5bf54117f', '1464794377','459f820724', '4aa9a2b2f6','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTI3NTY_&el=cHQtYnI_','',0,0);
+
+01.06.16 20:37:32 - 1062: Duplicate entry '5f087d64c260946cdc2b094da085b40f' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('5f087d64c260946cdc2b094da085b40f', '1464809852','459f820724', '830559693d','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTI3NjI_&el=cHQtYnI_','',0,0);
+
+02.06.16 01:06:52 - 1062: Duplicate entry '269659d56d2240d1d48b8559ae7d7d76' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('269659d56d2240d1d48b8559ae7d7d76', '1464826012','ae19ac2fb9', '57d7c84c39','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTI3NDg_&el=cHQtYnI_','',0,0);
+
+04.06.16 21:04:03 - 1062: Duplicate entry 'f97ddddddfc67f3d4dd532793ebd0e7b' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('f97ddddddfc67f3d4dd532793ebd0e7b', '1465070643','f8a4d85836', '800ca81c7f','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTI3OTY_&el=cHQtYnI_','',0,0);
+
+09.06.16 18:38:42 - 1130: Host '172.16.1.18' is not allowed to connect to this MySQL server
+
+SQL: connect
+
+28.06.16 16:37:21 - 1040: Too many connections
+
+SQL: connect
+
+30.06.16 18:58:08 - 1040: Too many connections
+
+SQL: connect
+
+20.07.16 16:25:04 - 1062: Duplicate entry '64bd18c31a68db844a2d9c82fed5f9e6' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('64bd18c31a68db844a2d9c82fed5f9e6', '1469028304','ff1d9ef96f', '08b745f1d2','','http://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTMxMDk_&el=cHQtYnI_','',0,0);
+
+06.09.16 16:28:02 - 2003: Can't connect to MySQL server on '172.16.1.17' (10061)
+
+SQL: connect
+
+21.09.16 21:06:45 - 1062: Duplicate entry '86eec61a751bda5df266e882c4b4a482' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('86eec61a751bda5df266e882c4b4a482', '1474488405','d486dc533d', '851344fdb0','','https://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTM0NjU_&el=cHQtYnI_','',0,0);
+
+14.10.16 19:05:49 - 1040: Too many connections
+
+SQL: connect
+
+14.10.16 19:05:50 - 1040: Too many connections
+
+SQL: connect
+
+21.10.16 00:19:56 - 1040: Too many connections
+
+SQL: connect
+
+21.10.16 00:19:58 - 1040: Too many connections
+
+SQL: connect
+
+21.10.16 00:19:59 - 1040: Too many connections
+
+SQL: connect
+
+21.10.16 00:20:05 - 1040: Too many connections
+
+SQL: connect
+
+21.10.16 00:20:05 - 1040: Too many connections
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('111','eF4VybENwCAMBdFdPIExNpDvaQCBRJ0SsXtIee8qFHuBfSFozsyW2P7wFwlUwdiHLoi3iwvxjiggG2mE2YqYmJYymwbtlfvs5WFOQn4+XJ4YHw==',1477005605);
+
+26.10.16 04:01:19 - 1040: Too many connections
+
+SQL: connect
+
+26.10.16 04:01:20 - 1040: Too many connections
+
+SQL: connect
+
+26.10.16 04:01:24 - 1040: Too many connections
+
+SQL: connect
+
+27.10.16 04:09:31 - 1040: Too many connections
+
+SQL: connect
+
+27.10.16 04:09:32 - 1040: Too many connections
+
+SQL: connect
+
+27.10.16 04:09:32 - 1040: Too many connections
+
+SQL: connect
+
+10.11.16 22:28:05 - 1062: Duplicate entry 'c4a5f14906ee74f44d82eea486356db1' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('c4a5f14906ee74f44d82eea486356db1', '1478816885','618e0a6fdb', '3edacabeda','','https://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTM2NDA_&el=cHQtYnI_','',0,0);
+
+10.11.16 22:38:43 - 1062: Duplicate entry '9334058c6c26f834b38bd2e4e6d6303f' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('9334058c6c26f834b38bd2e4e6d6303f', '1478817523','618e0a6fdb', '3edacabeda','','https://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTM2NDE_&el=cHQtYnI_','',0,0);
+
+11.11.16 03:01:33 - 1040: Too many connections
+
+SQL: connect
+
+11.11.16 03:01:33 - 1040: Too many connections
+
+SQL: connect
+
+11.11.16 03:01:34 - 1040: Too many connections
+
+SQL: connect
+
+16.11.16 03:07:15 - 1040: Too many connections
+
+SQL: connect
+
+16.11.16 03:07:16 - 1040: Too many connections
+
+SQL: connect
+
+16.11.16 03:07:17 - 1040: Too many connections
+
+SQL: connect
+
+16.11.16 21:56:02 - 1062: Duplicate entry '4a3d502dbee83755b7a70196917b242f' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('4a3d502dbee83755b7a70196917b242f', '1479333362','665b84a9ba', '0bfeee29e3','','https://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTM2OTE_&el=cHQtYnI_','',0,0);
+
+17.11.16 23:17:05 - 23: Out of resources when opening file './chatlive/lz_visitor_data_regions.MYD' (Errcode: 24)
+
+SQL: SELECT *,`t1`.`id` AS `id` FROM `lz_visitors` AS `t1` INNER JOIN `lz_visitor_data_browsers` AS `t2` ON `t1`.`browser`=`t2`.`id` INNER JOIN `lz_visitor_data_cities` AS `t3` ON `t1`.`city`=`t3`.`id` INNER JOIN `lz_visitor_data_regions` AS `t4` ON `t1`.`region`=`t4`.`id` INNER JOIN `lz_visitor_data_isps` AS `t5` ON `t1`.`isp`=`t5`.`id` INNER JOIN `lz_visitor_data_systems` AS `t6` ON `t1`.`system`=`t6`.`id` INNER JOIN `lz_visitor_data_resolutions` AS `t8` ON `t1`.`resolution`=`t8`.`id` WHERE `last_active`>1479424535 ORDER BY `entrance` ASC;
+
+17.11.16 23:23:05 - 23: Out of resources when opening file './chatlive/lz_chat_files.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_chat_files` ORDER BY `created` ASC;
+
+17.11.16 23:23:05 - 23: Out of resources when opening file './chatlive/lz_chat_forwards.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_chat_forwards` WHERE `auto`=0 AND `closed`=0 AND `received`=0 ORDER BY `created` ASC;
+
+17.11.16 23:23:05 - 23: Out of resources when opening file './chatlive/lz_event_action_internals.MYD' (Errcode: 24)
+
+SQL: SELECT `trigger_id`,`action_id` FROM `lz_event_action_internals` INNER JOIN `lz_event_triggers` ON `lz_event_action_internals`.`trigger_id`=`lz_event_triggers`.`id` WHERE `lz_event_action_internals`.`receiver_user_id` = '6fdc21f' GROUP BY `action_id` ORDER BY `lz_event_action_internals`.`created` ASC
+
+17.11.16 23:23:05 - 23: Out of resources when opening file './chatlive/lz_event_action_internals.MYD' (Errcode: 24)
+
+SQL: DELETE FROM `lz_event_action_internals` WHERE `lz_event_action_internals`.`receiver_user_id` = '6fdc21f';
+
+17.11.16 23:23:05 - 23: Out of resources when opening file './chatlive/lz_chat_posts.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_chat_posts` WHERE `receiver`='6fdc21f' AND `received`=0 ORDER BY `time` ASC, `micro` ASC;
+
+17.11.16 23:23:05 - 23: Out of resources when opening file './chatlive/lz_resources.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_resources` WHERE `edited` > 0 AND `edited`<=1479424985 AND `parentid`<>100 ORDER BY `edited` ASC
+
+17.11.16 23:23:05 - 23: Out of resources when opening file './chatlive/lz_operator_status.MYD' (Errcode: 24)
+
+SQL: SELECT `status`,`time`,`confirmed` FROM `lz_operator_status` WHERE `internal_id`='thepilates' ORDER BY `time` DESC LIMIT 1;
+
+17.11.16 23:23:05 - 23: Out of resources when opening file './chatlive/lz_operator_status.MYD' (Errcode: 24)
+
+SQL: INSERT IGNORE INTO `lz_operator_status` (`time` ,`confirmed` ,`internal_id` ,`status`) VALUES ('1479424984','1479424985','thepilates','0');
+
+17.11.16 23:23:05 - 23: Out of resources when opening file './chatlive/lz_operator_status.MYD' (Errcode: 24)
+
+SQL: SELECT `status`,`time`,`confirmed` FROM `lz_operator_status` WHERE `internal_id`='6fdc21f' ORDER BY `time` DESC LIMIT 1;
+
+17.11.16 23:23:05 - 23: Out of resources when opening file './chatlive/lz_operator_status.MYD' (Errcode: 24)
+
+SQL: INSERT IGNORE INTO `lz_operator_status` (`time` ,`confirmed` ,`internal_id` ,`status`) VALUES ('1479424984','1479424985','6fdc21f','0');
+
+17.11.16 23:23:05 - 23: Out of resources when opening file './chatlive/lz_operator_status.MYD' (Errcode: 24)
+
+SQL: SELECT `status`,`time`,`confirmed` FROM `lz_operator_status` WHERE `internal_id`='everyoneintern' ORDER BY `time` DESC LIMIT 1;
+
+17.11.16 23:23:05 - 23: Out of resources when opening file './chatlive/lz_operator_status.MYD' (Errcode: 24)
+
+SQL: INSERT IGNORE INTO `lz_operator_status` (`time` ,`confirmed` ,`internal_id` ,`status`) VALUES ('1479424984','1479424985','everyoneintern','0');
+
+17.11.16 23:23:10 - 1016: Can't open file: './chatlive/lz_config.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_config` ORDER BY `key` ASC;
+
+17.11.16 23:23:10 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+17.11.16 23:23:10 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+17.11.16 23:23:10 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+17.11.16 23:23:10 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+17.11.16 23:23:10 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+17.11.16 23:23:10 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+17.11.16 23:23:10 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+17.11.16 23:23:10 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+17.11.16 23:23:10 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_stats_aggs` WHERE ((`day`<'17' AND `month`='11' AND `year`='2016') OR (`year`<'2016') OR (`month`<'11')) AND (`aggregated`=0 OR `aggregated`>1479424690) AND `month`>0 AND `day`>0 ORDER BY `year` ASC,`month` ASC,`day` ASC LIMIT 1;
+
+17.11.16 23:23:10 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_stats_aggs` WHERE `month`>0 AND ((`year`='2016' AND `month`<'11') OR (`year`<'2016')) AND (`aggregated`=0 OR `aggregated`>1479424690) AND `day`=0 ORDER BY `year` ASC,`month` ASC LIMIT 1;
+
+17.11.16 23:23:10 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_stats_aggs` WHERE `year`>0 AND `year`<'2016' AND `day`=0  AND `month`=0 AND (`aggregated`=0 OR `aggregated`>1479424690) ORDER BY `year` ASC LIMIT 1;
+
+17.11.16 23:23:10 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_stats_aggs` (`year`,`month`,`day`,`time`,`mtime`) VALUES ('2016','11','17',1479424990,042508200);
+
+17.11.16 23:23:10 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_stats_aggs` (`year`,`month`,`day`,`time`,`mtime`) VALUES ('2016','11','0',1479424990,043058300);
+
+17.11.16 23:23:10 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_stats_aggs` (`year`,`month`,`day`,`time`,`mtime`) VALUES ('2016','0','0',1479424990,043603900);
+
+17.11.16 23:23:10 - 1016: Can't open file: './chatlive/lz_mailboxes.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_mailboxes`;
+
+17.11.16 23:23:10 - 1016: Can't open file: './chatlive/lz_feedback_criteria_config.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_feedback_criteria_config` ORDER BY `type` ASC,`id` ASC;
+
+17.11.16 23:23:10 - 1016: Can't open file: './chatlive/lz_ticket_subs.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_ticket_subs` ORDER BY `id` ASC;
+
+17.11.16 23:23:10 - 1016: Can't open file: './chatlive/lz_goals.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_goals` ORDER BY `ind` ASC
+
+17.11.16 23:23:10 - 1016: Can't open file: './chatlive/lz_operators.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_operators`;
+
+17.11.16 23:23:10 - 1016: Can't open file: './chatlive/lz_groups.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_groups`;
+
+17.11.16 23:23:10 - 1016: Can't open file: './chatlive/lz_predefined.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_predefined`;
+
+17.11.16 23:23:10 - 1016: Can't open file: './chatlive/lz_signatures.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_signatures`;
+
+17.11.16 23:23:10 - 1016: Can't open file: './chatlive/lz_auto_replies.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_auto_replies` ORDER BY `search_type` DESC, `tags` ASC, `language` DESC;
+
+17.11.16 23:23:10 - 1016: Can't open file: './chatlive/lz_profile_pictures.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_profile_pictures`
+
+17.11.16 23:23:10 - 1016: Can't open file: './chatlive/lz_profiles.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_profiles`;
+
+17.11.16 23:23:10 - 23: Out of resources when opening file './chatlive/lz_visitor_data_browsers.MYD' (Errcode: 24)
+
+SQL: SELECT *,`t1`.`id` AS `id` FROM `lz_visitors` AS `t1` INNER JOIN `lz_visitor_data_browsers` AS `t2` ON `t1`.`browser`=`t2`.`id` INNER JOIN `lz_visitor_data_cities` AS `t3` ON `t1`.`city`=`t3`.`id` INNER JOIN `lz_visitor_data_regions` AS `t4` ON `t1`.`region`=`t4`.`id` INNER JOIN `lz_visitor_data_isps` AS `t5` ON `t1`.`isp`=`t5`.`id` INNER JOIN `lz_visitor_data_systems` AS `t6` ON `t1`.`system`=`t6`.`id` INNER JOIN `lz_visitor_data_resolutions` AS `t8` ON `t1`.`resolution`=`t8`.`id` WHERE `last_active`>1479424900 ORDER BY `entrance` ASC;
+
+17.11.16 23:23:10 - 23: Out of resources when opening file './chatlive/lz_operator_logins.MYD' (Errcode: 24)
+
+SQL: DELETE FROM `lz_operator_logins` WHERE `time`<1479338590 AND `ip`='201.43.28.203' AND `user_id`='thepilates';
+
+17.11.16 23:23:10 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('117','eF5NjMEOwyAMQ/8lX0BCYBA+ZgoUKi6bNHaZqv77CqderGdbtgrL0cWkLsiPyMQxLpOG+CigYuUYl8CmP0iLLOGk2e77eG7vV4WU1wRRoHyqfustPuE6pIVd7PwgAVd9xZYDOXIcQsuMXNSUVkI0xhOk8w8ieysG',1479424990);
+
+17.11.16 23:23:10 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('116','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',1479424990);
+
+17.11.16 23:23:10 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('115','eF5FjTsOwyAQRO+yJ+CztmGpE8lSPlUOAAgiJKfxurO4e8BJlGo0T/M0npD2QsIVkjhZVGjtURyTFJrg3oLgXJYtrZfCG3SBafoxBudJ0F4Pdk3M/pnA3bqvCGZ+cFo/0y/VnZ5evix/XKF9KhfabyHdVrq5QxqTzMGoQQ1oTA4oMXoRczRWiFGBq2/PXjdm',1479424990);
+
+17.11.16 23:23:11 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+17.11.16 23:23:11 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+17.11.16 23:23:11 - 1016: Can't open file: './chatlive/lz_visitor_data_systems.frm' (errno: 24)
+
+SQL: SELECT *,`t1`.`id` AS `id` FROM `lz_visitors` AS `t1` INNER JOIN `lz_visitor_data_browsers` AS `t2` ON `t1`.`browser`=`t2`.`id` INNER JOIN `lz_visitor_data_cities` AS `t3` ON `t1`.`city`=`t3`.`id` INNER JOIN `lz_visitor_data_regions` AS `t4` ON `t1`.`region`=`t4`.`id` INNER JOIN `lz_visitor_data_isps` AS `t5` ON `t1`.`isp`=`t5`.`id` INNER JOIN `lz_visitor_data_systems` AS `t6` ON `t1`.`system`=`t6`.`id` INNER JOIN `lz_visitor_data_resolutions` AS `t8` ON `t1`.`resolution`=`t8`.`id` WHERE `last_active`>1479424901 ORDER BY `entrance` ASC;
+
+17.11.16 23:23:11 - 1016: Can't open file: './chatlive/lz_operators.frm' (errno: 24)
+
+SQL: UPDATE `lz_operators` SET `client_system_id`='',`token`='' WHERE `system_id`='6fdc21f' LIMIT 1;
+
+17.11.16 23:23:11 - 1016: Can't open file: './chatlive/lz_operator_status.frm' (errno: 24)
+
+SQL: SELECT `status`,`time`,`confirmed` FROM `lz_operator_status` WHERE `internal_id`='thepilates' ORDER BY `time` DESC LIMIT 1;
+
+17.11.16 23:23:11 - 1016: Can't open file: './chatlive/lz_operator_status.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_operator_status` (`time` ,`confirmed` ,`internal_id` ,`status`) VALUES ('1479424990','1479424991','thepilates','2');
+
+17.11.16 23:23:11 - 1016: Can't open file: './chatlive/lz_operator_status.frm' (errno: 24)
+
+SQL: SELECT `status`,`time`,`confirmed` FROM `lz_operator_status` WHERE `internal_id`='6fdc21f' ORDER BY `time` DESC LIMIT 1;
+
+17.11.16 23:23:11 - 1016: Can't open file: './chatlive/lz_operator_status.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_operator_status` (`time` ,`confirmed` ,`internal_id` ,`status`) VALUES ('1479424990','1479424991','6fdc21f','2');
+
+17.11.16 23:23:11 - 1016: Can't open file: './chatlive/lz_operator_status.frm' (errno: 24)
+
+SQL: SELECT `status`,`time`,`confirmed` FROM `lz_operator_status` WHERE `internal_id`='everyoneintern' ORDER BY `time` DESC LIMIT 1;
+
+17.11.16 23:23:11 - 1016: Can't open file: './chatlive/lz_operator_status.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_operator_status` (`time` ,`confirmed` ,`internal_id` ,`status`) VALUES ('1479424990','1479424991','everyoneintern','2');
+
+17.11.16 23:23:11 - 1016: Can't open file: './chatlive/lz_chat_files.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_chat_files` ORDER BY `created` ASC;
+
+17.11.16 23:23:11 - 1016: Can't open file: './chatlive/lz_operators.frm' (errno: 24)
+
+SQL: UPDATE `lz_operators` SET `first_active`='1479424726',`visitor_file_sizes`='a:0:{}',`groups_status`='a:0:{}',`reposts`='a:0:{}',`typing`='',`level`='1',`status`='2',`ip`='201.43.xxx.xxx',`lweb`='0',`lapp`='0',`last_active`='1479424991',`last_chat_allocation`=0 WHERE `system_id`='6fdc21f' LIMIT 1; 
+
+17.11.16 23:23:11 - 23: Out of resources when opening file './chatlive/lz_groups.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_groups`;
+
+17.11.16 23:23:11 - 23: Out of resources when opening file './chatlive/lz_predefined.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_predefined`;
+
+17.11.16 23:23:11 - 23: Out of resources when opening file './chatlive/lz_visitor_data_browsers.MYD' (Errcode: 24)
+
+SQL: SELECT *,`t1`.`id` AS `id` FROM `lz_visitors` AS `t1` INNER JOIN `lz_visitor_data_browsers` AS `t2` ON `t1`.`browser`=`t2`.`id` INNER JOIN `lz_visitor_data_cities` AS `t3` ON `t1`.`city`=`t3`.`id` INNER JOIN `lz_visitor_data_regions` AS `t4` ON `t1`.`region`=`t4`.`id` INNER JOIN `lz_visitor_data_isps` AS `t5` ON `t1`.`isp`=`t5`.`id` INNER JOIN `lz_visitor_data_systems` AS `t6` ON `t1`.`system`=`t6`.`id` INNER JOIN `lz_visitor_data_resolutions` AS `t8` ON `t1`.`resolution`=`t8`.`id` WHERE `last_active`>1479424901 ORDER BY `entrance` ASC;
+
+17.11.16 23:23:11 - 23: Out of resources when opening file './chatlive/lz_operator_logins.MYD' (Errcode: 24)
+
+SQL: SELECT `id`,`password` FROM `lz_operator_logins` WHERE `ip`='201.43.28.203' AND `user_id`='thepilates' AND `time` > '1479338591';
+
+17.11.16 23:23:12 - 23: Out of resources when opening file './chatlive/lz_chat_files.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_chat_files` ORDER BY `created` ASC;
+
+17.11.16 23:23:12 - 23: Out of resources when opening file './chatlive/lz_chat_forwards.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_chat_forwards` WHERE `auto`=0 AND `closed`=0 AND `received`=0 ORDER BY `created` ASC;
+
+17.11.16 23:23:12 - 23: Out of resources when opening file './chatlive/lz_event_action_internals.MYD' (Errcode: 24)
+
+SQL: SELECT `trigger_id`,`action_id` FROM `lz_event_action_internals` INNER JOIN `lz_event_triggers` ON `lz_event_action_internals`.`trigger_id`=`lz_event_triggers`.`id` WHERE `lz_event_action_internals`.`receiver_user_id` = '6fdc21f' GROUP BY `action_id` ORDER BY `lz_event_action_internals`.`created` ASC
+
+17.11.16 23:23:17 - 23: Out of resources when opening file './chatlive/lz_chat_files.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_chat_files` ORDER BY `created` ASC;
+
+17.11.16 23:23:17 - 23: Out of resources when opening file './chatlive/lz_chat_forwards.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_chat_forwards` WHERE `auto`=0 AND `closed`=0 AND `received`=0 ORDER BY `created` ASC;
+
+17.11.16 23:23:17 - 23: Out of resources when opening file './chatlive/lz_event_action_internals.MYD' (Errcode: 24)
+
+SQL: SELECT `trigger_id`,`action_id` FROM `lz_event_action_internals` INNER JOIN `lz_event_triggers` ON `lz_event_action_internals`.`trigger_id`=`lz_event_triggers`.`id` WHERE `lz_event_action_internals`.`receiver_user_id` = '6fdc21f' GROUP BY `action_id` ORDER BY `lz_event_action_internals`.`created` ASC
+
+17.11.16 23:23:17 - 23: Out of resources when opening file './chatlive/lz_event_action_internals.MYD' (Errcode: 24)
+
+SQL: DELETE FROM `lz_event_action_internals` WHERE `lz_event_action_internals`.`receiver_user_id` = '6fdc21f';
+
+17.11.16 23:23:17 - 1016: Can't open file: './chatlive/lz_chat_posts.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_chat_posts` WHERE `receiver`='6fdc21f' AND `received`=0 ORDER BY `time` ASC, `micro` ASC;
+
+17.11.16 23:23:17 - 1016: Can't open file: './chatlive/lz_resources.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_resources` WHERE `edited` > 0 AND `edited`<=1479424997 AND `parentid`<>100 ORDER BY `edited` ASC
+
+17.11.16 23:23:17 - 1016: Can't open file: './chatlive/lz_feedbacks.frm' (errno: 24)
+
+SQL: SELECT t1.*,t2.* FROM `lz_feedbacks` AS `t1` INNER JOIN `lz_feedback_criteria` AS `t2` ON `t1`.`id`=`t2`.`fid` INNER JOIN `lz_operators` AS `t3` ON `t1`.`operator_id`=`t3`.`system_id` AND `resource_id`='' GROUP BY `fid` ORDER BY LOWER(`t3`.`fullname`) DESC LIMIT 0,20;
+
+17.11.16 23:23:17 - 1016: Can't open file: './chatlive/lz_feedbacks.frm' (errno: 24)
+
+SQL: SELECT COUNT(*) AS `total`,(SELECT COUNT(*) FROM (SELECT t1.*,t2.* FROM `lz_feedbacks` AS `t1` INNER JOIN `lz_feedback_criteria` AS `t2` ON `t1`.`id`=`t2`.`fid` INNER JOIN `lz_operators` AS `t3` ON `t1`.`operator_id`=`t3`.`system_id` AND `resource_id`='' GROUP BY `fid` ORDER BY LOWER(`t3`.`fullname`) DESC ) AS `stb`) AS `totalquery` FROM `lz_feedbacks` WHERE `resource_id`=''
+
+17.11.16 23:23:17 - 1016: Can't open file: './chatlive/lz_tickets.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_tickets` LEFT JOIN `lz_ticket_editors` AS `te` ON `lz_tickets`.`id`=`te`.`ticket_id` LEFT JOIN `lz_ticket_watcher` AS `twl` ON `lz_tickets`.`id`=`twl`.`ticket_id` WHERE `deleted`=0 AND (`te`.`status` IS NULL OR `te`.`status`=0) GROUP BY `lz_tickets`.`id` ORDER BY `lz_tickets`.`last_update` DESC LIMIT 0,20;
+
+17.11.16 23:23:17 - 1016: Can't open file: './chatlive/lz_tickets.frm' (errno: 24)
+
+SQL: SELECT COUNT(*) AS `total`,(SELECT COUNT(*) FROM (SELECT `lz_tickets`.`id` FROM `lz_tickets`) AS `sta`) AS `totalperm`,(SELECT COUNT(*) FROM (SELECT `lz_tickets`.`id` FROM `lz_tickets` LEFT JOIN `lz_ticket_editors` AS `te` ON `lz_tickets`.`id`=`te`.`ticket_id` LEFT JOIN `lz_ticket_watcher` AS `twl` ON `lz_tickets`.`id`=`twl`.`ticket_id` WHERE `deleted`=0 AND (`te`.`status` IS NULL OR `te`.`status`=0) GROUP BY `lz_tickets`.`id` ORDER BY `lz_tickets`.`last_update` DESC) AS `stb`) AS `totalquery`,(SELECT COUNT(*) FROM `lz_tickets` LEFT JOIN `lz_ticket_editors` AS `te` ON `lz_tickets`.`id`=`te`.`ticket_id` WHERE `deleted`=0) AS `totalall`,(SELECT COUNT(*) FROM `lz_tickets` LEFT JOIN `lz_ticket_editors` AS `te` ON `lz_tickets`.`id`=`te`.`ticket_id` WHERE `deleted`=0 AND `status`<=1 AND `editor_id`='6fdc21f') AS `totalmy`,(SELECT COUNT(*) FROM `lz_tickets` LEFT JOIN `lz_ticket_editors` AS `te` ON `lz_tickets`.`id`=`te`.`ticket_id` WHERE `deleted`=0 AND `target_group_id` IN ('thepilates') AND (`te`.`status`<=1 OR `te`.`status` IS NULL)) AS `totalmygroups`,(SELECT COUNT(*) FROM `lz_tickets` LEFT JOIN `lz_ticket_editors` AS `te` ON `lz_tickets`.`id`=`te`.`ticket_id` WHERE `deleted`=0 AND (`te`.`status`<=0 OR `te`.`status` IS NULL)) AS `totalst0`,(SELECT COUNT(*) FROM `lz_tickets` LEFT JOIN `lz_ticket_editors` AS `te` ON `lz_tickets`.`id`=`te`.`ticket_id` WHERE `deleted`=0 AND `status`=1) AS `totalst1`,(SELECT COUNT(*) FROM `lz_tickets` LEFT JOIN `lz_ticket_editors` AS `te` ON `lz_tickets`.`id`=`te`.`ticket_id` WHERE `deleted`=0 AND `status`=2) AS `totalst2`,(SELECT COUNT(*) FROM `lz_tickets` LEFT JOIN `lz_ticket_editors` AS `te` ON `lz_tickets`.`id`=`te`.`ticket_id` WHERE `deleted`=0 AND `status`=3) AS `totalst3` FROM `lz_tickets` WHERE `deleted`=0;
+
+17.11.16 23:23:17 - Invalid query:SELECT * FROM `lz_tickets` LEFT JOIN `lz_ticket_editors` AS `te` ON `lz_tickets`.`id`=`te`.`ticket_id` LEFT JOIN `lz_ticket_watcher` AS `twl` ON `lz_tickets`.`id`=`twl`.`ticket_id` WHERE `deleted`=0 AND (`te`.`status` IS NULL OR `te`.`status`=0) GROUP BY `lz_tickets`.`id` ORDER BY `lz_tickets`.`last_update` DESC LIMIT 0,20;
+17.11.16 23:23:17 - 1016: Can't open file: './chatlive/lz_operator_status.frm' (errno: 24)
+
+SQL: SELECT `status`,`time`,`confirmed` FROM `lz_operator_status` WHERE `internal_id`='thepilates' ORDER BY `time` DESC LIMIT 1;
+
+17.11.16 23:23:17 - 1016: Can't open file: './chatlive/lz_operator_status.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_operator_status` (`time` ,`confirmed` ,`internal_id` ,`status`) VALUES ('1479424996','1479424997','thepilates','0');
+
+17.11.16 23:23:17 - 1016: Can't open file: './chatlive/lz_operator_status.frm' (errno: 24)
+
+SQL: SELECT `status`,`time`,`confirmed` FROM `lz_operator_status` WHERE `internal_id`='6fdc21f' ORDER BY `time` DESC LIMIT 1;
+
+17.11.16 23:23:17 - 1016: Can't open file: './chatlive/lz_operator_status.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_operator_status` (`time` ,`confirmed` ,`internal_id` ,`status`) VALUES ('1479424996','1479424997','6fdc21f','0');
+
+17.11.16 23:23:17 - 1016: Can't open file: './chatlive/lz_operator_status.frm' (errno: 24)
+
+SQL: SELECT `status`,`time`,`confirmed` FROM `lz_operator_status` WHERE `internal_id`='everyoneintern' ORDER BY `time` DESC LIMIT 1;
+
+17.11.16 23:23:17 - 1016: Can't open file: './chatlive/lz_operator_status.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_operator_status` (`time` ,`confirmed` ,`internal_id` ,`status`) VALUES ('1479424996','1479424997','everyoneintern','0');
+
+20.11.16 00:09:56 - 1016: Can't open file: './chatlive/lz_event_triggers.frm' (errno: 24)
+
+SQL: SELECT `trigger_id`,`action_id` FROM `lz_event_action_internals` INNER JOIN `lz_event_triggers` ON `lz_event_action_internals`.`trigger_id`=`lz_event_triggers`.`id` WHERE `lz_event_action_internals`.`receiver_user_id` = '6fdc21f' GROUP BY `action_id` ORDER BY `lz_event_action_internals`.`created` ASC
+
+20.11.16 00:10:09 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+22.11.16 12:52:02 - 1016: Can't open file: './chatlive/lz_event_triggers.frm' (errno: 24)
+
+SQL: SELECT `trigger_id`,`action_id` FROM `lz_event_action_internals` INNER JOIN `lz_event_triggers` ON `lz_event_action_internals`.`trigger_id`=`lz_event_triggers`.`id` WHERE `lz_event_action_internals`.`receiver_user_id` = '6fdc21f' GROUP BY `action_id` ORDER BY `lz_event_action_internals`.`created` ASC
+
+22.11.16 12:52:02 - 1016: Can't open file: './chatlive/lz_chat_posts.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_chat_posts` WHERE `receiver`='6fdc21f' AND `received`=0 ORDER BY `time` ASC, `micro` ASC;
+
+22.11.16 12:52:02 - 1016: Can't open file: './chatlive/lz_resources.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_resources` WHERE `edited` > 0 AND `edited`<=1479819122 AND `parentid`<>100 ORDER BY `edited` ASC
+
+22.11.16 12:52:02 - 1016: Can't open file: './chatlive/lz_operator_status.frm' (errno: 24)
+
+SQL: SELECT `status`,`time`,`confirmed` FROM `lz_operator_status` WHERE `internal_id`='thepilates' ORDER BY `time` DESC LIMIT 1;
+
+22.11.16 12:52:02 - 1016: Can't open file: './chatlive/lz_operator_status.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_operator_status` (`time` ,`confirmed` ,`internal_id` ,`status`) VALUES ('1479819121','1479819122','thepilates','0');
+
+22.11.16 12:52:02 - 1016: Can't open file: './chatlive/lz_operator_status.frm' (errno: 24)
+
+SQL: SELECT `status`,`time`,`confirmed` FROM `lz_operator_status` WHERE `internal_id`='6fdc21f' ORDER BY `time` DESC LIMIT 1;
+
+22.11.16 12:52:02 - 1016: Can't open file: './chatlive/lz_operator_status.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_operator_status` (`time` ,`confirmed` ,`internal_id` ,`status`) VALUES ('1479819121','1479819122','6fdc21f','0');
+
+22.11.16 12:52:02 - 1016: Can't open file: './chatlive/lz_operator_status.frm' (errno: 24)
+
+SQL: SELECT `status`,`time`,`confirmed` FROM `lz_operator_status` WHERE `internal_id`='everyoneintern' ORDER BY `time` DESC LIMIT 1;
+
+22.11.16 12:52:02 - 1016: Can't open file: './chatlive/lz_operator_status.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_operator_status` (`time` ,`confirmed` ,`internal_id` ,`status`) VALUES ('1479819121','1479819122','everyoneintern','0');
+
+23.11.16 22:02:33 - 1016: Can't open file: './chatlive/lz_config.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_config` ORDER BY `key` ASC;
+
+23.11.16 22:02:33 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 22:02:33 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 22:02:33 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 22:02:33 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 22:02:33 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 22:02:33 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 22:02:33 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 22:02:33 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 22:02:33 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_stats_aggs` WHERE ((`day`<'23' AND `month`='11' AND `year`='2016') OR (`year`<'2016') OR (`month`<'11')) AND (`aggregated`=0 OR `aggregated`>1479938253) AND `month`>0 AND `day`>0 ORDER BY `year` ASC,`month` ASC,`day` ASC LIMIT 1;
+
+23.11.16 22:02:33 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_stats_aggs` WHERE `month`>0 AND ((`year`='2016' AND `month`<'11') OR (`year`<'2016')) AND (`aggregated`=0 OR `aggregated`>1479938253) AND `day`=0 ORDER BY `year` ASC,`month` ASC LIMIT 1;
+
+23.11.16 22:02:33 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_stats_aggs` WHERE `year`>0 AND `year`<'2016' AND `day`=0  AND `month`=0 AND (`aggregated`=0 OR `aggregated`>1479938253) ORDER BY `year` ASC LIMIT 1;
+
+23.11.16 22:02:33 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_stats_aggs` (`year`,`month`,`day`,`time`,`mtime`) VALUES ('2016','11','23',1479938553,075392200);
+
+23.11.16 22:02:33 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_stats_aggs` (`year`,`month`,`day`,`time`,`mtime`) VALUES ('2016','11','0',1479938553,075930900);
+
+23.11.16 22:02:33 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_stats_aggs` (`year`,`month`,`day`,`time`,`mtime`) VALUES ('2016','0','0',1479938553,076482000);
+
+23.11.16 22:02:33 - 1016: Can't open file: './chatlive/lz_mailboxes.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_mailboxes`;
+
+23.11.16 22:02:33 - 1016: Can't open file: './chatlive/lz_feedback_criteria_config.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_feedback_criteria_config` ORDER BY `type` ASC,`id` ASC;
+
+23.11.16 22:02:33 - 1016: Can't open file: './chatlive/lz_ticket_subs.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_ticket_subs` ORDER BY `id` ASC;
+
+23.11.16 22:02:33 - 1016: Can't open file: './chatlive/lz_goals.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_goals` ORDER BY `ind` ASC
+
+23.11.16 22:02:33 - 1016: Can't open file: './chatlive/lz_operators.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_operators`;
+
+23.11.16 22:02:33 - 1016: Can't open file: './chatlive/lz_groups.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_groups`;
+
+23.11.16 22:02:33 - 1016: Can't open file: './chatlive/lz_predefined.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_predefined`;
+
+23.11.16 22:02:33 - 1016: Can't open file: './chatlive/lz_signatures.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_signatures`;
+
+23.11.16 22:02:33 - 1016: Can't open file: './chatlive/lz_auto_replies.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_auto_replies` ORDER BY `search_type` DESC, `tags` ASC, `language` DESC;
+
+23.11.16 22:02:33 - 1016: Can't open file: './chatlive/lz_profile_pictures.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_profile_pictures`
+
+23.11.16 22:02:33 - 1016: Can't open file: './chatlive/lz_profiles.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_profiles`;
+
+23.11.16 22:02:33 - 1016: Can't open file: './chatlive/lz_filters.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_filters`;
+
+23.11.16 22:02:33 - 1016: Can't open file: './chatlive/lz_visitors.frm' (errno: 24)
+
+SQL: SELECT *,`t1`.`id` AS `id` FROM `lz_visitors` AS `t1` INNER JOIN `lz_visitor_data_browsers` AS `t2` ON `t1`.`browser`=`t2`.`id` INNER JOIN `lz_visitor_data_cities` AS `t3` ON `t1`.`city`=`t3`.`id` INNER JOIN `lz_visitor_data_regions` AS `t4` ON `t1`.`region`=`t4`.`id` INNER JOIN `lz_visitor_data_isps` AS `t5` ON `t1`.`isp`=`t5`.`id` INNER JOIN `lz_visitor_data_systems` AS `t6` ON `t1`.`system`=`t6`.`id` INNER JOIN `lz_visitor_data_resolutions` AS `t8` ON `t1`.`resolution`=`t8`.`id` WHERE `last_active`>1479938463 ORDER BY `entrance` ASC;
+
+23.11.16 22:02:33 - 1016: Can't open file: './chatlive/lz_operator_logins.frm' (errno: 24)
+
+SQL: DELETE FROM `lz_operator_logins` WHERE `time`<1479852153 AND `ip`='201.43.28.203' AND `user_id`='thepilates';
+
+23.11.16 22:02:33 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('117','eF5NjEEOwyAQA/+yL4CFJWAeUwGBiEsrlV6qKH9v4NSLNbZlJ1icHSp2aLuFYLyImSYOuABKMDjHLbSnL8VFhrdJsz2O8dhfz0oxr4nWoPKu6VP/4ovuQ17YYeYHg6S6qlv2LCzW+5attiWp0ooPSjmmeP0AJ6QrEQ==',1479938553);
+
+23.11.16 22:02:33 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('116','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',1479938553);
+
+23.11.16 22:02:33 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('115','eF5FjUsKAyEQRO/SJ/A7o93rBAL5rHIAFQ3CZDM9u8G7R/Mhq6Ie9aiABveKgipKM3uvnbV6FGKUQiPceiAc67Ll9Vx5gyEwzj/GQAEF7u3NLpk5PDLQdfgK4cR3zutn+qV60MMz1OWPG/RPRbH/VtR9pbtr85RliU5ZZY1zJRppUhCpJOeFmBRQewHS0jdr',1479938553);
+
+23.11.16 23:21:56 - 1016: Can't open file: './chatlive/lz_config.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_config` ORDER BY `key` ASC;
+
+23.11.16 23:21:56 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:21:56 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:21:56 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:21:56 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:21:56 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:21:56 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:21:56 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:21:56 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:21:56 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_stats_aggs` WHERE ((`day`<'23' AND `month`='11' AND `year`='2016') OR (`year`<'2016') OR (`month`<'11')) AND (`aggregated`=0 OR `aggregated`>1479943016) AND `month`>0 AND `day`>0 ORDER BY `year` ASC,`month` ASC,`day` ASC LIMIT 1;
+
+23.11.16 23:21:56 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_stats_aggs` WHERE `month`>0 AND ((`year`='2016' AND `month`<'11') OR (`year`<'2016')) AND (`aggregated`=0 OR `aggregated`>1479943016) AND `day`=0 ORDER BY `year` ASC,`month` ASC LIMIT 1;
+
+23.11.16 23:21:56 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_stats_aggs` WHERE `year`>0 AND `year`<'2016' AND `day`=0  AND `month`=0 AND (`aggregated`=0 OR `aggregated`>1479943016) ORDER BY `year` ASC LIMIT 1;
+
+23.11.16 23:21:56 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_stats_aggs` (`year`,`month`,`day`,`time`,`mtime`) VALUES ('2016','11','23',1479943316,055730600);
+
+23.11.16 23:21:56 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_stats_aggs` (`year`,`month`,`day`,`time`,`mtime`) VALUES ('2016','11','0',1479943316,056264100);
+
+23.11.16 23:21:56 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_stats_aggs` (`year`,`month`,`day`,`time`,`mtime`) VALUES ('2016','0','0',1479943316,056789900);
+
+23.11.16 23:21:56 - 1016: Can't open file: './chatlive/lz_mailboxes.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_mailboxes`;
+
+23.11.16 23:21:56 - 1016: Can't open file: './chatlive/lz_feedback_criteria_config.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_feedback_criteria_config` ORDER BY `type` ASC,`id` ASC;
+
+23.11.16 23:21:56 - 1016: Can't open file: './chatlive/lz_ticket_subs.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_ticket_subs` ORDER BY `id` ASC;
+
+23.11.16 23:21:56 - 1016: Can't open file: './chatlive/lz_goals.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_goals` ORDER BY `ind` ASC
+
+23.11.16 23:21:56 - 1016: Can't open file: './chatlive/lz_operators.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_operators`;
+
+23.11.16 23:21:56 - 1016: Can't open file: './chatlive/lz_groups.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_groups`;
+
+23.11.16 23:21:56 - 1016: Can't open file: './chatlive/lz_predefined.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_predefined`;
+
+23.11.16 23:21:56 - 1016: Can't open file: './chatlive/lz_signatures.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_signatures`;
+
+23.11.16 23:21:56 - 1016: Can't open file: './chatlive/lz_auto_replies.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_auto_replies` ORDER BY `search_type` DESC, `tags` ASC, `language` DESC;
+
+23.11.16 23:21:56 - 1016: Can't open file: './chatlive/lz_profile_pictures.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_profile_pictures`
+
+23.11.16 23:21:56 - 1016: Can't open file: './chatlive/lz_profiles.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_profiles`;
+
+23.11.16 23:21:56 - 1016: Can't open file: './chatlive/lz_filters.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_filters`;
+
+23.11.16 23:21:56 - 1016: Can't open file: './chatlive/lz_visitors.frm' (errno: 24)
+
+SQL: SELECT *,`t1`.`id` AS `id` FROM `lz_visitors` AS `t1` INNER JOIN `lz_visitor_data_browsers` AS `t2` ON `t1`.`browser`=`t2`.`id` INNER JOIN `lz_visitor_data_cities` AS `t3` ON `t1`.`city`=`t3`.`id` INNER JOIN `lz_visitor_data_regions` AS `t4` ON `t1`.`region`=`t4`.`id` INNER JOIN `lz_visitor_data_isps` AS `t5` ON `t1`.`isp`=`t5`.`id` INNER JOIN `lz_visitor_data_systems` AS `t6` ON `t1`.`system`=`t6`.`id` INNER JOIN `lz_visitor_data_resolutions` AS `t8` ON `t1`.`resolution`=`t8`.`id` WHERE `last_active`>1479943226 ORDER BY `entrance` ASC;
+
+23.11.16 23:21:56 - 1016: Can't open file: './chatlive/lz_operator_logins.frm' (errno: 24)
+
+SQL: DELETE FROM `lz_operator_logins` WHERE `time`<1479856916 AND `ip`='201.43.28.203' AND `user_id`='thepilates';
+
+23.11.16 23:21:56 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('117','eF5NjMEOwyAMQ/8lX0BCoBA+ZgoUKi6bNHaZqv77CqddrGdbtgrL2cWkLshbjGwt+mnSEB8FVKyc4xbY9QtpkaVt0myPYzz217NCymuCKFDeVT/1L77gPqSFXez8IAFXfcWWAzlyHELLjFzUlFZCNMYTpOsHI9krCg==',1479943316);
+
+23.11.16 23:21:56 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('116','eF7FWm1z4jgS/is5PmcS24B52c1eTSbJTGYPmDCEvFxtUbIsY4FlOZaAmKn57yf5BdtBSqa29sKXxDzdbrWebrVstUG/1f+B+8ZvuG+2Or1eq9k0bfnjN9Y3zbbZ7DdGffn3Ew09PF/FgGMaNvpW/wcTtzaucIAav4G+ZRkS6fQb82AWbLHbkAbsfqMD2i1ogo5pu16rZSKJd1OtKJ7BOFUz+g2z1babVqfbtQpEaLjOzKeMp4gpdDrWiWmfmCdmp660YigulKAP+IqtQIyphHqFDnpO7QiPSMKeAlwXhvNcOEiuv38c1M1HgLHc7Q3bsG6r1awrhIAU85LDB3id/jStnYUYefhZYoLJYDuTVxlVMaXZ/MT0qkYBj2K6rkoyfRyyVaHHfRThAHDEavIoHUeM7Tm9tmM5Rhf1oNnp2k7P67XbCDVt8dtp9yo+MszRbhpWr2rbwwxTD/MQMXYCKTlx4nI4FzEof7XELf8R037EQQCOPhzJ66PvqyiiMT/6Tj2+ATE6+q9kZitVTkLE/ypCJuwsUbKhsZtOxG5VbB2npo4LW8dHn1aMU4LiEknH+iR4zy+/oCClwGyLaWCC6IrPYIBRyFkeAdvopgrNUoHHAC7TyfcbPeOlVEaVFdL0XktIIxoEMy9GTysUwiQzgbNMEnrN1Ipl7elVfBGTbxXWNjCYraKAAndGwPPMEwuL4W2RV6bd6XQs007v6mbaG+RAQGYgCOgGufu5sgwdoESZEn1SorES9auoXObSnzmiNRJEiqbifJkhD6wCPgtAOF+BOcppQmFhQuj42EUihQHkxRLqN1IaM3FA51Uw84ZRWFtBOQozNPehAClRgXQfnGeaxVB5mq4YAQyFblWU3bBaI1hFsxIHuBdwhZ2YlCm1E9k10UzmXm7favcsw9hlpTQsYg5nhLoFS9XiwcAazWhUM55JKKneU3GfQA+q0A1Xop7ats95VnzE7OV1//R0s9mcJHQVywJz4lICcHgqf4vc9WhMiomn6YxDl27EP5en6SUXqpmN0Klp+AjPfZ6rdOxKgjAPVD0rwGJqZhXkKjCtuHkmZBiJSFUxi6vLPeclX4zNSEjZC1QoQ04Vi2jOZ9XBujsQKlFWQXslqlReKdY3cGEtlHauHCj8jUDmryXw38ERDMT+dya3LZmYMxnCWYDDZePIF9vaWTXStfp+2jjiIJ4jftaYOWLVLxt/fBOFKkbukZMclbvFrn7vNorfT8EfNX+yCbU7qT/YLZ2BQaPiH12jOABJJqKRfFJhv+wq5gE6a6g83J/HC+fljrPnc7rKbMGzctLylqMLxJaV3VHn3V81u04aa7samt//9eFDevnhwx+/MlXdbIo5dPNiF2fPEvXKyIGi3NI5JPsoBNlzVsfY1YNXnytOd56eYiK2CHYKQRxjFMvKT0+ibFspbPt4zzkIcBXMFgrDsqTm3jUryg6sbZqZtijwSxxV8VwbR4plRXCdjbw8M5/OnlZiJ/NqwlbGVSj3wnQfzKWVxecELt0fhsHdQq2UK478qoF8bBxG4oklwPK5GciHIPF4b5ryeb7ZFvvtw4Q+D7ZRB0zoZtQc2MMLiifT8RX6dC2x5xRb3NjXwfn1ZHG+cCaBeRdSY3QZTAZfxnhsPJp3i8s2IF+/OJ+fsRN8JY9T2B7cDdnofvo43V6xydVg86fRe3Kbj4uB+bX9sLg2neA8/DYx8Mha2oMF344WczHGmI/DMbidGL3rBY9Gi0EHbmlrhL/ejc0H4/Hysvfte+qXUfq6w0wFZimwpsQGAsvGmMsxDDHG8GY37lJimxG+zvybfNzpTK9uc53LZ4Xt52wuH+1rfN3xbs7OGvLlybTepPv7P0D33TOeGo+bh+Vg416dPzlbfzAwWpsHy2i700iM9ZLur/eDO9+fNuE/T/cdPCDdTUm3fG/Q0o2rdM//Jt0RHiyumndTaA5vnyeDT/wbCF3rYTv8ju6uk+Fd++ZxW0zxWk5JuEvx7eS67X4efhmH0+D/kun3h6S+lVLf1VM/+PQPUH/vL6fmo/146TKXfI2E/g0g3dbkYjgafB5yUXgAWtzsUT+d+nfO58H2NjwXobupUp/Jl+7d8PP4ahwGYGoU07/ZUVKG61ZB5UOBjUoM1ugdXUjKxOpemudF8RtNShpTWkud22lRICeXCh8uk0p4exn99luFZlDL/L9ZaO5df7wV+sGvFprpF/DlETvT2yrlr2f77S9me3C4um4Isi0t2eUEnuuOXded2BYkPX6ZLsbL0tkbxQRuFXlQ5t3tofLuVSKm709EWXfflwjrVSLKPfHdiHAPRETzVSLu352Ib4cqya1XiVi++9L4dqga0X6ViODdiRhOxa5zCCLsV4kg7740BBG3ByGi8yoR4SGIWB6EiO6rRBiHWBqHqRG9V4kwD0DE1SFqxE9W9OEomUU0mq1qh/fZcVxMZjFXnPekuKZbsLvzRTejWeJv3Qk99Z3Q09yZnVgtHeZUT6x29rjGHn/D3ipOT8Bqx31LB4fKQRxFL0bOVg3Pa3DpkgNfb8KkFt9UmetUsjl4Dk1lrX5jEq9QKWCMKo5UGY6y3BDw+HIwmlzOPl5cjEuFGHFFt8FfLxRNK8rjal8h7xTkYF01ihHZR5eQ7RtYOqQ4rEybm9lhpRsqWkkcb/d7bxi4YF8VExUqO0p7Bhjkqj4h5M4+CiFQNL4gZGsVuk4HE0vV7NUMU4UyDYoWldmterz2i0hUzqKxSBH5S2RB066mBwSoluL5kJwohsQhx7l/VgVeEwD3TYAwVrEcrlMTzY6dFeXhGy93xTFDjiWKt+GtAnv9tb/Eytd+Uj/keuFLS/Gq0ZbYKLU3PncN8/LmHuZFuTwGKN+XKscAldeV7BggK+rjXVHfHWfg6TaI7wL/TzfXHyo2isHkttAfji+vmqk/Sa5f2r8YXlziUdM4K8MR+1yxFsHaV7VwKVSgLlLltx/TWj8hzyrGFO1ARrGzr0ueVK3hDUG7zyQq8Jy7NRN5x3jF0Cyc1xzJejByO8C1epW3TjKBruTm3W+xGVJAcjesdl0U06goj1ZdQlbr1BWxYNsvDYK5W1tvpcSNYf1biFIC1oFaIiosVFtbRdmG1hbemfZLL1wUp9OutNcl5KE4RnGly4dDj57+W2yYZ/X7feyli7stEBy66Pkk8qPj7MrnpLwKjn1KUHaVgSDrBJa25ihv9YuIYfeYUHcVoGMQI3AcxeIH5McQcDSncSJQjmGA9iZTj3AmkcI4+5glr+k1AdEJkn1BNghTDJJGJ440cXP8tVYCdRKql2CtRPXlVyYBGglniU5S/8igKlnrPOCY6SSR1gOk/OQk9U0ribWSerezKlmqSoZcp9rIEW3kiDZyxHG197jae3QxJdqYEm1MiTZ3iDbaRBttoo020UabaKNNtNEm2mgTbbSJNtpEG+1EG+1EG+1EG+3EIdp7iPYeXeQSbeQSbYYk2gxJtNFOtNFOtNFOtNFOtNFOtNFOtNFOtNFOtNFOXkQ7fybJv/Rtym8hN5uTN75A/Zm+wF0ADhwgnQPyQ+bipQ4RgAOJGf0fP9PtVI5MXiKeUyL5JxXMLaCfP7MDfqdv5ufb8pvaNrKR6Tldq221W92u57TMFgQG9GC3Zxi2eKb4+T87JECd',1479943316);
+
+23.11.16 23:21:56 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('115','eF5FjUsKAyEQRO/SJ/A3jnavEwjks8oBVDQIk8307AbvHs2HrIp61KMCGtwrCqoozey90VraUYhRCo1w64FwrMuW13PlDYbAOP8YAwUUuLc3u2Tm8MhA1+ErhBPfOa+f6ZfqQQ/PUJc/btA/FcX+W1H3le7ulG2WJTo1qck4V6KRJgWRSnJeCKuA2gvOEjdk',1479943316);
+
+23.11.16 23:21:57 - 1016: Can't open file: './chatlive/lz_config.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_config` ORDER BY `key` ASC;
+
+23.11.16 23:21:57 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:21:57 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:21:57 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:21:57 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:21:57 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:21:57 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:21:57 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:21:57 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:21:57 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_stats_aggs` WHERE ((`day`<'23' AND `month`='11' AND `year`='2016') OR (`year`<'2016') OR (`month`<'11')) AND (`aggregated`=0 OR `aggregated`>1479943017) AND `month`>0 AND `day`>0 ORDER BY `year` ASC,`month` ASC,`day` ASC LIMIT 1;
+
+23.11.16 23:21:57 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_stats_aggs` WHERE `month`>0 AND ((`year`='2016' AND `month`<'11') OR (`year`<'2016')) AND (`aggregated`=0 OR `aggregated`>1479943017) AND `day`=0 ORDER BY `year` ASC,`month` ASC LIMIT 1;
+
+23.11.16 23:21:57 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_stats_aggs` WHERE `year`>0 AND `year`<'2016' AND `day`=0  AND `month`=0 AND (`aggregated`=0 OR `aggregated`>1479943017) ORDER BY `year` ASC LIMIT 1;
+
+23.11.16 23:21:57 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_stats_aggs` (`year`,`month`,`day`,`time`,`mtime`) VALUES ('2016','11','23',1479943317,063069500);
+
+23.11.16 23:21:57 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_stats_aggs` (`year`,`month`,`day`,`time`,`mtime`) VALUES ('2016','11','0',1479943317,063593000);
+
+23.11.16 23:21:57 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_stats_aggs` (`year`,`month`,`day`,`time`,`mtime`) VALUES ('2016','0','0',1479943317,064128100);
+
+23.11.16 23:21:57 - 1016: Can't open file: './chatlive/lz_mailboxes.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_mailboxes`;
+
+23.11.16 23:21:57 - 1016: Can't open file: './chatlive/lz_feedback_criteria_config.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_feedback_criteria_config` ORDER BY `type` ASC,`id` ASC;
+
+23.11.16 23:21:57 - 1016: Can't open file: './chatlive/lz_ticket_subs.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_ticket_subs` ORDER BY `id` ASC;
+
+23.11.16 23:21:57 - 1016: Can't open file: './chatlive/lz_goals.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_goals` ORDER BY `ind` ASC
+
+23.11.16 23:21:57 - 1016: Can't open file: './chatlive/lz_operators.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_operators`;
+
+23.11.16 23:21:57 - 1016: Can't open file: './chatlive/lz_groups.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_groups`;
+
+23.11.16 23:21:57 - 1016: Can't open file: './chatlive/lz_predefined.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_predefined`;
+
+23.11.16 23:21:57 - 1016: Can't open file: './chatlive/lz_signatures.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_signatures`;
+
+23.11.16 23:21:57 - 1016: Can't open file: './chatlive/lz_auto_replies.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_auto_replies` ORDER BY `search_type` DESC, `tags` ASC, `language` DESC;
+
+23.11.16 23:21:57 - 1016: Can't open file: './chatlive/lz_profile_pictures.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_profile_pictures`
+
+23.11.16 23:21:57 - 1016: Can't open file: './chatlive/lz_profiles.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_profiles`;
+
+23.11.16 23:21:57 - 1016: Can't open file: './chatlive/lz_filters.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_filters`;
+
+23.11.16 23:21:57 - 1016: Can't open file: './chatlive/lz_visitors.frm' (errno: 24)
+
+SQL: SELECT *,`t1`.`id` AS `id` FROM `lz_visitors` AS `t1` INNER JOIN `lz_visitor_data_browsers` AS `t2` ON `t1`.`browser`=`t2`.`id` INNER JOIN `lz_visitor_data_cities` AS `t3` ON `t1`.`city`=`t3`.`id` INNER JOIN `lz_visitor_data_regions` AS `t4` ON `t1`.`region`=`t4`.`id` INNER JOIN `lz_visitor_data_isps` AS `t5` ON `t1`.`isp`=`t5`.`id` INNER JOIN `lz_visitor_data_systems` AS `t6` ON `t1`.`system`=`t6`.`id` INNER JOIN `lz_visitor_data_resolutions` AS `t8` ON `t1`.`resolution`=`t8`.`id` WHERE `last_active`>1479943227 ORDER BY `entrance` ASC;
+
+23.11.16 23:21:57 - 1016: Can't open file: './chatlive/lz_operator_logins.frm' (errno: 24)
+
+SQL: DELETE FROM `lz_operator_logins` WHERE `time`<1479856917 AND `ip`='201.43.28.203' AND `user_id`='thepilates';
+
+23.11.16 23:21:57 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('117','eF5NjEsOwyAQQ+8yJ2CG4TccpgICEZtGCt1UUe7ewKob69mWnYTl6qJiF2QXAmuNbpo4xAaBJFqu8Qhs6QtxkSY3abb7Pl7b8a4Q85ogCpSzpk/9i294DmlhFz0/SMBUW7FlT4YMe98yI5ekSis+KGUJ4v0DJGErCw==',1479943317);
+
+23.11.16 23:21:57 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('116','eF7FWm1z4jgS/is5PmcS24B52c1eTSbJTGYPmDCEvFxtUbIsY4FlOZaAmKn57yf5BdtBSqa29sKXxDzdbrWebrVstUG/1f+B+8ZvuG+2Or1eq9k0O/LHb6xvmm2z2W+M+vLvJxp6eL6KAcc0bPSt/g8mbm1c4QA1fgN9yzIk0uk35sEs2GK3IQ3Y/UYHtFvQBB3Tdr1Wy0QS76ZaUTyDcapm9Btmq203rU63axWI0HCdmU8ZTxFT6HSsE9M+MU/MTl1pxVBcKEEf8BVbgRhTCfUKHfSc2hEekYQ9BbguDOe5cJBcf/84qJuPAGO52xu2Yd1Wq1lXCAEp5iWHD/A6/WlaOwsx8vCzxASTwXYmrzKqYkqz+YnpVY0CHsV0XZVk+jhkq0KP+yjCAeCI1eRROo4Y23N6bcdyjC7qQbPTtZ2e12u3EWra4rfT7lV8ZJij3TSsXtW2hxmmHuYhYuwEUnLixOVwLmJQ/mqJW/4jpv2IgwAcfTiS10ffV1FEY370nXp8A2J09F/JzFaqnISI/1WETNhZomRDYzediN2q2DpOTR0Xto6PPq0YpwTFJZKO9Unwnl9+QUFKgdkW08AE0RWfwQCjkLM8ArbRTRWapQKPAVymk+83esZLqYwqK6TpvZaQRjQIZl6MnlYohElmAmeZJPSaqRXL2tOr+CIm3yqsbWAwW0UBBe6MgOeZJxYWw9sir0y70+lYpp3e1c20N8iBgMxAENANcvdzZRk6QIkyJfqkRGMl6ldRucylP3NEaySIFE3F+TJDHlgFfBaAcL4Cc5TThMLChNDxsYtECgPIiyXUb6Q0ZuKAzqtg5g2jsLaCchRmaO5DAVKiAuk+OM80i6HyNF0xAhgK3aoou2G1RrCKZiUOcC/gCjsxKVNqJ7JropnMvdy+1e5ZhrHLSmlYxBzOCHULlqrFg4E1mtGoZjyTUFK9p+I+gR5UoRuuRD21bZ/zrPiI2cvr/unpZrM5SegqlgXmxKUE4PBU/ha569GYFBNP0xmHLt2Ify5P00suVDMboVPT8BGe+zxX6diVBGEeqHpWgMXUzCrIVWBacfNMyDASkapiFleXe85LvhibkZCyF6hQhpwqFtGcz6qDdXcgVKKsgvZKVKm8Uqxv4MJaKO1cOVD4G4HMX0vgv4MjGIj970xuWzIxZzKEswCHy8aRL7a1s2qka/X9tHHEQTxH/Kwxc8SqXzb++CYKVYzcIyc5KneLXf3ebRS/n4I/av5kE2p3Un+wWzoDg0bFP7pGcQCSTEQj+aTCftlVzAN01lB5uD+PF87LHWfP53SV2YJn5aTlLUcXiC0ru6POu79qdp001nY1NL//68OH9PLDhz9+Zaq62RRz6ObFLs6eJeqVkQNFuaVzSPZRCLLnrI6xqwevPlec7jw9xURsEewUgjjGKJaVn55E2bZS2PbxnnMQ4CqYLRSGZUnNvWtWlB1Y2zQzbVHglziq4rk2jhTLiuA6G3l5Zj6dPa3ETubVhK2Mq1Duhek+mEsri88JXLo/DIO7hVopVxz5VQP52DiMxBNLgOVzM5APQeLx3jTl83yzLfbbhwl9HmyjDpjQzag5sIcXFE+m4yv06Vpizym2uLGvg/PryeJ84UwC8y6kxugymAy+jPHYeDTvFpdtQL5+cT4/Yyf4Sh6nsD24G7LR/fRxur1ik6vB5k+j9+Q2HxcD82v7YXFtOsF5+G1i4JG1tAcLvh0t5mKMMR+HY3A7MXrXCx6NFoMO3NLWCH+9G5sPxuPlZe/b99Qvo/R1h5kKzFJgTYkNBJaNMZdjGGKM4c1u3KXENiN8nfk3+bjTmV7d5jqXzwrbz9lcPtrX+Lrj3ZydNeTLk2m9Sff3f4Duu2c8NR43D8vBxr06f3K2/mBgtDYPltF2p5EY6yXdX+8Hd74/bcJ/nu47eEC6m5Ju+d6gpRtX6Z7/TbojPFhcNe+m0BzePk8Gn/g3ELrWw3b4Hd1dJ8O79s3jtpjitZyScJfi28l12/08/DIOp8H/JdPvD0l9K6W+q6d+8OkfoP7eX07NR/vx0mUu+RoJ/RtAuq3JxXA0+DzkovAAtLjZo3469e+cz4PtbXguQndTpT6TL9274efx1TgMwNQopn+zo6QM162CyocCG5UYrNE7upCUidW9NM+L4jealDSmtJY6t9OiQE4uFT5cJpXw9jL67bcKzaCW+X+z0Ny7/ngr9INfLTTTL+DLI3amt1XKX8/221/M9uBwdd0QZFtasssJPNcdu647sS1IevwyXYyXpbM3igncKvKgzLvbQ+Xdq0RM35+Isu6+LxHWq0SUe+K7EeEeiIjmq0TcvzsR3w5VkluvErF896Xx7VA1ov0qEcG7EzGcil3nEETYrxJB3n1pCCJuD0JE51UiwkMQsTwIEd1XiTAOsTQOUyN6rxJhHoCIq0PUiJ+s6MNRMotoNFvVDu+z47iYzGKuOO9JcU23YHfni25Gs8TfuhN66juhp7kzO7FaOsypnljt7HGNPf6GvVWcnoDVjvuWDg6VgziKXoycrRqe1+DSJQe+3oRJLb6pMtepZHPwHJrKWv3GJF6hUsAYVRypMhxluSHg8eVgNLmcfby4GJcKMeKKboO/XiiaVpTH1b5C3inIwbpqFCOyjy4h2zewdEhxWJk2N7PDSjdUtJI43u733jBwwb4qJipUdpT2DDDIVX1CyJ19FEKgaHxByNYqdJ0OJpaq2asZpgplGhQtKrNb9XjtF5GonEVjkSLyl8iCpl1NDwhQLcXzITlRDIlDjnP/rAq8JgDumwBhrGI5XKcmmh07K8rDN17uimOGHEsUb8NbBfb6a3+Jla/9pH7I9cKXluJVoy2xUWpvfO4a5uXNPcyLcnkMUL4vVY4BKq8r2TFAVtTHu6K+O87A020Q3wX+n26uP1RsFIPJbaE/HF9eNVN/kly/tH8xvLjEo6ZxVoYj9rliLYK1r2rhUqhAXaTKbz+mtX5CnlWMKdqBjGJnX5c8qVrDG4J2n0lU4Dl3aybyjvGKoVk4rzmS9WDkdoBr9SpvnWQCXcnNu99iM6SA5G5Y7booplFRHq26hKzWqStiwbZfGgRzt7beSokbw/q3EKUErAO1RFRYqLa2irINrS28M+2XXrgoTqddaa9LyENxjOJKlw+HHj39t9gwz+r3+9hLF3dbIDh00fNJ5EfH2ZXPSXkVHPuUoOwqA0HWCSxtzVHe6hcRw+4xoe4qQMcgRuA4isUPyI8h4GhO40SgHMMA7U2mHuFMIoVx9jFLXtNrAqITJPuCbBCmGCSNThxp4ub4a60E6iRUL8FaierLr0wCNBLOEp2k/pFBVbLWecAx00kirQdI+clJ6ptWEmsl9W5nVbJUlQy5TrWRI9rIEW3kiONq73G19+hiSrQxJdqYEm3uEG20iTbaRBttoo020UabaKNNtNEm2mgTbbSJNtqJNtqJNtqJNtqJQ7T3EO09usgl2sgl2gxJtBmSaKOdaKOdaKOdaKOdaKOdaKOdaKOdaKOdaKOdvIh2/kySf+nblN9CbjYnb3yB+jN9gbsAHDhAOgfkh8zFSx0iAAcSM/o/fqbbqRyZvEQ8p0TyTyqYW0A/f2YH/E7fzM+35Te1bWQj03O6Vttqt7pdz2mZLQgM6MFuzzBs8Uzx839oY0Ce',1479943317);
+
+23.11.16 23:21:57 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('115','eF5FjUsKAyEQRO/SJ2h/o7brBAL5rHIAFQ3CZDM9u2HuHs2HrIp61KMiadoaYWgktPVeKyXsKIFJoCK49SA4tnkty7nxCkNgsj/GECIhbfubXQpzfBQI1+FLghPfuSyf6ZeqQQ/P2OY/3qF/ypD6byPVV6q7pkxF1OSkkUY7V5MWOkfMNTuPOEkI+wvOvTdl',1479943317);
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_config.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_config` ORDER BY `key` ASC;
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_stats_aggs` WHERE ((`day`<'23' AND `month`='11' AND `year`='2016') OR (`year`<'2016') OR (`month`<'11')) AND (`aggregated`=0 OR `aggregated`>1479943018) AND `month`>0 AND `day`>0 ORDER BY `year` ASC,`month` ASC,`day` ASC LIMIT 1;
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_stats_aggs` WHERE `month`>0 AND ((`year`='2016' AND `month`<'11') OR (`year`<'2016')) AND (`aggregated`=0 OR `aggregated`>1479943018) AND `day`=0 ORDER BY `year` ASC,`month` ASC LIMIT 1;
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_stats_aggs` WHERE `year`>0 AND `year`<'2016' AND `day`=0  AND `month`=0 AND (`aggregated`=0 OR `aggregated`>1479943018) ORDER BY `year` ASC LIMIT 1;
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_stats_aggs` (`year`,`month`,`day`,`time`,`mtime`) VALUES ('2016','11','23',1479943318,058599200);
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_stats_aggs` (`year`,`month`,`day`,`time`,`mtime`) VALUES ('2016','11','0',1479943318,059144600);
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_stats_aggs` (`year`,`month`,`day`,`time`,`mtime`) VALUES ('2016','0','0',1479943318,059689300);
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_mailboxes.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_mailboxes`;
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_feedback_criteria_config.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_feedback_criteria_config` ORDER BY `type` ASC,`id` ASC;
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_ticket_subs.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_ticket_subs` ORDER BY `id` ASC;
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_goals.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_goals` ORDER BY `ind` ASC
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_operators.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_operators`;
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_groups.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_groups`;
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_predefined.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_predefined`;
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_signatures.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_signatures`;
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_auto_replies.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_auto_replies` ORDER BY `search_type` DESC, `tags` ASC, `language` DESC;
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_profile_pictures.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_profile_pictures`
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_profiles.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_profiles`;
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_filters.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_filters`;
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_visitors.frm' (errno: 24)
+
+SQL: SELECT *,`t1`.`id` AS `id` FROM `lz_visitors` AS `t1` INNER JOIN `lz_visitor_data_browsers` AS `t2` ON `t1`.`browser`=`t2`.`id` INNER JOIN `lz_visitor_data_cities` AS `t3` ON `t1`.`city`=`t3`.`id` INNER JOIN `lz_visitor_data_regions` AS `t4` ON `t1`.`region`=`t4`.`id` INNER JOIN `lz_visitor_data_isps` AS `t5` ON `t1`.`isp`=`t5`.`id` INNER JOIN `lz_visitor_data_systems` AS `t6` ON `t1`.`system`=`t6`.`id` INNER JOIN `lz_visitor_data_resolutions` AS `t8` ON `t1`.`resolution`=`t8`.`id` WHERE `last_active`>1479943228 ORDER BY `entrance` ASC;
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_operator_logins.frm' (errno: 24)
+
+SQL: SELECT `id`,`password` FROM `lz_operator_logins` WHERE `ip`='201.43.28.203' AND `user_id`='thepilates' AND `time` > '1479856918';
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_operators.frm' (errno: 24)
+
+SQL: UPDATE `lz_operators` SET `client_system_id`='5e6e1fb82525488fb414ca0cfc890062',`token`='62d6933f0efc53c9ccb3508278beb090' WHERE `system_id`='thepilates' LIMIT 1;
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_data_updates.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_updates`;
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_push_messages.frm' (errno: 24)
+
+SQL: DELETE FROM `lz_push_messages` WHERE `device_hash`='88354d4ba914f2ded2574386a2493996'; 
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_operators.frm' (errno: 24)
+
+SQL: UPDATE `lz_operators` SET `mobile_os`='',`mobile_device_id`='',`mobile_background`='0' WHERE `system_id`='thepilates' LIMIT 1; 
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_chat_files.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_chat_files` ORDER BY `created` ASC;
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_chat_forwards.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_chat_forwards` WHERE `auto`=0 AND `closed`=0 AND `received`=0 ORDER BY `created` ASC;
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_events.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_events` WHERE `priority`>=0 ORDER BY `priority` DESC;
+
+23.11.16 23:21:58 - 1016: Can't open file: './chatlive/lz_operators.frm' (errno: 24)
+
+SQL: UPDATE `lz_operators` SET `first_active`='1479943318',`visitor_file_sizes`='a:0:{}',`groups_status`='a:0:{}',`reposts`='a:0:{}',`typing`='',`level`='1',`status`='2',`ip`='201.43.xxx.xxx',`lweb`='0',`lapp`='0',`last_active`='1479943318',`last_chat_allocation`=0 WHERE `system_id`='thepilates' LIMIT 1; 
+
+23.11.16 23:21:59 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('117','eF5NjMEOwyAMQ/8lX0BCoBA+ZgoUKi6bNHaZqv77CqddrGdbtgrL2cWkLshbjGwthmnSEB8FVKyc4xbY9QtpkaVt0myPYzz217NCymuCKFDeVT/1L77gPqSFXez8IAFXfcWWAzlyHELLjFzUlFZCNMYTpOsHJOkrDA==',1479943319);
+
+23.11.16 23:21:59 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('116','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',1479943319);
+
+23.11.16 23:21:59 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('115','eF5FjUsKAyEQRO/SJ2h/M9quEwjks8oBVDQIk8307AbvHs2HrIp61KMCadoroa8k9OycVkrYUTyTQEVw60FwrMuW13PlDYbANP8Ygw+EtLc3u2Tm8Mjgr8OXBCe+c14/0y9Vgx6eoS5/3KB/Sh/7byXVV6q7Jk9ZlGilkUZbW6IWOgVMJVmHOEnw7QXPaDdm',1479943319);
+
+23.11.16 23:21:59 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('118','eF5tj0sOgzAMBe+SE+RjwDiHqZLgqBG0RWnKBnH3BqmiLFjZ1nie9BwBrYmkTaSg63swRuF+2DcpRBKOOlrrDiQ+8+AK30oKI5e3sLtWiTkIP1yaLsHCz5Pxz3I53NPCFyTz/Monpz1IZB68C+NVXkxT4fwj2z609bVMIlMfjSbRcMsqetSNbgAxelAQnAwxYC9lq4XdvmrDVUU=',1479943319);
+
+23.11.16 23:21:59 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('112','eF4tyzsKQyEQheG9zAp8jGY8U6cLZA0qCjZpvKQR9x4vpDnwH/gyGGvA6IDlR0rsvZU7dMIn0Btnnt/2uV5jXgSLNRH/1yTNMFh70yFOy2ED/qYOFFpsthdxwQUW6YUt12xqr5KMiY50/wCvgCLv',1479943319);
+
+23.11.16 23:23:33 - 23: Out of resources when opening file './chatlive/lz_visitor_data_resolutions.MYD' (Errcode: 24)
+
+SQL: SELECT *,`t1`.`id` AS `id` FROM `lz_visitors` AS `t1` INNER JOIN `lz_visitor_data_browsers` AS `t2` ON `t1`.`browser`=`t2`.`id` INNER JOIN `lz_visitor_data_cities` AS `t3` ON `t1`.`city`=`t3`.`id` INNER JOIN `lz_visitor_data_regions` AS `t4` ON `t1`.`region`=`t4`.`id` INNER JOIN `lz_visitor_data_isps` AS `t5` ON `t1`.`isp`=`t5`.`id` INNER JOIN `lz_visitor_data_systems` AS `t6` ON `t1`.`system`=`t6`.`id` INNER JOIN `lz_visitor_data_resolutions` AS `t8` ON `t1`.`resolution`=`t8`.`id` WHERE `last_active`>1479943323 ORDER BY `entrance` ASC;
+
+23.11.16 23:39:39 - 23: Out of resources when opening file './chatlive/lz_user_data.MYD' (Errcode: 24)
+
+SQL: SELECT `t2`.* FROM `lz_visitor_browsers` AS `t1` INNER JOIN `lz_user_data` AS `t2` ON `t1`.`data_id`=`t2`.`id` WHERE `t1`.`visitor_id`='618e0a6fdb' AND `t1`.`id`='618e0a6fdb_OVL';
+
+23.11.16 23:39:40 - 1016: Can't open file: './chatlive/lz_event_triggers.frm' (errno: 24)
+
+SQL: SELECT `trigger_id`,`action_id` FROM `lz_event_action_internals` INNER JOIN `lz_event_triggers` ON `lz_event_action_internals`.`trigger_id`=`lz_event_triggers`.`id` WHERE `lz_event_action_internals`.`receiver_user_id` = '6fdc21f' GROUP BY `action_id` ORDER BY `lz_event_action_internals`.`created` ASC
+
+23.11.16 23:39:43 - 23: Out of resources when opening file './chatlive/lz_visitors.MYD' (Errcode: 24)
+
+SQL: SELECT *,(SELECT count(*) FROM `lz_visitors` WHERE `id`='618e0a6fdb') as `dcount` FROM `lz_visitors` WHERE `id`='618e0a6fdb' ORDER BY `entrance` DESC;
+
+23.11.16 23:39:43 - 1016: Can't open file: './chatlive/lz_user_data.frm' (errno: 24)
+
+SQL: SELECT `t2`.* FROM `lz_visitor_browsers` AS `t1` INNER JOIN `lz_user_data` AS `t2` ON `t1`.`data_id`=`t2`.`id` WHERE `t1`.`visitor_id`='618e0a6fdb' AND `t1`.`id`='618e0a6fdb_OVL';
+
+23.11.16 23:39:46 - 23: Out of resources when opening file './chatlive/lz_config.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_config` ORDER BY `key` ASC;
+
+23.11.16 23:39:46 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:39:46 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:39:46 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:39:46 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:39:46 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:39:46 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:39:46 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:39:46 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:39:46 - 23: Out of resources when opening file './chatlive/lz_stats_aggs.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_stats_aggs` WHERE ((`day`<'23' AND `month`='11' AND `year`='2016') OR (`year`<'2016') OR (`month`<'11')) AND (`aggregated`=0 OR `aggregated`>1479944086) AND `month`>0 AND `day`>0 ORDER BY `year` ASC,`month` ASC,`day` ASC LIMIT 1;
+
+23.11.16 23:39:46 - 23: Out of resources when opening file './chatlive/lz_stats_aggs.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_stats_aggs` WHERE `month`>0 AND ((`year`='2016' AND `month`<'11') OR (`year`<'2016')) AND (`aggregated`=0 OR `aggregated`>1479944086) AND `day`=0 ORDER BY `year` ASC,`month` ASC LIMIT 1;
+
+23.11.16 23:39:46 - 23: Out of resources when opening file './chatlive/lz_stats_aggs.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_stats_aggs` WHERE `year`>0 AND `year`<'2016' AND `day`=0  AND `month`=0 AND (`aggregated`=0 OR `aggregated`>1479944086) ORDER BY `year` ASC LIMIT 1;
+
+23.11.16 23:39:46 - 23: Out of resources when opening file './chatlive/lz_stats_aggs.MYD' (Errcode: 24)
+
+SQL: INSERT IGNORE INTO `lz_stats_aggs` (`year`,`month`,`day`,`time`,`mtime`) VALUES ('2016','11','23',1479944386,013546500);
+
+23.11.16 23:39:46 - 23: Out of resources when opening file './chatlive/lz_stats_aggs.MYD' (Errcode: 24)
+
+SQL: INSERT IGNORE INTO `lz_stats_aggs` (`year`,`month`,`day`,`time`,`mtime`) VALUES ('2016','11','0',1479944386,014092400);
+
+23.11.16 23:39:46 - 23: Out of resources when opening file './chatlive/lz_stats_aggs.MYD' (Errcode: 24)
+
+SQL: INSERT IGNORE INTO `lz_stats_aggs` (`year`,`month`,`day`,`time`,`mtime`) VALUES ('2016','0','0',1479944386,014638200);
+
+23.11.16 23:39:46 - 23: Out of resources when opening file './chatlive/lz_mailboxes.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_mailboxes`;
+
+23.11.16 23:39:46 - 23: Out of resources when opening file './chatlive/lz_feedback_criteria_config.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_feedback_criteria_config` ORDER BY `type` ASC,`id` ASC;
+
+23.11.16 23:39:46 - 23: Out of resources when opening file './chatlive/lz_ticket_subs.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_ticket_subs` ORDER BY `id` ASC;
+
+23.11.16 23:39:46 - 23: Out of resources when opening file './chatlive/lz_goals.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_goals` ORDER BY `ind` ASC
+
+23.11.16 23:39:46 - 23: Out of resources when opening file './chatlive/lz_operators.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_operators`;
+
+23.11.16 23:39:46 - 23: Out of resources when opening file './chatlive/lz_groups.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_groups`;
+
+23.11.16 23:39:46 - 23: Out of resources when opening file './chatlive/lz_predefined.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_predefined`;
+
+23.11.16 23:39:46 - 23: Out of resources when opening file './chatlive/lz_signatures.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_signatures`;
+
+23.11.16 23:39:46 - 23: Out of resources when opening file './chatlive/lz_auto_replies.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_auto_replies` ORDER BY `search_type` DESC, `tags` ASC, `language` DESC;
+
+23.11.16 23:39:46 - 23: Out of resources when opening file './chatlive/lz_profile_pictures.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_profile_pictures`
+
+23.11.16 23:39:46 - 23: Out of resources when opening file './chatlive/lz_profiles.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_profiles`;
+
+23.11.16 23:39:46 - 23: Out of resources when opening file './chatlive/lz_filters.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_filters`;
+
+23.11.16 23:39:46 - 23: Out of resources when opening file './chatlive/lz_visitors.MYD' (Errcode: 24)
+
+SQL: SELECT *,`t1`.`id` AS `id` FROM `lz_visitors` AS `t1` INNER JOIN `lz_visitor_data_browsers` AS `t2` ON `t1`.`browser`=`t2`.`id` INNER JOIN `lz_visitor_data_cities` AS `t3` ON `t1`.`city`=`t3`.`id` INNER JOIN `lz_visitor_data_regions` AS `t4` ON `t1`.`region`=`t4`.`id` INNER JOIN `lz_visitor_data_isps` AS `t5` ON `t1`.`isp`=`t5`.`id` INNER JOIN `lz_visitor_data_systems` AS `t6` ON `t1`.`system`=`t6`.`id` INNER JOIN `lz_visitor_data_resolutions` AS `t8` ON `t1`.`resolution`=`t8`.`id` WHERE `last_active`>1479944296 ORDER BY `entrance` ASC;
+
+23.11.16 23:39:46 - 23: Out of resources when opening file './chatlive/lz_operator_logins.MYD' (Errcode: 24)
+
+SQL: DELETE FROM `lz_operator_logins` WHERE `time`<1479857986 AND `ip`='201.43.28.203' AND `user_id`='thepilates';
+
+23.11.16 23:39:46 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('117','eF5NjEEOwyAQA/+yL4BlIWAeUwGBiEsrlV6qKH9v4NSLNbZlJwjODhU7tGwhiBjvpokDLoASDM5xC+3pS3GR4W3SbI9jPPbXs1LMa6I1qLxr+tS/+KL7kBd2mPnBIFtd1S17tmzF+5ZFS0mqtOKDUo4pXj8oIysS',1479944386);
+
+23.11.16 23:39:46 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('116','eF7FWm1z4jgS/is5PmcS24B52c1eTSbJTGYPmDCEvFxtUbIsY4FlOZaAmKn57yf5BdtBSqa29sKXxDzdbrWebrVstUG/1f+B+8ZvuG+2Or1eq9Xs2vLHb6xvmm2z2W+M+vLvJxp6eL6KAcc0bPSt/g8mbm1c4QA1fgN9yzIk0uk35sEs2GK3IQ3Y/UYHtFvQBB3Tdr1Wy0QS76ZaUTyDcapm9Btmq203rU63axWI0HCdmU8ZTxFT6HSsE9M+MU/MTl1pxVBcKEEf8BVbgRhTCfUKHfSc2hEekYQ9BbguDOe5cJBcf/84qJuPAGO52xu2YV3BUV0hBKSYlxw+wOv0p2ntLMTIw88SE0wG25m8yqiKKc3mJ6ZXNQp4FNN1VZLp45CtCj3uowgHgCNWk0fpOGJsz+m1HcsxuqgHzU7Xdnper91GqGmL3067V/GRYY5207B6VdseZph6mIeIsRNIyYkTl8O5iEH5qyVu+Y+Y9iMOAnD04UheH31fRRGN+dF36vENiNHRfyUzW6lyEiL+VxEyYWeJkg2N3XQidqti6zg1dVzYOj76tGKcEhSXSDrWJ8F7fvkFBSkFZltMAxNEV3wGA4xCzvII2EY3VWiWCjwGcJlOvt/oGS+lMqqskKb3WkIa0SCYeTF6WqEQJpkJnGWS0GumVixrT6/ii5h8q7C2gcFsFQUUuDMCnmeeWFgMb4u8Mu1Op2OZdnpXN9PeIAcCMgNBQDfI3c+VZegAJcqU6JMSjZWoX0XlMpf+zBGtkSBSNBXnywx5YBXwWQDC+QrMUU4TCgsTQsfHLhIpDCAvllC/kdKYiQM6r4KZN4zC2grKUZihuQ8FSIkKpPvgPNMshsrTdMUIYCh0q6LshtUawSqalTjAvYAr7MSkTKmdyK6JZjL3cvtWu2cZxi4rpWERczgj1C1YqhYPBtZoRqOa8UxCSfWeivsEelCFbrgS9dS2fc6z4iNmL6/7p6ebzeYkoatYFpgTlxKAw1P5W+SuR2NSTDxNZxy6dCP+uTxNL7lQzWyETk3DR3ju81ylY1cShHmg6lkBFlMzqyBXgWnFzTMhw0hEqopZXF3uOS/5YmxGQspeoEIZcqpYRHM+qw7W3YFQibIK2itRpfJKsb6BC2uhtHPlQOFvBDJ/LYH/Do5gIPa/M7ltycScyRDOAhwuG0e+2NbOqpGu1ffTxhEH8Rzxs8bMEat+2fjjmyhUMXKPnOSo3C129Xu3Ufx+Cv6o+ZNNqN1J/cFu6QwMGhX/6BrFAUgyEY3kkwr7ZVcxD9BZQ+Xh/jxeOC93nD2f01VmC56Vk5a3HF0gtqzsjjrv/qrZddJY29XQ/P6vDx/Syw8f/viVqepmU8yhmxe7OHuWqFdGDhTlls4h2UchyJ6zOsauHrz6XHG68/QUE7FFsFMI4hijWFZ+ehJl20ph28d7zkGAq2C2UBiWJTX3rllRdmBt08y0RYFf4qiK59o4Uiwrguts5OWZ+XT2tBI7mVcTtjKuQrkXpvtgLq0sPidw6f4wDO4WaqVcceRXDeRj4zASTywBls/NQD4Eicd705TP88222G8fJvR5sI06YEI3o+bAHl5QPJmOr9Cna4k9p9jixr4Ozq8ni/OFMwnMu5Aao8tgMvgyxmPj0bxbXLYB+frF+fyMneAreZzC9uBuyEb308fp9opNrgabP43ek9t8XAzMr+2HxbXpBOfht4mBR9bSHiz4drSYizHGfByOwe3E6F0veDRaDDpwS1sj/PVubD4Yj5eXvW/fU7+M0tcdZiowS4E1JTYQWDbGXI5hiDGGN7txlxLbjPB15t/k405nenWb61w+K2w/Z3P5aF/j6453c3bWkC9PpvUm3d//AbrvnvHUeNw8LAcb9+r8ydn6g4HR2jxYRtudRmKsl3R/vR/c+f60Cf95uu/gAeluSrrle4OWblyle/436Y7wYHHVvJtCc3j7PBl84t9A6FoP2+F3dHedDO/aN4/bYorXckrCXYpvJ9dt9/PwyzicBv+XTL8/JPWtlPqunvrBp3+A+nt/OTUf7cdLl7nkayT0bwDptiYXw9Hg85CLwgPQ4maP+unUv3M+D7a34bkI3U2V+ky+dO+Gn8dX4zAAU6OY/s2OkjJctwoqHwpsVGKwRu/oQlImVvfSPC+K32hS0pjSWurcTosCOblU+HCZVMLby+i33yo0g1rm/81Cc+/6463QD3610Ey/gC+P2JneVil/PdtvfzHbg8PVdUOQbWnJLifwXHfsuu7EtiDp8ct0MV6Wzt4oJnCryIMy724PlXevEjF9fyLKuvu+RFivElHuie9GhHsgIpqvEnH/7kR8O1RJbr1KxPLdl8a3Q9WI9qtEBO9OxHAqdp1DEGG/SgR596UhiLg9CBGdV4kID0HE8iBEdF8lwjjE0jhMjei9SoR5ACKuDlEjfrKiD0fJLKLRbFU7vM+O42Iyi7nivCfFNd2C3Z0vuhnNEn/rTuip74Se5s7sxGrpMKd6YrWzxzX2+Bv2VnF6AlY77ls6OFQO4ih6MXK2anheg0uXHPh6Eya1+KbKXKeSzcFzaCpr9RuTeIVKAWNUcaTKcJTlhoDHl4PR5HL28eJiXCrEiCu6Df56oWhaUR5X+wp5pyAH66pRjMg+uoRs38DSIcVhZdrczA4r3VDRSuJ4u997w8AF+6qYqFDZUdozwCBX9Qkhd/ZRCIGi8QUhW6vQdTqYWKpmr2aYKpRpULSozG7V47VfRKJyFo1FishfIguadjU9IEC1FM+H5EQxJA45zv2zKvCaALhvAoSxiuVwnZpoduysKA/feLkrjhlyLFG8DW8V2Ouv/SVWvvaT+iHXC19aileNtsRGqb3xuWuYlzf3MC/K5TFA+b5UOQaovK5kxwBZUR/vivruOANPt0F8F/h/urn+ULFRDCa3hf5wfHnVTP1Jcv3S/sXw4hKPmsZZGY7Y54q1CNa+qoVLoQJ1kSq//ZjW+gl5VjGmaAcyip19XfKkag1vCNp9JlGB59ytmcg7xiuGZuG85kjWg5HbAa7Vq7x1kgl0JTfvfovNkAKSu2G166KYRkV5tOoSslqnrogF235pEMzd2norJW4M699ClBKwDtQSUWGh2toqyja0tvDOtF964aI4nXalvS4hD8UxiitdPhx69PTfYsM8q9/vYy9d3G2B4NBFzyeRHx1nVz4n5VVw7FOCsqsMBFknsLQ1R3mrX0QMu8eEuqsAHYMYgeMoFj8gP4aAozmNE4FyDAO0N5l6hDOJFMbZxyx5Ta8JiE6Q7AuyQZhikDQ6caSJm+OvtRKok1C9BGslqi+/MgnQSDhLdJL6RwZVyVrnAcdMJ4m0HiDlJyepb1pJrJXUu51VyVJVMuQ61UaOaCNHtJEjjqu9x9Xeo4sp0caUaGNKtLlDtNEm2mgTbbSJNtpEG22ijTbRRptoo0200SbaaCfaaCfaaCfaaCcO0d5DtPfoIpdoI5doMyTRZkiijXaijXaijXaijXaijXaijXaijXaijXaijXbyItr5M0n+pW9Tfgu52Zy88QXqz/QF7gJw4ADpHJAfMhcvdYgAHEjM6P/4mW6ncmTyEvGcEsk/qWBuAf38mR3wO30zP9+W39S2kY1Mz+labavd6nY9p2W2IDCgB7s9w7DFM8XP/wGlNUCl',1479944386);
+
+23.11.16 23:39:46 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('115','eF5FjUsKAyEQRO/SJ/DT42i7TiCQzyoHUNEgTDbTsxu8ezQfsirqUY8KhLRXEr6SxNk5RG3NKJ5JCk1w60FwrMuW13PlDYbANP8Ygw8kaG9vdsnM4ZHBX4evCE5857x+pl+qBz08Q13+uEH/VD7230q6r3R3p2yyLNGqSU1obYkoMQWRSrJOCKPAtxfTdDds',1479944386);
+
+23.11.16 23:39:46 - 23: Out of resources when opening file './chatlive/lz_config.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_config` ORDER BY `key` ASC;
+
+23.11.16 23:39:46 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:39:46 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:39:46 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:39:47 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:39:47 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:39:47 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:39:47 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:39:47 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:39:47 - 23: Out of resources when opening file './chatlive/lz_stats_aggs.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_stats_aggs` WHERE ((`day`<'23' AND `month`='11' AND `year`='2016') OR (`year`<'2016') OR (`month`<'11')) AND (`aggregated`=0 OR `aggregated`>1479944087) AND `month`>0 AND `day`>0 ORDER BY `year` ASC,`month` ASC,`day` ASC LIMIT 1;
+
+23.11.16 23:39:47 - 23: Out of resources when opening file './chatlive/lz_stats_aggs.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_stats_aggs` WHERE `month`>0 AND ((`year`='2016' AND `month`<'11') OR (`year`<'2016')) AND (`aggregated`=0 OR `aggregated`>1479944087) AND `day`=0 ORDER BY `year` ASC,`month` ASC LIMIT 1;
+
+23.11.16 23:39:47 - 23: Out of resources when opening file './chatlive/lz_stats_aggs.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_stats_aggs` WHERE `year`>0 AND `year`<'2016' AND `day`=0  AND `month`=0 AND (`aggregated`=0 OR `aggregated`>1479944087) ORDER BY `year` ASC LIMIT 1;
+
+23.11.16 23:39:47 - 23: Out of resources when opening file './chatlive/lz_stats_aggs.MYD' (Errcode: 24)
+
+SQL: INSERT IGNORE INTO `lz_stats_aggs` (`year`,`month`,`day`,`time`,`mtime`) VALUES ('2016','11','23',1479944387,006568300);
+
+23.11.16 23:39:47 - 23: Out of resources when opening file './chatlive/lz_stats_aggs.MYD' (Errcode: 24)
+
+SQL: INSERT IGNORE INTO `lz_stats_aggs` (`year`,`month`,`day`,`time`,`mtime`) VALUES ('2016','11','0',1479944387,007121000);
+
+23.11.16 23:39:47 - 23: Out of resources when opening file './chatlive/lz_stats_aggs.MYD' (Errcode: 24)
+
+SQL: INSERT IGNORE INTO `lz_stats_aggs` (`year`,`month`,`day`,`time`,`mtime`) VALUES ('2016','0','0',1479944387,007660700);
+
+23.11.16 23:39:47 - 23: Out of resources when opening file './chatlive/lz_mailboxes.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_mailboxes`;
+
+23.11.16 23:39:47 - 23: Out of resources when opening file './chatlive/lz_feedback_criteria_config.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_feedback_criteria_config` ORDER BY `type` ASC,`id` ASC;
+
+23.11.16 23:39:47 - 23: Out of resources when opening file './chatlive/lz_ticket_subs.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_ticket_subs` ORDER BY `id` ASC;
+
+23.11.16 23:39:47 - 23: Out of resources when opening file './chatlive/lz_goals.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_goals` ORDER BY `ind` ASC
+
+23.11.16 23:39:47 - 23: Out of resources when opening file './chatlive/lz_operators.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_operators`;
+
+23.11.16 23:39:47 - 23: Out of resources when opening file './chatlive/lz_groups.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_groups`;
+
+23.11.16 23:39:47 - 23: Out of resources when opening file './chatlive/lz_predefined.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_predefined`;
+
+23.11.16 23:39:47 - 23: Out of resources when opening file './chatlive/lz_signatures.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_signatures`;
+
+23.11.16 23:39:47 - 23: Out of resources when opening file './chatlive/lz_auto_replies.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_auto_replies` ORDER BY `search_type` DESC, `tags` ASC, `language` DESC;
+
+23.11.16 23:39:47 - 23: Out of resources when opening file './chatlive/lz_profile_pictures.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_profile_pictures`
+
+23.11.16 23:39:47 - 23: Out of resources when opening file './chatlive/lz_profiles.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_profiles`;
+
+23.11.16 23:39:47 - 23: Out of resources when opening file './chatlive/lz_filters.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_filters`;
+
+23.11.16 23:39:47 - 23: Out of resources when opening file './chatlive/lz_visitors.MYD' (Errcode: 24)
+
+SQL: SELECT *,`t1`.`id` AS `id` FROM `lz_visitors` AS `t1` INNER JOIN `lz_visitor_data_browsers` AS `t2` ON `t1`.`browser`=`t2`.`id` INNER JOIN `lz_visitor_data_cities` AS `t3` ON `t1`.`city`=`t3`.`id` INNER JOIN `lz_visitor_data_regions` AS `t4` ON `t1`.`region`=`t4`.`id` INNER JOIN `lz_visitor_data_isps` AS `t5` ON `t1`.`isp`=`t5`.`id` INNER JOIN `lz_visitor_data_systems` AS `t6` ON `t1`.`system`=`t6`.`id` INNER JOIN `lz_visitor_data_resolutions` AS `t8` ON `t1`.`resolution`=`t8`.`id` WHERE `last_active`>1479944297 ORDER BY `entrance` ASC;
+
+23.11.16 23:39:47 - 23: Out of resources when opening file './chatlive/lz_operator_logins.MYD' (Errcode: 24)
+
+SQL: DELETE FROM `lz_operator_logins` WHERE `time`<1479857987 AND `ip`='201.43.28.203' AND `user_id`='thepilates';
+
+23.11.16 23:39:47 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('117','eF5NjEsOwyAQQ+8yJ4BhwsccpgICEZtWKt1UUe7ewKob69mWnSA4O1Ts0OJCEDHeTRMHbAAlGJzjFtrTl+Iiw27SbI9jPPbXs1LMa6I1qLxr+tS/+KL7kBd2mPnBoK3aqlv2vPEm3rcsWkpSpRUflLJM8foBKKsrEw==',1479944387);
+
+23.11.16 23:39:47 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('116','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',1479944387);
+
+23.11.16 23:39:47 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('115','eF5FjUsKAyEQRO/SJ/DTjtquEwjks8oBVDQIk8307Ia5ezQfsirqUY+KhLQ1EqGRROs9onZ2lMAkhSa49SA4tnkty7nxCkNgsj/GECIJ2vY3uxTm+CgQrsNXBCe+c1k+0y/Vgx6esc1/vEP/VCH130a6r3R3TZmKrMkpoww6VxNKzFHkmp0XYlIQ9hfUHzdt',1479944387);
+
+23.11.16 23:39:48 - 23: Out of resources when opening file './chatlive/lz_config.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_config` ORDER BY `key` ASC;
+
+23.11.16 23:39:48 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:39:48 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:39:48 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:39:48 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:39:48 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:39:48 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:39:48 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:39:48 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:39:48 - 23: Out of resources when opening file './chatlive/lz_stats_aggs.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_stats_aggs` WHERE ((`day`<'23' AND `month`='11' AND `year`='2016') OR (`year`<'2016') OR (`month`<'11')) AND (`aggregated`=0 OR `aggregated`>1479944088) AND `month`>0 AND `day`>0 ORDER BY `year` ASC,`month` ASC,`day` ASC LIMIT 1;
+
+23.11.16 23:39:48 - 23: Out of resources when opening file './chatlive/lz_stats_aggs.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_stats_aggs` WHERE `month`>0 AND ((`year`='2016' AND `month`<'11') OR (`year`<'2016')) AND (`aggregated`=0 OR `aggregated`>1479944088) AND `day`=0 ORDER BY `year` ASC,`month` ASC LIMIT 1;
+
+23.11.16 23:39:48 - 23: Out of resources when opening file './chatlive/lz_stats_aggs.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_stats_aggs` WHERE `year`>0 AND `year`<'2016' AND `day`=0  AND `month`=0 AND (`aggregated`=0 OR `aggregated`>1479944088) ORDER BY `year` ASC LIMIT 1;
+
+23.11.16 23:39:48 - 23: Out of resources when opening file './chatlive/lz_stats_aggs.MYD' (Errcode: 24)
+
+SQL: INSERT IGNORE INTO `lz_stats_aggs` (`year`,`month`,`day`,`time`,`mtime`) VALUES ('2016','11','23',1479944388,021254100);
+
+23.11.16 23:39:48 - 23: Out of resources when opening file './chatlive/lz_stats_aggs.MYD' (Errcode: 24)
+
+SQL: INSERT IGNORE INTO `lz_stats_aggs` (`year`,`month`,`day`,`time`,`mtime`) VALUES ('2016','11','0',1479944388,022865100);
+
+23.11.16 23:39:48 - 23: Out of resources when opening file './chatlive/lz_stats_aggs.MYD' (Errcode: 24)
+
+SQL: INSERT IGNORE INTO `lz_stats_aggs` (`year`,`month`,`day`,`time`,`mtime`) VALUES ('2016','0','0',1479944388,023445400);
+
+23.11.16 23:39:48 - 23: Out of resources when opening file './chatlive/lz_mailboxes.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_mailboxes`;
+
+23.11.16 23:39:48 - 23: Out of resources when opening file './chatlive/lz_feedback_criteria_config.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_feedback_criteria_config` ORDER BY `type` ASC,`id` ASC;
+
+23.11.16 23:39:48 - 23: Out of resources when opening file './chatlive/lz_ticket_subs.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_ticket_subs` ORDER BY `id` ASC;
+
+23.11.16 23:39:48 - 23: Out of resources when opening file './chatlive/lz_goals.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_goals` ORDER BY `ind` ASC
+
+23.11.16 23:39:48 - 23: Out of resources when opening file './chatlive/lz_operators.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_operators`;
+
+23.11.16 23:39:48 - 23: Out of resources when opening file './chatlive/lz_groups.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_groups`;
+
+23.11.16 23:39:48 - 23: Out of resources when opening file './chatlive/lz_predefined.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_predefined`;
+
+23.11.16 23:39:48 - 23: Out of resources when opening file './chatlive/lz_signatures.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_signatures`;
+
+23.11.16 23:39:48 - 23: Out of resources when opening file './chatlive/lz_auto_replies.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_auto_replies` ORDER BY `search_type` DESC, `tags` ASC, `language` DESC;
+
+23.11.16 23:39:48 - 23: Out of resources when opening file './chatlive/lz_profile_pictures.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_profile_pictures`
+
+23.11.16 23:39:48 - 23: Out of resources when opening file './chatlive/lz_profiles.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_profiles`;
+
+23.11.16 23:39:48 - 23: Out of resources when opening file './chatlive/lz_filters.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_filters`;
+
+23.11.16 23:39:48 - 23: Out of resources when opening file './chatlive/lz_visitors.MYD' (Errcode: 24)
+
+SQL: SELECT *,`t1`.`id` AS `id` FROM `lz_visitors` AS `t1` INNER JOIN `lz_visitor_data_browsers` AS `t2` ON `t1`.`browser`=`t2`.`id` INNER JOIN `lz_visitor_data_cities` AS `t3` ON `t1`.`city`=`t3`.`id` INNER JOIN `lz_visitor_data_regions` AS `t4` ON `t1`.`region`=`t4`.`id` INNER JOIN `lz_visitor_data_isps` AS `t5` ON `t1`.`isp`=`t5`.`id` INNER JOIN `lz_visitor_data_systems` AS `t6` ON `t1`.`system`=`t6`.`id` INNER JOIN `lz_visitor_data_resolutions` AS `t8` ON `t1`.`resolution`=`t8`.`id` WHERE `last_active`>1479944298 ORDER BY `entrance` ASC;
+
+23.11.16 23:39:48 - 23: Out of resources when opening file './chatlive/lz_operator_logins.MYD' (Errcode: 24)
+
+SQL: SELECT `id`,`password` FROM `lz_operator_logins` WHERE `ip`='201.43.28.203' AND `user_id`='thepilates' AND `time` > '1479857988';
+
+23.11.16 23:39:48 - 23: Out of resources when opening file './chatlive/lz_operators.MYD' (Errcode: 24)
+
+SQL: UPDATE `lz_operators` SET `client_system_id`='5e6e1fb82525488fb414ca0cfc890062',`token`='596a7b5c5755fa41ba711d20d7640047' WHERE `system_id`='thepilates' LIMIT 1;
+
+23.11.16 23:39:48 - 23: Out of resources when opening file './chatlive/lz_data_updates.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_data_updates`;
+
+23.11.16 23:39:48 - 23: Out of resources when opening file './chatlive/lz_push_messages.MYD' (Errcode: 24)
+
+SQL: DELETE FROM `lz_push_messages` WHERE `device_hash`='88354d4ba914f2ded2574386a2493996'; 
+
+23.11.16 23:39:48 - 23: Out of resources when opening file './chatlive/lz_operators.MYD' (Errcode: 24)
+
+SQL: UPDATE `lz_operators` SET `mobile_os`='',`mobile_device_id`='',`mobile_background`='0' WHERE `system_id`='thepilates' LIMIT 1; 
+
+23.11.16 23:39:48 - 23: Out of resources when opening file './chatlive/lz_chat_files.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_chat_files` ORDER BY `created` ASC;
+
+23.11.16 23:39:48 - 1016: Can't open file: './chatlive/lz_chat_forwards.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_chat_forwards` WHERE `auto`=0 AND `closed`=0 AND `received`=0 ORDER BY `created` ASC;
+
+23.11.16 23:39:48 - 1016: Can't open file: './chatlive/lz_events.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_events` WHERE `priority`>=0 ORDER BY `priority` DESC;
+
+23.11.16 23:39:48 - 1016: Can't open file: './chatlive/lz_operators.frm' (errno: 24)
+
+SQL: UPDATE `lz_operators` SET `first_active`='1479944388',`visitor_file_sizes`='a:0:{}',`groups_status`='a:0:{}',`reposts`='a:0:{}',`typing`='',`level`='1',`status`='2',`ip`='201.43.xxx.xxx',`lweb`='0',`lapp`='0',`last_active`='1479944388',`last_chat_allocation`=0 WHERE `system_id`='thepilates' LIMIT 1; 
+
+23.11.16 23:39:49 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('117','eF5NjMEOwyAMQ/8lXwAh0BA+ZgoUKi6bNHaZqv77CqddrGdbtgrJ2cWkLpa2GIkc8zRpSIgCKk7OcQvs+oW0yOE2abbHMR7761kh5TWxVqC8q37qX3zBfYgLu7j5gQK+hmpbZvToibllslTUlFY4GhMQ0vUDKTMrFA==',1479944389);
+
+23.11.16 23:39:49 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('116','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',1479944389);
+
+23.11.16 23:39:49 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('115','eF5FjUsKAyEQRO/SJ/DTzmi7TiCQzyoHUNEgTDbTsxu8ezQfsirqUY8KhLRXEr6SxNk5RG3tKJ5JCk1w60FwrMuW13PlDYbANP8Ygw8kaG9vdsnM4ZHBX4evCE5857x+pl+qBz08Q13+uEH/VD7230q6r3R3TZ6yLNEqowxaWyJKTEGkkqwTYlLg2wvUyjdu',1479944389);
+
+23.11.16 23:39:49 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('118','eF5tj0sOgzAMBe+SE+RjwDiHqZLgqBG0RWnKBnH3BqmiLFjZ1nie9BwBrYmkTaSg63sAg7gf9k0KkYSjjta6A4nPPLjCt5LCyOUt7K5VYg7CD5emS7Dw82T8s1wO97TwBck8v/LJaQ8SmQfvwniVF9NUOP/Itg9tfS2TyNRHo0k03LKKHnWjG0CMHhQEJ0MM2EvZamG3L3LNVU0=',1479944389);
+
+23.11.16 23:39:49 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('112','eF4tyzEKQyEQhOG77AlWXc061ukCOYOKgk0aH2nEu8cHaQb+gS9DsAY4DRh5xCjiVO9IEy6C3jjz/LbP9RrzIhisifC/JqUMxtqbDrGpHDbgbmpBvoVmelHrrRfVXsRIzVx71cgcLKX9A7LaIvc=',1479944389);
+
+23.11.16 23:39:52 - 1016: Can't open file: './chatlive/lz_config.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_config` ORDER BY `key` ASC;
+
+23.11.16 23:39:52 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:39:52 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:39:52 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:39:52 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:39:52 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:39:52 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:39:52 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:39:52 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:39:52 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_stats_aggs` WHERE ((`day`<'23' AND `month`='11' AND `year`='2016') OR (`year`<'2016') OR (`month`<'11')) AND (`aggregated`=0 OR `aggregated`>1479944092) AND `month`>0 AND `day`>0 ORDER BY `year` ASC,`month` ASC,`day` ASC LIMIT 1;
+
+23.11.16 23:39:52 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_stats_aggs` WHERE `month`>0 AND ((`year`='2016' AND `month`<'11') OR (`year`<'2016')) AND (`aggregated`=0 OR `aggregated`>1479944092) AND `day`=0 ORDER BY `year` ASC,`month` ASC LIMIT 1;
+
+23.11.16 23:39:52 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_stats_aggs` WHERE `year`>0 AND `year`<'2016' AND `day`=0  AND `month`=0 AND (`aggregated`=0 OR `aggregated`>1479944092) ORDER BY `year` ASC LIMIT 1;
+
+23.11.16 23:39:52 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_stats_aggs` (`year`,`month`,`day`,`time`,`mtime`) VALUES ('2016','11','23',1479944392,081065700);
+
+23.11.16 23:39:52 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_stats_aggs` (`year`,`month`,`day`,`time`,`mtime`) VALUES ('2016','11','0',1479944392,081620500);
+
+23.11.16 23:39:52 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_stats_aggs` (`year`,`month`,`day`,`time`,`mtime`) VALUES ('2016','0','0',1479944392,082175900);
+
+23.11.16 23:39:52 - 1016: Can't open file: './chatlive/lz_visitors.frm' (errno: 24)
+
+SQL: SELECT *,(SELECT count(*) FROM `lz_visitors` WHERE `id`='618e0a6fdb') as `dcount` FROM `lz_visitors` WHERE `id`='618e0a6fdb' ORDER BY `entrance` DESC;
+
+23.11.16 23:39:52 - 1016: Can't open file: './chatlive/lz_visitor_browser_urls.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_visitor_browser_urls` WHERE `lz_visitor_browser_urls`.`browser_id`='b3acdb93a8' ORDER BY `lz_visitor_browser_urls`.`entrance` ASC;
+
+23.11.16 23:39:52 - 1016: Can't open file: './chatlive/lz_filters.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_filters`;
+
+23.11.16 23:39:52 - 1016: Can't open file: './chatlive/lz_events.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_events` WHERE `priority`>=0 ORDER BY `priority` DESC;
+
+23.11.16 23:39:52 - 1016: Can't open file: './chatlive/lz_operators.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_operators`;
+
+23.11.16 23:39:52 - 1016: Can't open file: './chatlive/lz_groups.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_groups`;
+
+23.11.16 23:39:52 - 1016: Can't open file: './chatlive/lz_predefined.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_predefined`;
+
+23.11.16 23:39:52 - 1016: Can't open file: './chatlive/lz_signatures.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_signatures`;
+
+23.11.16 23:39:52 - 1016: Can't open file: './chatlive/lz_auto_replies.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_auto_replies` ORDER BY `search_type` DESC, `tags` ASC, `language` DESC;
+
+23.11.16 23:39:52 - 1016: Can't open file: './chatlive/lz_profile_pictures.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_profile_pictures`
+
+23.11.16 23:39:52 - 1016: Can't open file: './chatlive/lz_profiles.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_profiles`;
+
+23.11.16 23:39:52 - 1016: Can't open file: './chatlive/lz_visitor_data_browsers.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_visitor_data_browsers` (`id`,`browser`) VALUES (NULL, 'Chrome 54') ON DUPLICATE KEY UPDATE `id`=LAST_INSERT_ID(`id`);
+
+23.11.16 23:39:52 - 1016: Can't open file: './chatlive/lz_visitor_data_systems.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_visitor_data_systems` (`id`,`system`) VALUES (NULL, 'AndroidOS') ON DUPLICATE KEY UPDATE `id`=LAST_INSERT_ID(`id`);
+
+23.11.16 23:39:52 - 1016: Can't open file: './chatlive/lz_visitor_data_resolutions.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_visitor_data_resolutions` (`id`,`resolution`) VALUES (NULL, '') ON DUPLICATE KEY UPDATE `id`=LAST_INSERT_ID(`id`);
+
+23.11.16 23:39:52 - 1016: Can't open file: './chatlive/lz_visitor_data_cities.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_visitor_data_cities` (`id`,`city`) VALUES (NULL, '') ON DUPLICATE KEY UPDATE `id`=LAST_INSERT_ID(`id`);
+
+23.11.16 23:39:52 - 1016: Can't open file: './chatlive/lz_visitor_data_regions.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_visitor_data_regions` (`id`,`region`) VALUES (NULL, '') ON DUPLICATE KEY UPDATE `id`=LAST_INSERT_ID(`id`);
+
+23.11.16 23:39:52 - 1016: Can't open file: './chatlive/lz_visitor_data_isps.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_visitor_data_isps` (`id`,`isp`) VALUES (NULL, '') ON DUPLICATE KEY UPDATE `id`=LAST_INSERT_ID(`id`);
+
+23.11.16 23:39:53 - 1016: Can't open file: './chatlive/lz_visitors.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_visitors` (`id`, `entrance`,`last_active`, `host`,`ip`,`system`,`browser`, `visits`,`visit_id`,`visit_last`,`resolution`, `language`, `country`, `city`, `region`, `isp`, `timezone`, `latitude`, `longitude`, `geo_result`, `js`, `signature`) VALUES ('618e0a6fdb', '1479944392','1479944392', '179-243-15-9.3g.claro.net.br', '179.243.xxx.xxx', '0','0', '9', 'ca2f1c0','1479928832', '0', 'PT-BR','BR', '0', '0', '0', '0', '-522', '-522', '2', '1', '37b4e117062ad0fe260195116e30c639');
+
+23.11.16 23:39:53 - 1016: Can't open file: './chatlive/lz_user_data.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_user_data` (`id`,`create`,`h_fullname`,`h_email`,`h_company`,`h_phone`,`h_customs`,`h_text`) VALUES ('dcca48101505dd86b703689a604fe3c4',1479944393,'','','','','N;','');
+
+23.11.16 23:39:53 - 1016: Can't open file: './chatlive/lz_visitor_browsers.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_visitor_browsers` (`id`, `visitor_id`, `visit_id`, `data_id`, `created`, `last_active`, `last_update`, `is_chat`,`pre_message`,`overlay`,`overlay_container`) VALUES ('b3acdb93a8','618e0a6fdb','ca2f1c0','dcca48101505dd86b703689a604fe3c4','1479944393','1479944393','0f','0','',0,1);
+
+23.11.16 23:39:53 - 1016: Can't open file: './chatlive/lz_visitor_browser_urls.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_visitor_browser_urls` WHERE `lz_visitor_browser_urls`.`browser_id`='618e0a6fdb_OVL' ORDER BY `lz_visitor_browser_urls`.`entrance` ASC;
+
+23.11.16 23:39:53 - 1016: Can't open file: './chatlive/lz_visitor_chats.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_visitor_chats` WHERE `visitor_id`='618e0a6fdb' AND `browser_id`='618e0a6fdb_OVL' ORDER BY `first_active` DESC LIMIT 2;
+
+23.11.16 23:39:53 - 1016: Can't open file: './chatlive/lz_visitor_chat_operators.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_visitor_chat_operators` WHERE `status`<9 AND `chat_id`='' ORDER BY `status` DESC, `dtime` DESC;
+
+23.11.16 23:39:53 - 1016: Can't open file: './chatlive/lz_visitor_browsers.frm' (errno: 24)
+
+SQL: SELECT `t2`.* FROM `lz_visitor_browsers` AS `t1` INNER JOIN `lz_user_data` AS `t2` ON `t1`.`data_id`=`t2`.`id` WHERE `t1`.`visitor_id`='618e0a6fdb' AND `t1`.`id`='618e0a6fdb_OVL';
+
+23.11.16 23:39:53 - 1016: Can't open file: './chatlive/lz_overlay_boxes.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_overlay_boxes` WHERE `receiver_user_id`='618e0a6fdb' AND `receiver_browser_id`='b3acdb93a8' ORDER BY `displayed` ASC,`created` ASC LIMIT 1;
+
+23.11.16 23:39:53 - 1016: Can't open file: './chatlive/lz_mailboxes.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_mailboxes`;
+
+23.11.16 23:39:53 - 1016: Can't open file: './chatlive/lz_feedback_criteria_config.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_feedback_criteria_config` ORDER BY `type` ASC,`id` ASC;
+
+23.11.16 23:39:53 - 1016: Can't open file: './chatlive/lz_ticket_subs.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_ticket_subs` ORDER BY `id` ASC;
+
+23.11.16 23:39:53 - 1016: Can't open file: './chatlive/lz_goals.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_goals` ORDER BY `ind` ASC
+
+23.11.16 23:39:53 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('117','eF5NjDsOwzAMQ++iE8SW0VTUYQr5g8BLAsRZCiN3b+ypC/FEUjQE9IpFK1xYRUJg8ePQhpeADIzeHqFsX9JJ7NdBI9229snHXkjjfHEOlM5iV/mzb3oG/cQKHq0FFNlSjsL2Jr1/s78lnQ==',1479944393);
+
+23.11.16 23:39:53 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('115','eF5FjUsKAjEQRO/SJ8gkgTHVawXBz8oDdDRIw7iZnt2Qu5uMiquiHlU8QcSqcKwY4phSjCH5XtgwuAC6tgAddFrKfFJbqB8M448ZscBhrRs7FzN5FuJL/3vQ0W5W5s/0S0On+5fo9MeVmtNzbl5F2NygHOT+yCnIjri+AU7rMfc=',1479944393);
+
+23.11.16 23:39:53 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('112','eF4tyzEOgCAQRNG77AmAJerO1nYmnmFRCxobiA3h7mJiM8mf5BkiWobTDB9nkRhZwhdawALaMWZ9rrtuuVSCRyuY/quQGhxa7zRI0DRYBg/qHSixHWcStoW0v/CJHYA=',1479944393);
+
+23.11.16 23:39:53 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('116','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',1479944393);
+
+23.11.16 23:40:28 - 1016: Can't open file: './chatlive/lz_config.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_config` ORDER BY `key` ASC;
+
+23.11.16 23:40:28 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:40:28 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:40:28 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:40:28 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:40:28 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:40:28 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:40:28 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:40:28 - 23: Out of resources when opening file './chatlive/lz_data_cache.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:40:28 - 23: Out of resources when opening file './chatlive/lz_stats_aggs.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_stats_aggs` WHERE ((`day`<'23' AND `month`='11' AND `year`='2016') OR (`year`<'2016') OR (`month`<'11')) AND (`aggregated`=0 OR `aggregated`>1479944128) AND `month`>0 AND `day`>0 ORDER BY `year` ASC,`month` ASC,`day` ASC LIMIT 1;
+
+23.11.16 23:40:28 - 23: Out of resources when opening file './chatlive/lz_stats_aggs.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_stats_aggs` WHERE `month`>0 AND ((`year`='2016' AND `month`<'11') OR (`year`<'2016')) AND (`aggregated`=0 OR `aggregated`>1479944128) AND `day`=0 ORDER BY `year` ASC,`month` ASC LIMIT 1;
+
+23.11.16 23:40:28 - 23: Out of resources when opening file './chatlive/lz_stats_aggs.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_stats_aggs` WHERE `year`>0 AND `year`<'2016' AND `day`=0  AND `month`=0 AND (`aggregated`=0 OR `aggregated`>1479944128) ORDER BY `year` ASC LIMIT 1;
+
+23.11.16 23:40:28 - 23: Out of resources when opening file './chatlive/lz_stats_aggs.MYD' (Errcode: 24)
+
+SQL: INSERT IGNORE INTO `lz_stats_aggs` (`year`,`month`,`day`,`time`,`mtime`) VALUES ('2016','11','23',1479944428,084519100);
+
+23.11.16 23:40:28 - 23: Out of resources when opening file './chatlive/lz_stats_aggs.MYD' (Errcode: 24)
+
+SQL: INSERT IGNORE INTO `lz_stats_aggs` (`year`,`month`,`day`,`time`,`mtime`) VALUES ('2016','11','0',1479944428,085082800);
+
+23.11.16 23:40:28 - 23: Out of resources when opening file './chatlive/lz_stats_aggs.MYD' (Errcode: 24)
+
+SQL: INSERT IGNORE INTO `lz_stats_aggs` (`year`,`month`,`day`,`time`,`mtime`) VALUES ('2016','0','0',1479944428,085642200);
+
+23.11.16 23:40:28 - 23: Out of resources when opening file './chatlive/lz_mailboxes.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_mailboxes`;
+
+23.11.16 23:40:28 - 23: Out of resources when opening file './chatlive/lz_feedback_criteria_config.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_feedback_criteria_config` ORDER BY `type` ASC,`id` ASC;
+
+23.11.16 23:40:28 - 23: Out of resources when opening file './chatlive/lz_ticket_subs.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_ticket_subs` ORDER BY `id` ASC;
+
+23.11.16 23:40:28 - 23: Out of resources when opening file './chatlive/lz_goals.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_goals` ORDER BY `ind` ASC
+
+23.11.16 23:40:28 - 23: Out of resources when opening file './chatlive/lz_operators.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_operators`;
+
+23.11.16 23:40:28 - 23: Out of resources when opening file './chatlive/lz_groups.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_groups`;
+
+23.11.16 23:40:28 - 23: Out of resources when opening file './chatlive/lz_predefined.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_predefined`;
+
+23.11.16 23:40:28 - 23: Out of resources when opening file './chatlive/lz_signatures.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_signatures`;
+
+23.11.16 23:40:28 - 23: Out of resources when opening file './chatlive/lz_auto_replies.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_auto_replies` ORDER BY `search_type` DESC, `tags` ASC, `language` DESC;
+
+23.11.16 23:40:28 - 23: Out of resources when opening file './chatlive/lz_profile_pictures.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_profile_pictures`
+
+23.11.16 23:40:28 - 23: Out of resources when opening file './chatlive/lz_profiles.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_profiles`;
+
+23.11.16 23:40:28 - 23: Out of resources when opening file './chatlive/lz_filters.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_filters`;
+
+23.11.16 23:40:28 - 23: Out of resources when opening file './chatlive/lz_visitors.MYD' (Errcode: 24)
+
+SQL: SELECT *,`t1`.`id` AS `id` FROM `lz_visitors` AS `t1` INNER JOIN `lz_visitor_data_browsers` AS `t2` ON `t1`.`browser`=`t2`.`id` INNER JOIN `lz_visitor_data_cities` AS `t3` ON `t1`.`city`=`t3`.`id` INNER JOIN `lz_visitor_data_regions` AS `t4` ON `t1`.`region`=`t4`.`id` INNER JOIN `lz_visitor_data_isps` AS `t5` ON `t1`.`isp`=`t5`.`id` INNER JOIN `lz_visitor_data_systems` AS `t6` ON `t1`.`system`=`t6`.`id` INNER JOIN `lz_visitor_data_resolutions` AS `t8` ON `t1`.`resolution`=`t8`.`id` WHERE `last_active`>1479944338 ORDER BY `entrance` ASC;
+
+23.11.16 23:40:28 - 23: Out of resources when opening file './chatlive/lz_operator_logins.MYD' (Errcode: 24)
+
+SQL: SELECT `id`,`password` FROM `lz_operator_logins` WHERE `ip`='201.43.28.203' AND `user_id`='thepilates' AND `time` > '1479858028';
+
+23.11.16 23:40:28 - 23: Out of resources when opening file './chatlive/lz_operators.MYD' (Errcode: 24)
+
+SQL: UPDATE `lz_operators` SET `client_system_id`='5e6e1fb82525488fb414ca0cfc890062',`token`='076a26535d313465a38269df697f81ad' WHERE `system_id`='thepilates' LIMIT 1;
+
+23.11.16 23:40:28 - 23: Out of resources when opening file './chatlive/lz_data_updates.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_data_updates`;
+
+23.11.16 23:40:28 - 23: Out of resources when opening file './chatlive/lz_push_messages.MYD' (Errcode: 24)
+
+SQL: DELETE FROM `lz_push_messages` WHERE `device_hash`='88354d4ba914f2ded2574386a2493996'; 
+
+23.11.16 23:40:28 - 23: Out of resources when opening file './chatlive/lz_operators.MYD' (Errcode: 24)
+
+SQL: UPDATE `lz_operators` SET `mobile_os`='',`mobile_device_id`='',`mobile_background`='0' WHERE `system_id`='thepilates' LIMIT 1; 
+
+23.11.16 23:40:28 - 23: Out of resources when opening file './chatlive/lz_chat_files.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_chat_files` ORDER BY `created` ASC;
+
+23.11.16 23:40:29 - 23: Out of resources when opening file './chatlive/lz_chat_forwards.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_chat_forwards` WHERE `auto`=0 AND `closed`=0 AND `received`=0 ORDER BY `created` ASC;
+
+23.11.16 23:40:29 - 23: Out of resources when opening file './chatlive/lz_events.MYD' (Errcode: 24)
+
+SQL: SELECT * FROM `lz_events` WHERE `priority`>=0 ORDER BY `priority` DESC;
+
+23.11.16 23:40:29 - 23: Out of resources when opening file './chatlive/lz_operators.MYD' (Errcode: 24)
+
+SQL: UPDATE `lz_operators` SET `first_active`='1479944428',`visitor_file_sizes`='a:0:{}',`groups_status`='a:0:{}',`reposts`='a:0:{}',`typing`='',`level`='1',`status`='2',`ip`='201.43.xxx.xxx',`lweb`='0',`lapp`='0',`last_active`='1479944429',`last_chat_allocation`=0 WHERE `system_id`='thepilates' LIMIT 1; 
+
+23.11.16 23:40:31 - 1016: Can't open file: './chatlive/lz_config.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_config` ORDER BY `key` ASC;
+
+23.11.16 23:40:31 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:40:31 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:40:31 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:40:31 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:40:31 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:40:31 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:40:31 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:40:31 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_data_cache`;
+
+23.11.16 23:40:31 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_stats_aggs` WHERE ((`day`<'23' AND `month`='11' AND `year`='2016') OR (`year`<'2016') OR (`month`<'11')) AND (`aggregated`=0 OR `aggregated`>1479944131) AND `month`>0 AND `day`>0 ORDER BY `year` ASC,`month` ASC,`day` ASC LIMIT 1;
+
+23.11.16 23:40:31 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_stats_aggs` WHERE `month`>0 AND ((`year`='2016' AND `month`<'11') OR (`year`<'2016')) AND (`aggregated`=0 OR `aggregated`>1479944131) AND `day`=0 ORDER BY `year` ASC,`month` ASC LIMIT 1;
+
+23.11.16 23:40:31 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_stats_aggs` WHERE `year`>0 AND `year`<'2016' AND `day`=0  AND `month`=0 AND (`aggregated`=0 OR `aggregated`>1479944131) ORDER BY `year` ASC LIMIT 1;
+
+23.11.16 23:40:31 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_stats_aggs` (`year`,`month`,`day`,`time`,`mtime`) VALUES ('2016','11','23',1479944431,084501900);
+
+23.11.16 23:40:31 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_stats_aggs` (`year`,`month`,`day`,`time`,`mtime`) VALUES ('2016','11','0',1479944431,085053400);
+
+23.11.16 23:40:31 - 1016: Can't open file: './chatlive/lz_stats_aggs.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_stats_aggs` (`year`,`month`,`day`,`time`,`mtime`) VALUES ('2016','0','0',1479944431,085595500);
+
+23.11.16 23:40:31 - 1016: Can't open file: './chatlive/lz_visitors.frm' (errno: 24)
+
+SQL: SELECT *,(SELECT count(*) FROM `lz_visitors` WHERE `id`='618e0a6fdb') as `dcount` FROM `lz_visitors` WHERE `id`='618e0a6fdb' ORDER BY `entrance` DESC;
+
+23.11.16 23:40:31 - 1016: Can't open file: './chatlive/lz_visitor_browser_urls.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_visitor_browser_urls` WHERE `lz_visitor_browser_urls`.`browser_id`='b3acdb93a8' ORDER BY `lz_visitor_browser_urls`.`entrance` ASC;
+
+23.11.16 23:40:31 - 1016: Can't open file: './chatlive/lz_filters.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_filters`;
+
+23.11.16 23:40:31 - 1016: Can't open file: './chatlive/lz_events.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_events` WHERE `priority`>=0 ORDER BY `priority` DESC;
+
+23.11.16 23:40:31 - 1016: Can't open file: './chatlive/lz_operators.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_operators`;
+
+23.11.16 23:40:31 - 1016: Can't open file: './chatlive/lz_groups.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_groups`;
+
+23.11.16 23:40:31 - 1016: Can't open file: './chatlive/lz_predefined.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_predefined`;
+
+23.11.16 23:40:31 - 1016: Can't open file: './chatlive/lz_signatures.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_signatures`;
+
+23.11.16 23:40:31 - 1016: Can't open file: './chatlive/lz_auto_replies.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_auto_replies` ORDER BY `search_type` DESC, `tags` ASC, `language` DESC;
+
+23.11.16 23:40:31 - 1016: Can't open file: './chatlive/lz_profile_pictures.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_profile_pictures`
+
+23.11.16 23:40:31 - 1016: Can't open file: './chatlive/lz_profiles.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_profiles`;
+
+23.11.16 23:40:32 - 1016: Can't open file: './chatlive/lz_visitor_data_browsers.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_visitor_data_browsers` (`id`,`browser`) VALUES (NULL, 'Chrome 54') ON DUPLICATE KEY UPDATE `id`=LAST_INSERT_ID(`id`);
+
+23.11.16 23:40:32 - 1016: Can't open file: './chatlive/lz_visitor_data_systems.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_visitor_data_systems` (`id`,`system`) VALUES (NULL, 'AndroidOS') ON DUPLICATE KEY UPDATE `id`=LAST_INSERT_ID(`id`);
+
+23.11.16 23:40:32 - 1016: Can't open file: './chatlive/lz_visitor_data_resolutions.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_visitor_data_resolutions` (`id`,`resolution`) VALUES (NULL, '') ON DUPLICATE KEY UPDATE `id`=LAST_INSERT_ID(`id`);
+
+23.11.16 23:40:32 - 1016: Can't open file: './chatlive/lz_visitor_data_cities.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_visitor_data_cities` (`id`,`city`) VALUES (NULL, '') ON DUPLICATE KEY UPDATE `id`=LAST_INSERT_ID(`id`);
+
+23.11.16 23:40:32 - 1016: Can't open file: './chatlive/lz_visitor_data_regions.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_visitor_data_regions` (`id`,`region`) VALUES (NULL, '') ON DUPLICATE KEY UPDATE `id`=LAST_INSERT_ID(`id`);
+
+23.11.16 23:40:32 - 1016: Can't open file: './chatlive/lz_visitor_data_isps.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_visitor_data_isps` (`id`,`isp`) VALUES (NULL, '') ON DUPLICATE KEY UPDATE `id`=LAST_INSERT_ID(`id`);
+
+23.11.16 23:40:32 - 1016: Can't open file: './chatlive/lz_visitors.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_visitors` (`id`, `entrance`,`last_active`, `host`,`ip`,`system`,`browser`, `visits`,`visit_id`,`visit_last`,`resolution`, `language`, `country`, `city`, `region`, `isp`, `timezone`, `latitude`, `longitude`, `geo_result`, `js`, `signature`) VALUES ('618e0a6fdb', '1479944432','1479944432', '179-243-15-9.3g.claro.net.br', '179.243.xxx.xxx', '0','0', '10', 'cace8f3','1479944392', '0', 'PT-BR','BR', '0', '0', '0', '0', '-522', '-522', '2', '1', '37b4e117062ad0fe260195116e30c639');
+
+23.11.16 23:40:32 - 1016: Can't open file: './chatlive/lz_user_data.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_user_data` (`id`,`create`,`h_fullname`,`h_email`,`h_company`,`h_phone`,`h_customs`,`h_text`) VALUES ('dcca48101505dd86b703689a604fe3c4',1479944432,'','','','','N;','');
+
+23.11.16 23:40:32 - 1016: Can't open file: './chatlive/lz_visitor_browsers.frm' (errno: 24)
+
+SQL: INSERT IGNORE INTO `lz_visitor_browsers` (`id`, `visitor_id`, `visit_id`, `data_id`, `created`, `last_active`, `last_update`, `is_chat`,`pre_message`,`overlay`,`overlay_container`) VALUES ('b3acdb93a8','618e0a6fdb','cace8f3','dcca48101505dd86b703689a604fe3c4','1479944432','1479944432','d7','0','',0,1);
+
+23.11.16 23:40:32 - 1016: Can't open file: './chatlive/lz_visitor_browser_urls.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_visitor_browser_urls` WHERE `lz_visitor_browser_urls`.`browser_id`='618e0a6fdb_OVL' ORDER BY `lz_visitor_browser_urls`.`entrance` ASC;
+
+23.11.16 23:40:32 - 1016: Can't open file: './chatlive/lz_visitor_chats.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_visitor_chats` WHERE `visitor_id`='618e0a6fdb' AND `browser_id`='618e0a6fdb_OVL' ORDER BY `first_active` DESC LIMIT 2;
+
+23.11.16 23:40:32 - 1016: Can't open file: './chatlive/lz_visitor_chat_operators.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_visitor_chat_operators` WHERE `status`<9 AND `chat_id`='' ORDER BY `status` DESC, `dtime` DESC;
+
+23.11.16 23:40:32 - 1016: Can't open file: './chatlive/lz_visitor_browsers.frm' (errno: 24)
+
+SQL: SELECT `t2`.* FROM `lz_visitor_browsers` AS `t1` INNER JOIN `lz_user_data` AS `t2` ON `t1`.`data_id`=`t2`.`id` WHERE `t1`.`visitor_id`='618e0a6fdb' AND `t1`.`id`='618e0a6fdb_OVL';
+
+23.11.16 23:40:32 - 1016: Can't open file: './chatlive/lz_overlay_boxes.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_overlay_boxes` WHERE `receiver_user_id`='618e0a6fdb' AND `receiver_browser_id`='b3acdb93a8' ORDER BY `displayed` ASC,`created` ASC LIMIT 1;
+
+23.11.16 23:40:32 - 1016: Can't open file: './chatlive/lz_mailboxes.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_mailboxes`;
+
+23.11.16 23:40:32 - 1016: Can't open file: './chatlive/lz_feedback_criteria_config.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_feedback_criteria_config` ORDER BY `type` ASC,`id` ASC;
+
+23.11.16 23:40:32 - 1016: Can't open file: './chatlive/lz_ticket_subs.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_ticket_subs` ORDER BY `id` ASC;
+
+23.11.16 23:40:32 - 1016: Can't open file: './chatlive/lz_goals.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_goals` ORDER BY `ind` ASC
+
+23.11.16 23:40:32 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('117','eF5NjMENgDAMA3fJBJREQJ1hUEor1A9IlA9C7A7ti491sR0bBHdGpxlORu9FhF09tGDwIAPjLp9QtIu0EfdjpZqua5njviXS0F6cAy1HsjP97Ie+wb5hBtdWBwpsSwyebSJ9XrEPJZc=',1479944432);
+
+23.11.16 23:40:32 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('115','eF5Fjc0KwjAQhN9lnyDpBmpmzwqCP6c+wEaDBOql21vJu9vUiqdhPmb4FAFLgZMCH/oYQwjsWxGDdwy6rwE6lXHO06XYTO1g6H/MSBQOS93YNZvpK5Pc2r8DnW2wPH2nO+VGj28t4x9XWp2dJDQ3b25QYn08U2Q9kNQPS2kx8Q==',1479944432);
+
+23.11.16 23:40:32 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('112','eF4tyzEOgCAQRNG77AnA3ajM1nYmnmFRCxobiA3h7kJiM8mf5BkENcFpgpclBBFhP0IzOIAO9Nne+yl7yoXgUTPm/8qkBofaGnUyacSg3Kl3oMh2XjGwraTtA+6NHXo=',1479944432);
+
+23.11.16 23:40:32 - 1016: Can't open file: './chatlive/lz_data_cache.frm' (errno: 24)
+
+SQL: REPLACE INTO `lz_data_cache` (`key`, `data`, `time`) VALUES ('116','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',1479944432);
+
+23.11.16 23:40:47 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+23.11.16 23:41:19 - 1016: Can't open file: './chatlive/lz_config.frm' (errno: 24)
+
+SQL: SELECT * FROM `lz_config` ORDER BY `key` ASC;
+
+24.11.16 11:11:16 - 23: Out of resources when opening file './chatlive/lz_visitor_data_systems.MYD' (Errcode: 24)
+
+SQL: SELECT *,`t1`.`id` AS `id` FROM `lz_visitors` AS `t1` INNER JOIN `lz_visitor_data_browsers` AS `t2` ON `t1`.`browser`=`t2`.`id` INNER JOIN `lz_visitor_data_cities` AS `t3` ON `t1`.`city`=`t3`.`id` INNER JOIN `lz_visitor_data_regions` AS `t4` ON `t1`.`region`=`t4`.`id` INNER JOIN `lz_visitor_data_isps` AS `t5` ON `t1`.`isp`=`t5`.`id` INNER JOIN `lz_visitor_data_systems` AS `t6` ON `t1`.`system`=`t6`.`id` INNER JOIN `lz_visitor_data_resolutions` AS `t8` ON `t1`.`resolution`=`t8`.`id` WHERE `last_active`>1479985786 ORDER BY `entrance` ASC;
+
+24.11.16 13:25:58 - 1040: Too many connections
+
+SQL: connect
+
+24.11.16 13:25:59 - 1040: Too many connections
+
+SQL: connect
+
+24.11.16 13:25:59 - 1040: Too many connections
+
+SQL: connect
+
+25.11.16 12:28:16 - 1130: Host '172.16.1.18' is not allowed to connect to this MySQL server
+
+SQL: connect
+
+29.11.16 14:19:54 - 1062: Duplicate entry 'ed44636aaa442705cd06013358f15460' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('ed44636aaa442705cd06013358f15460', '1480429194','e44c69bd17', '5cb57ddbb2','','https://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTM3NzA_&el=cHQtYnI_','',0,0);
+
+30.11.16 00:29:59 - 2003: Can't connect to MySQL server on '172.16.1.17' (10061)
+
+SQL: connect
+
+30.11.16 00:30:00 - 2003: Can't connect to MySQL server on '172.16.1.17' (10061)
+
+SQL: connect
+
+30.11.16 00:30:01 - 2003: Can't connect to MySQL server on '172.16.1.17' (10061)
+
+SQL: connect
+
+30.11.16 00:50:58 - 2003: Can't connect to MySQL server on '172.16.1.17' (10061)
+
+SQL: connect
+
+30.11.16 00:50:59 - 2003: Can't connect to MySQL server on '172.16.1.17' (10061)
+
+SQL: connect
+
+30.11.16 00:51:01 - 2003: Can't connect to MySQL server on '172.16.1.17' (10061)
+
+SQL: connect
+
+30.11.16 00:53:04 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+19.12.16 03:29:54 - 1040: Too many connections
+
+SQL: connect
+
+19.12.16 03:30:24 - 1040: Too many connections
+
+SQL: connect
+
+19.12.16 03:30:55 - 1040: Too many connections
+
+SQL: connect
+
+24.12.16 03:34:49 - 1040: Too many connections
+
+SQL: connect
+
+24.12.16 03:34:50 - 1040: Too many connections
+
+SQL: connect
+
+24.12.16 03:34:54 - 1040: Too many connections
+
+SQL: connect
+
+28.12.16 12:57:06 - 1062: Duplicate entry '014bc13c1f4bb9da30ac3f2d01c59e26' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('014bc13c1f4bb9da30ac3f2d01c59e26', '1482929826','851b7b68a2', '5792336cde','','https://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTM4Nzc_&el=cHQtYnI_','',0,0);
+
+29.12.16 04:15:00 - 1040: Too many connections
+
+SQL: connect
+
+29.12.16 04:15:01 - 1040: Too many connections
+
+SQL: connect
+
+29.12.16 04:15:02 - 1040: Too many connections
+
+SQL: connect
+
+29.12.16 17:44:13 - 1040: Too many connections
+
+SQL: connect
+
+29.12.16 17:44:14 - 1040: Too many connections
+
+SQL: connect
+
+09.01.17 20:08:27 - 1062: Duplicate entry 'ffaac01b0e19061a0d01b1669a542ecc' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('ffaac01b0e19061a0d01b1669a542ecc', '1483992507','d34f504784', 'f2e828dbd7','','https://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTM5MzI_&el=cHQtYnI_','',0,0);
+
+10.01.17 11:15:33 - 1062: Duplicate entry 'd2dfb042d0be6e9987c9d6a0a4fb4aa7' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('d2dfb042d0be6e9987c9d6a0a4fb4aa7', '1484046933','cabc8ea3e0', '56a881417c','','https://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTM5NDA_&el=cHQtYnI_','',0,0);
+
+11.01.17 23:23:03 - 1040: Too many connections
+
+SQL: connect
+
+11.01.17 23:23:04 - 1040: Too many connections
+
+SQL: connect
+
+11.01.17 23:23:05 - 1040: Too many connections
+
+SQL: connect
+
+12.01.17 01:20:03 - 2003: Can't connect to MySQL server on '172.16.1.17' (10061)
+
+SQL: connect
+
+12.01.17 01:20:55 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:21:25 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:21:56 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:22:28 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:22:59 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:23:30 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:24:00 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:24:32 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:25:03 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:25:33 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:26:04 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:26:36 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:27:06 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:27:37 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:28:08 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:28:39 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:28:50 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:29:10 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:29:41 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:30:12 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:30:43 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:31:14 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:31:45 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:32:16 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:32:28 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:32:47 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:33:18 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:33:49 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:34:20 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:34:52 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:35:13 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:35:22 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:35:52 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:36:23 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:36:54 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:37:25 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:38:06 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:39:32 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:41:52 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:42:17 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:42:20 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:42:37 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:43:18 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:43:49 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:44:20 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:44:51 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:45:22 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:45:53 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:46:49 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:47:19 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:48:25 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:48:41 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:49:28 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:50:41 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:51:12 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:51:43 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:52:14 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:52:45 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:53:16 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+12.01.17 01:53:47 - 2003: Can't connect to MySQL server on '172.16.1.17' (10060)
+
+SQL: connect
+
+24.01.17 23:36:33 - 1062: Duplicate entry '3d7b356c07dbcdcd592f74591f7de778' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('3d7b356c07dbcdcd592f74591f7de778', '1485300993','2f830783ce', 'c81a59630a','','https://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTQwMzA_&el=cHQtYnI_','',0,0);
+
+27.01.17 12:38:50 - 1062: Duplicate entry '4ecf387c36dfcc0e12b35c0a142a6fa2' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('4ecf387c36dfcc0e12b35c0a142a6fa2', '1485520730','7bb0d2371d', 'fcedebc619','','https://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTQwNjI_&el=cHQtYnI_','',0,0);
+
+27.01.17 14:40:10 - 1062: Duplicate entry '72f33f4c3560365dbb2e30d350d1dde3' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('72f33f4c3560365dbb2e30d350d1dde3', '1485528010','d07e21678c', 'd7dbe75ec3','','https://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTQwNzM_&el=cHQtYnI_','',0,0);
+
+20.02.17 17:16:14 - 2003: Can't connect to MySQL server on '172.16.1.17' (10061)
+
+SQL: connect
+
+20.02.17 17:16:17 - 2003: Can't connect to MySQL server on '172.16.1.17' (10061)
+
+SQL: connect
+
+20.02.17 17:16:18 - 2003: Can't connect to MySQL server on '172.16.1.17' (10061)
+
+SQL: connect
+
+05.03.17 22:41:57 - 1062: Duplicate entry '9f7b0c39e59b61dd26142ba67ab49849' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('9f7b0c39e59b61dd26142ba67ab49849', '1488753717','306625039a', '630639942c','','https://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTQyOTc_&el=cHQtYnI_','',0,0);
+
+10.03.17 00:24:15 - 1062: Duplicate entry '362adc6982d6d26f96cc4add51d2e8c8' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('362adc6982d6d26f96cc4add51d2e8c8', '1489105455','4609388fca', '72f1abf02b','','https://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTQzNDI_&el=cHQtYnI_','',0,0);
+
+18.04.17 16:18:01 - 1062: Duplicate entry '5c69642d1ab7406292fd2ba962f25415' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('5c69642d1ab7406292fd2ba962f25415', '1492528681','93717b71a8', 'e067dfac7e','','https://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTQ0NDk_&el=cHQtYnI_','',0,0);
+
+24.05.17 21:37:12 - 1062: Duplicate entry 'd96b352eb4334893c0588b35c3f15306' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('d96b352eb4334893c0588b35c3f15306', '1495658232','a1b55da3fd', '7b17dd7fde','','https://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTQ1NDQ_&el=cHQtYnI_','',0,0);
+
+24.05.17 21:37:13 - 1062: Duplicate entry 'd96b352eb4334893c0588b35c3f15306' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('d96b352eb4334893c0588b35c3f15306', '1495658233','a1b55da3fd', '7b17dd7fde','','https://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTQ1NDQ_&el=cHQtYnI_','',0,0);
+
+24.05.17 21:37:14 - 1062: Duplicate entry 'd96b352eb4334893c0588b35c3f15306' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('d96b352eb4334893c0588b35c3f15306', '1495658234','a1b55da3fd', '7b17dd7fde','','https://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTQ1NDQ_&el=cHQtYnI_','',0,0);
+
+07.06.17 19:14:24 - 1130: Host '172.16.1.18' is not allowed to connect to this MySQL server
+
+SQL: connect
+
+21.06.17 22:34:34 - 1062: Duplicate entry 'e84dbdf0674282acc07dd7c907b5ca4e' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('e84dbdf0674282acc07dd7c907b5ca4e', '1498080874','a8c75f2409', 'c53c96b5a5','','https://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTQ2OTU_&el=cHQtYnI_','',0,0);
+
+22.06.17 03:48:41 - 2003: Can't connect to MySQL server on '172.16.1.17' (10061)
+
+SQL: connect
+
+22.06.17 03:48:43 - 2003: Can't connect to MySQL server on '172.16.1.17' (10061)
+
+SQL: connect
+
+22.06.17 03:48:44 - 2003: Can't connect to MySQL server on '172.16.1.17' (10061)
+
+SQL: connect
+
+26.06.17 22:14:29 - 1062: Duplicate entry '508e79d40832981226fadc689cfedb0e' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('508e79d40832981226fadc689cfedb0e', '1498511669','96dcc0a44e', 'bfd8d257ae','','https://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTQ3Mzc_&el=cHQtYnI_','',0,0);
+
+12.07.17 15:35:52 - 1062: Duplicate entry 'f8df8711eaa5a404593923562b83dcb5' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('f8df8711eaa5a404593923562b83dcb5', '1499870152','b7b6bcea2f', 'e7ef1a22b9','','https://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTQ3OTU_&el=cHQtYnI_','',0,0);
+
+14.07.17 02:03:30 - 1062: Duplicate entry '158c064e9f1ec002dd6c092e55b09a69' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('158c064e9f1ec002dd6c092e55b09a69', '1499994210','b7b6bcea2f', 'e7ef1a22b9','','https://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTQ3OTc_&el=cHQtYnI_','',0,0);
+
+29.08.17 18:17:48 - 1062: Duplicate entry 'ab64ae0a7890401ecbe9684363ee8f7d' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('ab64ae0a7890401ecbe9684363ee8f7d', '1504027068','b361347940', '7413a5ad5b','','https://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTQ5ODE_&el=cHQtYnI_','',0,0);
+
+29.08.17 18:17:50 - 1062: Duplicate entry 'ab64ae0a7890401ecbe9684363ee8f7d' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('ab64ae0a7890401ecbe9684363ee8f7d', '1504027070','b361347940', '7413a5ad5b','','https://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTQ5ODE_&el=cHQtYnI_','',0,0);
+
+29.08.17 18:17:50 - 1062: Duplicate entry 'ab64ae0a7890401ecbe9684363ee8f7d' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('ab64ae0a7890401ecbe9684363ee8f7d', '1504027070','b361347940', '7413a5ad5b','','https://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTQ5ODE_&el=cHQtYnI_','',0,0);
+
+29.08.17 18:19:17 - 1062: Duplicate entry 'ab64ae0a7890401ecbe9684363ee8f7d' for key 'PRIMARY'
+
+SQL: INSERT INTO `lz_overlay_boxes` (`id`, `created`, `receiver_user_id`,`receiver_browser_id`,`event_action_id`, `url`,`content`, `displayed`, `closed`) VALUES ('ab64ae0a7890401ecbe9684363ee8f7d', '1504027157','b361347940', '7413a5ad5b','','https://thepilatesfisiofitness.com.br/livezilla/feedback.php?cid=MTQ5ODE_&el=cHQtYnI_','',0,0);
+

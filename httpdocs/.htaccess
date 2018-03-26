@@ -1,0 +1,14 @@
+<IfModule mod_rewrite.c>
+Options +FollowSymLinks
+RewriteEngine on
+RewriteBase /
+RewriteRule ^(\d+)f(\d+)[-/].*[-/]v(\d+)-.*$ index\.php?id=$1-$2-$3&%{QUERY_STRING} [L]
+RewriteRule ^(\d+)f(\d+)[-/]v(\d+)[-/].*$ index\.php?id=$1-$2-$3&%{QUERY_STRING} [L]
+RewriteRule ^v(\d+)[-/].*[-/](\d+)f(\d+)[-/].*$ index\.php?id=$2-$3-$1&%{QUERY_STRING} [L]
+RewriteRule ^v(\d+)[-/](\d+)f(\d+)[-/].*$ index\.php?id=$2-$3-$1&%{QUERY_STRING} [L]
+RewriteRule ^.*[-/]v(\d+)[-/](\d+)f(\d+)[-/].*$ index\.php?id=$2-$3-$1&%{QUERY_STRING} [L]
+RewriteRule ^.*[-/]v(\d+)[-/].*[-/](\d+)f(\d+)[-/].*$ index\.php?id=$2-$3-$1&%{QUERY_STRING} [L]
+RewriteRule ^.*[-/](\d+)f(\d+)[-/].*[-/]v(\d+)[-/].*$ index\.php?id=$1-$2-$3&%{QUERY_STRING} [L]
+RewriteRule ^.*[-/](\d+)f(\d+)[-/]v(\d+)[-/].*$ index\.php?id=$1-$2-$3&%{QUERY_STRING} [L]
+
+</IfModule>

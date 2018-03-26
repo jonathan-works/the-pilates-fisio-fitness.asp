@@ -1,0 +1,8 @@
+.accionsan{color:#666;font-family:Verdana, Arial, Helvetica, sans-serif}
+.accionsan a:link,.accionsan a:visited,.accionsan a:active{text-decoration:none}
+.accionsan a:hover{text-decoration:underline}
+.accionsan .accion {font-size:0.9em;font-weight:bold}
+.accionsan .ico_fl{padding:0 1px 0 2px}
+.accionsan .ico_fl img{margin-bottom:-1px;width:10px;height:10px}
+.accionsan .positivo{color:#096}
+.accionsan .negativo{color:#F00}

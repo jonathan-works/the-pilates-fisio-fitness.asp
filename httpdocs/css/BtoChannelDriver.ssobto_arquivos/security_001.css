@@ -1,0 +1,384 @@
+
+/***********************TAGS ACCESIBLES PARA SEGURIDAD**********************/
+
+*{margin:0;padding:0;}
+body{background-color:#FFFFFF;color:#000000;font-size:0.7em;font-family:verdana;padding:0;margin:0;}
+
+
+/**************************ESTRUCTURA OP_LOGON****************************/
+.opLogonBody {height:1%;width:100%;}
+html>body .opLogonBody {width:98%;}
+.opLogonBody .left {float:left;text-align:left;padding-left:1em;margin-right:-22em;width:100%;}
+.opLogonBody .right {float:right;width:20em;}
+.opLogonInfo {margin-top:1em;padding-right:22em}
+.opLogonHelp {margin-top:0.3em;}
+.opLogonComponent {margin-top:1em;padding-right:22em}
+.opLogonFoot {margin-top:1em;float:none;clear:both}
+.opLogonHeader {float:none;clear:both}
+/************************END ESTRUCTURA OP_LOGON**************************/
+
+
+/***********************TAGS ACCESIBLES PARA SEGURIDAD (TODAS)**********************/
+.security{}
+.security h1 {font-size:1em;font-style:bold}
+.security h2 {font-size:1em;font-style:bold}
+.security h3 {font-size:1em;font-style:bold}
+.security p{margin-bottom:12px}
+.security a{text-decoration:none}
+.security a:hover{text-decoration:underline}
+.security .width50{float:left;width:49%}
+html>body .security .width50{height:6.5em;margin-top:0px;}
+html>body .security .certificado{display:inline}
+.security .head{height:1.72em;}
+.security .head .title{font-weight:bold;width:auto;padding-left:7px;padding-top:2px;}
+.security .body{padding:12px}
+.security .body .superior{height:220px;display:block;width:auto;padding-left:110px;background:url(visamaster.jpg) no-repeat 0px 0px;overflow:none}
+html>body .security .body .superior{min-height:51px}
+.security .body .superior p{word-wrap:break-word;overflow:hidden}
+.security .foot{clear:both;height:3em;overflow:hidden}
+.security .foot span.link{height:3em;padding-top:0.9em;display:inline;float:right;overflow:hidden}
+html>body foot .security .foot span.link{height:2.1em}
+.security .foot span.link a{height:2.3em;padding-right:1em;padding-left:1em;text-align:right;overflow:hidden}
+.security .foot .buttons{height:3em;padding:0.73em;float:right;}
+html>body .security .foot .buttons{padding:0.73em;}
+.security .buttons submit, .security .buttons input{height:1.6em;font-family:verdana, Arial, Helvetica, sans-serif;font-weight:bold;font-size:1em}
+.security .body fieldset, .security .identificacion fieldset dl, .security dl{border:0pt;margin-bottom:4px}
+.security .body label, .security .identificacion dd{margin-bottom:0px;display:inline;clear:both;height:1.81em;font-weight:normal;text-align:right;width:12.9em;line-height:1.81em;}
+html>body .security .body label{padding-top:0px}
+.security .body fieldset.identificacion legend {display:none}
+.security .identificacion dl{border:0pt;margin-bottom:4px;}
+.security .identificacion dd{margin-right:4px;margin-bottom:0px;float:left;clear:both;height:1.81em;font-weight:normal;text-align:right;width:12.9em;line-height:1.81em;}
+.security .identificacion dt{height:1.81em;line-height:1.81em;}
+.security .body input{width:17em;font-family:verdana;height:1.61em;font-size:1em;margin-left:4px;padding-top:0.12em}
+.security .body select{font-family:verdana;height:2em;font-size:1em;margin-left:4px;padding-top:0.12em;width:17em}
+html>body .security .body select{font-size:1em;}
+.security .body dt{height:1.81em;line-height:1.81em}
+.security .body input.radio{width:1em;margin-top:0.2em}
+.security .body .row{display:block;clear:both;float:left;height:auto;margin-bottom:4px;width:99%;}
+.security .body .rowSelect{display:block;clear:both;float:left;height:auto;margin-bottom:4px;width:99%;}
+.security .body .rowRadio{display:block;clear:both;float:left;margin-bottom:4px;width:100%}
+.security .body .rowRadio label{display:inline;float:left;clear:none;width:12.9em;text-align:left;}
+.security .body .rowRadio input{display:inline;float:left;margin-right:0.1em}
+.security .body .rowRadioDoc{display:block;clear:both;float:none;height:1.81em;margin-bottom:4px;width:100%}
+.security .body .rowRadioDoc label{display:block;float:left;clear:both;width:12.9em;text-align:left;}
+.security .body .rowRadioSelectDoc{display:block;clear:both;float:none;height:1.81em;margin-bottom:4px;width:100%;}
+.security .body .rowRadioSelectDoc label{display:block;float:none;clear:both;width:auto;text-align:left;margin-left:4em;background-color:#FFFFFF;}
+.security .body .rowRadioSelectDoc input {height:1.3em;margin-right:0.4em}
+.security .body .rowInput{display:inline;float:left;margin-right:0.1em}
+.security .body .rowInput label{margin-left:4em;display:inline;float:left;clear:none;width:12.9em;text-align:left;background-color:#FFFFFF;}
+.security .body .rowInput input{display:inline;float:left;margin-right:0.1em}
+/* IE HACKS */
+*html .security .body fieldset.identificacion legend {margin-left:-8px;margin-bottom:1.3em}
+*html .security .body .rowSelect label{height:1.81em;}
+*html .security .body .rowSelect select{margin-left:1px;width:17.3em}
+*html .security .body .row{margin-bottom:2px}
+*html .security .body .row label{height:1.81em;margin-bottom:4px;}
+*html .security .body .row input{height:1.4em;margin-top:-1px;margin-left:1px;}
+*html .security .posiciones {height:1%}
+/* END IE HACKS */
+.security .superior .withAuthenticate{display:block;width:40%;float:left;}
+html>body .security .superior .withsecurity{width:50%}
+.security .superior .withDni{display:block}
+.security .inferior{padding-bottom:0px;clear:both;margin:0px;margin-top:1em}
+.security .inferior .withAuthenticate{display:block;width:40%;float:left;}
+html>body .security .inferior .withAuthenticate{width:50%}
+.security .inferior .withDni{display:block}
+.security .dni a{height:32px;background:url(IcoDNI.gif) no-repeat 0px center;padding:12px 12px 12px 60px;line-height:32px;}
+html>body .security .dni a{padding-top:8px;padding-bottom:8px}
+.security .dni .width50{padding-right:10px}
+.security .dni p, .security .certificado p{padding-top:12px;padding-bottom:0px;margin-bottom:0px}
+.security .certificado a{height:32px;background:url(IcoCertificado.gif) no-repeat 0px center;padding:12px 12px 12px 40px;line-height:32px;}
+html>body .security .certificado a{padding-top:9px;padding-bottom:9px}
+.security .posiciones{margin-left:12.9em;clear:both;font-size:1em}
+.security .posiciones caption{display:none;}
+.security .posiciones td,.security .posiciones th{font-size:1em;font-family:verdana, Arial, Helvetica, sans-serif;text-align:center;height:2.27em;width:2.27em}
+.security .posiciones .numeros th.notLabel{width:2.3em}
+html>body .security .posiciones .numeros th.notLabel{padding-bottom:2px}
+.security .posiciones td.select label{font-weight:bold !important;}
+.security .posiciones .numeros th{padding-left:1px}
+html>body .security .posiciones .numeros th{padding-left:0pt}
+.security .posiciones .numeros th{font-weight:normal;}
+.security .posiciones .numeros th.select{font-weight:bold;}
+.security .posiciones .numeros th.select label{width:auto;padding:1px 0 2px 0.7em;margin:auto;text-align:center;font-weight:bold;}
+html>body .security .posiciones .numeros th.select label{padding-left:0.8em}
+.security .posiciones .posicion td{vertical-align:top}
+.security .posiciones .posicion td.select input{font-size:1em;font-family:verdana, Arial, Helvetica, sans-serif;text-align:center;width:2.05em;height:1.9em;margin:0pt 0pt 0pt 1px }
+html>body .security .posiciones .posicion td.select input{margin:0pt;padding:0pt;height:2.05em;width:2.18em}
+.security .row span{height:1.81em;line-height:1.81em;padding-left:4px}
+.security .alertMsg{margin-bottom:1em;padding:0px 12px 0px 31px;margin:12px 12px 0px 12px;background : url(alerta.gif) no-repeat 8px 12px}
+.security .body label, .security .body ul label{float:left}
+.security applet{display:none}
+/***********************TAGS ACCESIBLES PARA SEGURIDAD (TODAS)*******************/
+
+
+/******************************AUTHENTICATE********************************/
+#auth .body dl{margin-bottom:4px;}
+/******************************AUTHENTICATE*******************************/
+
+
+/****************************AUTHENTICATE2STEP*****************************/
+#auth2 .posiciones{/*margin-left:16.5%;*/}
+*html #auth2 .certificado {margin-top:12px}
+*html #auth2 .dni p {padding-top:5px}
+.antiphising img{float: right;margin: 0px 0px 12px 12px;max-width: 100px;max-height: 100px;}
+.antiphising .phrase{font-weight: bold;margin-top: 23px;margin-bottom: 10px;}
+.antiphising hr{border: 0;height: 1px;margin-bottom: 10px;}
+/***************************AUTHENTICATE2STEP*****************************/
+
+/*****************************CHANGESIGNATURE******************************/
+#chgSgn p{padding-bottom:6px}
+#chgSgn fieldset legend{display:none;}
+#chgSgn ul{list-style-type:none;margin:0;padding:0}
+#chgSgn ul li{clear:both}
+#chgSgn ul li input{height:1.4em;float:left;margin-left:4px;}
+#chgSgn ul li .virtualKeyboard input{height:auto;float:none;margin-left:0px}
+#chgSgn .virtualKeyboard {margin-left:17em}
+#chgSgn .foot{height:3.27em;}
+#chgSgn ul label{margin-bottom:4px;width:17em !important;*padding:1px}
+html>body #chgSgn ul label{padding-top:1px;height:1.8em;}
+/*****************************CHANGESIGNATURE*****************************/	
+
+/*****************************CHANGEPASSWORD*******************************/	 
+#chgPwd p{padding-bottom:6px}
+#chgPwd fieldset legend{display:none;}
+#chgPwd ul{list-style-type:none;margin:0;padding:0}
+#chgPwd ul li{clear:both;}
+#chgPwd ul li input{height:1.4em;float:left;margin-left:4px;}
+#chgPwd ul li .virtualKeyboard input{height:auto;float:none;margin-left:0px}
+#chgPwd .virtualKeyboard {margin-left:17em}
+#chgPwd .foot{height:3.27em;}
+#chgPwd ul label{margin-bottom:4px;width:17em !important;*padding:1px}
+html>body #chgPwd ul label{padding-top:0px;height:1.8em;}
+/*****************************CHANGEPASSWORD******************************/
+
+
+/******************************CHECKNEWALIAS*******************************/
+#chkNewAls LEGEND{padding-bottom:1em;}
+#chkNewAls FIELDSET LABEL{padding-right:0.2em;}
+#chkNewAls FIELDSET INPUT{height:1.3em;margin:0pt 0pt 0pt 0.2em;}
+html>body #chkNewAls FIELDSET INPUT{margin:0pt 0pt 0pt 0.4em;}
+#chkNewAls .body .superior{padding-left:65px;}
+/*****************************CHECKNEWALIAS*******************************/
+
+
+/****************************CHECKNEWPASSWORD******************************/
+#chkNewPwd LEGEND{padding-bottom:1em;}
+#chkNewPwd FIELDSET LABEL{padding-right:0.2em;}
+#chkNewPwd FIELDSET INPUT{height:1.3em;margin:0pt 0pt 0pt 0.2em;}
+html>body #chkNewPwd FIELDSET INPUT{margin:0pt 0pt 0pt 0.4em;}
+#chkNewPwd .body .superior{padding-left:65px;}
+/****************************CHECKNEWPASSWORD*****************************/
+
+
+/************************************SIGN**********************************/
+.sign {width:100%}
+.sign P{margin:0;margin-bottom:1.1em;}
+.sign FORM, FIELDSET, LEGEND{border:0pt none;margin:0pt;padding:0pt;}
+.sign INPUT{font-size:1em;}
+.sign LABEL{font-weight:bold;margin-left:1em;margin-right:1em;clear:none;display:inline;float:none;}
+.sign .hide{display:none;}
+.sign .show{display:block;}
+.sign fieldset legend{display:block;text-align:left;}
+DIV.sign{text-align:center;}
+DIV.sign DIV.mensaje{border:none;text-align:left;padding-left:30px;}
+DIV.sign DIV{margin:0pt auto;width:auto}/*width:53.8em;*/
+.sign .centrado{height:12em;}
+.sign .centrado{text-align:center;}
+.sign .nofloat{display:table;height:0;}
+.sign .borderojo{}
+.sign .container{padding:12px;}
+.sign .noborde, .sign A IMG{border:0;}
+.sign P{font-size:1em;}
+.sign STRONG{font-size:1em;}
+.sign .container .selectorident{margin-bottom:1em; }
+.sign .selecc_cert LABEL{font-weight:normal;}
+.sign .box-validation{margin:0pt auto;width:28em;}/*width:28em;*/
+html>body .sign .box-validation{width:26em;height:0;display:table;*height:auto;*display:block;}
+.sign .box-validation .box{float:left;display:inline;margin-left:5px;margin-right:5px;width:2.18em;}
+.sign .box-validation .box STRONG{clear:both;float:left;font-weight:normal;height:auto;margin-bottom:12px;padding:0.5em 0px 0.5em 0px;width:2.18em;text-align:center;}
+.sign .box-validation .box SPAN{clear:both;display:block;float:left;height:1.6em;padding-top:0.2em;width:2.1em;}
+.sign .box-validation .box INPUT{font-size:1em;font-weight:bold;height:1.4em;padding-bottom:0pt;padding-left:0pt;padding-right:0pt;padding-top:0.2em !important;text-align:center;width:1.9em;}
+.sign #alojaradios LABEL{float:none;clear:both;margin-bottom:4px;display:inline;width:100%;}
+.sign .contenedor{padding:0px;margin-bottom:12px;}
+.sign .contenedor H2{text-align:left;}
+.sign .botonera INPUT, .sign .botonera .boton{font-size:1em;font-weight:bold;padding:4px auto 4px auto;cursor:hand;cursor:pointer;}
+.sign .botonera .principales{float:right;height:36px;padding-left:12px;padding-right:0px;}	
+html>body .sign .botonera .principales{padding-right:6px;}
+.sign .botonera .principales DIV{margin-top:8px;}
+.sign .botonera{border-right:0;border-left:0;height:36px;border-bottom:0;clear:both;}
+.sign .contenedor .botonera .principales{float:left;padding:0px;width:100%;border-width: 1px 0px 0px 0px;border-style:solid;}
+.sign .contenedor .botonera .principales DIV{padding-right:0pt!important;}
+.sign .contenedor .botonera .principales SPAN{float:right;padding-right:12px;}
+.sign .contenedor .botonera .principales INPUT{border:1px outset;}
+.sign .contenedor .botonera .paginacion{float:left;padding:0px;margin:0.3em 0pt;width:100%;}
+.sign .contenedor .botonera .paginacion SPAN#firma_pageback{padding-right:1em;}
+.sign .contenedor .botonera .paginacio SPAN#firma_pageforw{padding-right:1em;}
+.sign .container02{width:auto;}/*width:100%*/
+.sign .container .bordepie .pie .botones{padding:0.5em 1em 0.5em 0pt;width:18em;}
+.sign .container .bordepie .pie .botones INPUT{border-width:1px;font-weight:bold;margin-left:1em;font-size:1em;cursor:pointer;}
+.sign .container .selecc_cert LABEL{margin-right:4px;}
+.sign .container .selecc_cert INPUT{margin-left:0px;height:1.45em;}
+.sign .container .otpclave{width:35em;}
+.sign .container .otpclave LABEL{width:18em;padding: 3px 2px 3px 2px;font-weight:normal;text-align:right;margin:0px 4px 0px 0px;}
+.sign .container .otpclave INPUT{height:1.5em;}
+.sign TABLE{border-collapse:collapse;font-size:1em;}
+.sign TABLE THEAD TH{font-weight:normal;padding:0 6px 0 6px;line-height:18px;}
+.sign TABLE TD{padding:0 6px 0 6px;line-height:18px;}
+.sign TABLE TD LABEL{font-weight:normal;}
+.sign CAPTION.h2like{font-weight:bold;text-align:left;line-height:1.5em;padding:0 0 2px 6px;margin:0;font-size:1em;}
+.sign TABLE .left{text-align:left;float:none;}
+.sign .container02 H2{font-size:1em;margin:0;padding:2px 7px;}
+.sign DL.lista_datos{text-align:left;margin:0pt 0pt 12px 0pt;padding:0pt 0pt 8px 0pt;width:100%;height:0pt;display:table;*height:auto;*display:block;}
+.sign DL.lista_datos DT{width:28%;float:left;margin-bottom:4px;padding:0.3em 2px;text-align:right;}
+.sign DL.lista_datos DD{padding:0.3em 3px 0.3em 4px;float:left;width:60%;margin:0 0 4px 0;text-align:left;}
+.container02 DL.lista_datos{margin:12px 0 0 12px;border:0;padding-bottom:8px;width:auto;height:0;display:table}
+html>body .container02 DL.lista_datos{margin-bottom:0;*margin-bottom:22px;*height:auto}
+.sign .container02 H2 SPAN{font-weight:normal;}
+.sign .selectorident{margin-bottom:0.5em;}
+.sign .selectorident LABEL{font-weight:bold;margin-right:1em;margin-left:1em;}
+.sign .selectorident INPUT{vertical-align:middle;}
+html>body .sign .selectorident INPUT{margin-top:0px;}
+.sign UL.selecc_cert{width:30em;list-style-type:none;margin:auto;padding:0;*height:70px;}
+.sign UL.selecc_cert LI{clear:both;}
+.sign UL.selecc_cert LABEL{float:left;width:13em;margin-bottom:4px;padding:0.3em 2px;text-align:right;}
+.sign UL.selecc_cert INPUT.disabled{float:left;margin-left:4px;}
+.sign UL.selecc_cert A{float:left;margin-left:4px;}
+.sign DL.lista_datos_dnie{background:url(IcoDNI.gif) no-repeat 0px center;text-align:left;margin:0pt 0pt 12px 0pt;padding:0pt 0pt 8px 0pt;width:100%;height:0pt;display:table;*height:auto;*display:block;}
+.sign DL.lista_datos_dnie DT{width:28%;float:left;margin-bottom:4px;padding:0.3em 2px;text-align:right;}
+.sign DL.lista_datos_dnie DD{padding:0.3em 3px 0.3em 4px;float:left;width:60%;margin:0 0 4px 0;text-align:left;}
+.container02 DL.lista_datos_dnie{margin:12px 0 0 12px;border:0;padding-bottom:8px;width:auto;height:0;display:table}
+html>body .container02 DL.lista_datos_dnie{margin-bottom:0;*margin-bottom:22px;*height:auto}
+.sign DL.certificado{width:30em;margin:auto;border:0;padding:0;}
+.sign DL.certificado{padding:0pt 0pt 0pt 60px}
+.sign DL.certificado DT{width:13em;}
+.sign DL.certificado DD{width:16em;}
+.sign .volverSeleccion {padding:12px;vertical-align:middle;}
+html>body .sign .volverSeleccion {margin-top:0px;}
+.sign .selectorident .button{margin-bottom:0.6em;padding-left:1em;padding-right:1em;position:relative;cursor:pointer;font-weight:bold;text-decoration:none;height:2em;font-size:1em;margin-right:1em;}
+html>body .sign .selectorident .button{margin-bottom:0.4em;}
+.sign .foot {width:auto;padding-top:1px;}
+.sign .foot .buttonBox {width:100%;text-align: center;margin:0 auto 0 auto;height:2.1em;height:3.3em}
+.sign .foot .buttonBox div {span:1em 3em; height:3.3em;width:25em;}
+.sign .foot .button{padding-left:1em;padding-right:1em;position:relative;top:0.7em;cursor:pointer;font-weight:bold;text-decoration:none;height:2em;font-size:1em;margin-right:1em;}
+.sign .foot .button.last {margin:0}
+.sign .volverSeleccion a{cursor:hand;cursor:pointer;}
+.sign .alertMsg{margin-bottom:1em;padding:12px 12px 0px 60px;margin:12px 12px 12px 12px;background-image : url(IcoAlerta.gif);background-repeat: no-repeat;background-position:8px 8px;}
+.sign .alertMsg h2{font-size:1em;text-align:left;}
+.sign .alertMsg p{text-align:left;}
+.sign .soloTitulo{margin-bottom:2.2em;}
+html>body .sign .foot .buttonBox div {width:25em}
+html>body .sign .foot .button{padding-left:2em;padding-right:2em}
+/**********************************SIGN**********************************/
+
+
+/*****************************TECLADO VIRTUAL*****************************/
+.virtualKeyboard {clear:both;margin-top:12px;margin-left:12.9em;margin-bottom:12px;}
+.virtualKeyboard .body{border:none;padding:0;}
+.virtualKeyboard .filas0{height:0em}
+.virtualKeyboard .filas1{height:1.6em}
+.virtualKeyboard .filas2{height:3.2em}
+.virtualKeyboard .filas3{height:4.8em}
+.virtualKeyboard .filas4{height:6.4em}
+.virtualKeyboard .filas5{height:8.0em}
+.virtualKeyboard .filas6{height:9.6em}
+.virtualKeyboard .filas7{height:11.2em}
+.virtualKeyboard .filas8{height:12.8em}
+.virtualKeyboard .bodyBackground{float:left;padding:2px 0px 0px 2px}
+.virtualKeyboard input.key {margin:0px 2px 2px  0px; width:2em;height:1.5em;padding:0}
+.virtualKeyboard input.key2 {margin:0px 2px 2px  0px; width:4.15em;height:1.5em;padding:0}
+.virtualKeyboard input.keyspace {margin:0px 2px 2px  0px; width:17em;height:1.5em;padding:0}
+html>body .virtualKeyboard input.keyspace {width:17.2em;}
+.virtualKeyboard input.keyDis {margin:0px 2px 2px  0px; width:2em;height:1.5em;padding:0}
+.virtualKeyboard input.keyHid {margin:0px 2px 2px  0px; width:2em;height:1.5em;padding:0}
+.virtualKeyboard input.space {margin:0px 2px 2px  0px; width:17em;height:1.5em;padding:0}
+#chgPwd .virtualKeyboard{margin-left:17em !important}
+/****************************TECLADO VIRTUAL****************************/
+
+
+/****************************VALIDATEPASSWORD****************************/
+#vdtPwd .posiciones{margin-left:10% !important}
+#vdtPwd.positions .virtualKeyboard{margin-left:10%}
+/****************************VALIDATEPASSWORD***************************/
+
+
+/********************************HELP AREA*******************************/
+.helpPrin{font-size:1em;padding-right:1.18em;padding-top:10px;}
+.helpCont{width:auto;padding-right:6px;background:url(shdwRgt.gif) repeat-y top right;}
+.helpArea{overflow:hidden;width:100%;display:block;padding-bottom:6px;padding-top:3px;}
+.helpArea span{font:1.50em Trebuchet MS;padding-top:8px;padding-left:12px;padding-right:12px;}
+.helpArea .image{clear:both;margin-top:6px;width:auto;}
+.helpArea .image img{overflow:hidden;}
+.helpArea .list{font-size:1em;clear:both;padding-top:1em;padding-left:20px;padding-right:12px;}
+.helpArea ul{list-style:none;margin:0px;padding:0px;}
+.helpArea ul li{font:0.9em verdana;min-height:14px;}
+.helpArea ul li img{width:14px;height:14px;margin-right:6px;}
+.helpArea ul li a{vertical-align:top;text-decoration:none;line-height:1.6em}
+.helpArea ul li span{padding:0;vertical-align:top;font:bold 1em verdana;line-height:1.6em}
+.helpArea ul li .line{height:1px;width:50%;font-size:1px;}
+.shdwBtm{font-size:1px;top:0px;padding:0;display:block;background:#fff url(shdwBtm.gif) repeat-x bottom left;width:100%;height:11px;}
+.shdwBtm .shdwBtmR{height:11px;width:11px;float:right;background:url(shdwBrd.gif) no-repeat top left;}
+.shdwBtm .shdwBtmL{height:5px;width:1px;float:left;}
+/********************************HELP AREA*******************************/
+
+
+/*********************************INFO AREA********************************/
+.InfoArea{padding:8px 8px 8px 8px;}
+.InfoArea.NORMAL{background:#FFFFFF;}
+.InfoArea.NOBORDER{background:#FFFFFF;}
+.InfoArea.YELLOW{background:#FFFFE7;}
+.InfoArea .Texto{background-repeat:no-repeat;line-height:1.27em;}
+*html .InfoArea .Texto{height:1%;}
+.InfoArea .Texto p{padding-left:24px;}
+.InfoArea .Texto .Enlaces{line-height:1.27em;padding-left:24px;}
+.InfoArea .Enlaces a{margin-right:1em;}
+/********************************INFO AREA********************************/
+
+
+/********************************LEGAL AREA********************************/
+.LegalArea{line-height:1.27em;text-align:center;padding:8px;}
+.LegalArea ul{text-align:center;margin:auto}
+.LegalArea li{display:inline;padding-left:1em;padding-right:1em;}
+.LegalArea li.last{border-right:none}
+/********************************LEGAL AREA*******************************/
+
+
+/*******************************MENSAJE AREA******************************/
+/*estructura mensajeArea*/
+.mensajeArea {width:auto;padding:0.5em;}
+.mensajeArea .bordeGris {padding:1px;}
+*html .mensajeArea .bordeGris{border-top-width:0.65em;/*border-bottom-width:0.65em;*/}
+.mensajeArea .imgTopLeft {height:1em;width:1em;position:relative;top:-0.5em;left:-0.5em;float:left;background:url(cross.gif) center center;}
+.mensajeArea .imgTopRight {height:1em;width:1em;position:relative;top:-0.5em;right:-0.5em;aling:right;float:right;background:url(cross.gif) center center;}
+.mensajeArea .imgBottomLeft {height:1em;width:1em;position:relative;top:-0.5em;left:-0.5em;float:left;background:url(cross.gif) center center;}
+.mensajeArea .imgBottomRight {height:1em;width:1em;position:relative;top:-0.5em;right:-0.5em;aling:right;float:right;background:url(cross.gif) center center ;}
+.mensajeArea .head .fondoGris {height:1em;}
+.mensajeArea .head .texto {height:auto;padding:0.3em 0.3em 0.3em 1em;font-weight:bold;}
+.mensajeArea .body {padding-left:5em;}
+.mensajeArea .body .texto {background-color:#F0F0F0;padding:1em;}
+.mensajeArea .foot {width:auto;padding-top:1px}
+.mensajeArea .foot .buttonBox {width:auto;text-align: center;margin:0 auto 0 auto}
+.mensajeArea .foot .buttonBox div {width:18em;}
+.mensajeArea .foot .button{padding-left:1em;padding-right:1em;font-weight:bold;}
+html>body .mensajeArea .foot .buttonBox div {width:18em;margin:auto;}
+html>body .mensajeArea .foot .button{padding-left:2em;padding-right:2em}
+/*ocultamos la capa del foot solo para firefox cuando esta habilitado el boton para cerrar ventana - en FF no funciona*/
+html>body .mensajeArea .foot.closeWindow {display:none;visibility:hidden}
+/*tipos de mensajeArea*/
+.mensajeArea.error .body {background: url(mensajeAreaError.gif) no-repeat 8px 8px}
+.mensajeArea.accept .body {background: url(mensajeAreaAccept.gif) no-repeat 8px 8px}
+.mensajeArea.info .body {background: url(mensajeAreaInfo.gif) no-repeat 8px 8px}
+/*****************************END MENSAJE AREA****************************/
+
+
+/********************************ERROR AREA********************************/
+.errorArea{padding:8px 8px 8px 8px}
+.errorArea .title{padding-left:24px}
+.errorArea .text{padding-left:24px;background-image: url(alerta.gif);background-repeat:no-repeat}
+/******************************END ERROR AREA******************************/
+
+
+/********************************HEADER AREA*******************************/
+.headerArea{overflow:hidden;width:100%;display:block;}
+.headerArea .image{clear:both;width:auto;}
+.headerArea .image img{overflow:hidden;}
+/********************************HEADER AREA*******************************/

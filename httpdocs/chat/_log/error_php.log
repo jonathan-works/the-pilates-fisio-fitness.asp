@@ -1,0 +1,3 @@
+06.09.17 17:29:19 189.106.137.220 ERR# 8 Undefined index:  gl_site_name D:\http\vhosts\thepilatesfisiofitness.com.br\httpdocs\chat\_lib\objects.global.inc.php IN LINE 1257
+06.09.17 17:31:40 189.106.137.220 ERR# 2 mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'adminchat'@'172.16.1.18' (using password: YES) D:\http\vhosts\thepilatesfisiofitness.com.br\httpdocs\chat\_lib\objects.global.inc.php IN LINE 7092
+

@@ -1,0 +1,35 @@
+.bg_all_one{background-color:#f9f9f9;width: 100%;height: 100%;display: block;}
+
+.main_logo{display: block;padding: 10px 0;box-shadow: 0 1px 5px rgba(0,0,0,0.4);}
+.main_logo .logo{width: 82px;height: 69px;display: block;margin: 0 auto 20px auto;}
+
+.main_header{display: block;height: 400px;overflow: hidden;}
+.main_header img{width: 100%;height: auto;display: block;}
+
+.main_main{box-shadow: 0 0 3px rgba(0,0,0,0.6);margin-top:40px;margin-bottom: 40px;border-radius: 3px;padding:20px;}
+.main_title{display: block;margin: 0 0 10px 0;font-size: 2em;font-weight: 700;text-transform: uppercase;text-shadow:1px 1px 1px rgba(0,0,0,0.8);color: #1796d4;}
+
+.main_form{display: block;margin:30px 0;}
+.box_form{width: 49%;height: auto;display: block;float: left;margin-right: 1%;margin-bottom: 50px;position: relative;}
+.box_form span{display: block;margin: 0 0 5px 0;color: #1796d4;}
+.box_form input{width: 100%;height: 40px;border-left:0;border-right: 0;border-top: 0;border-bottom: 1px solid #1796d4;background-color: #f9f9f9;padding:0 10px;}
+.select_nascimento{width: 100px;height: 40px;border: 1px solid #1796d4;background-color: #f9f9f9;padding:0 10px;}
+.select_val_card{width: 100px;height: 40px;border: 1px solid #1796d4;background-color: #f9f9f9;padding:0 10px;}
+.btn_now{width: 400px;height: 50px;cursor: pointer;border-bottom: 4px solid #0c5f88;color: #fff;font-weight: 700;text-transform: uppercase;background-color: #1796d4;
+border-left: 0;border-right: 0;border-top: 0;margin: 20px auto;display: block;font-size: 1.5em;}
+
+.divisor_msg{display: block;margin:0 0 20px 0;padding:10px;background-color: #1796d4;text-transform: uppercase;color: #fff;}
+.error_msg{color:red!important;display: block;padding:10px 0;position: absolute;}
+
+.main_extra{background-color: #f0f0f0;}
+.main_extra img{display: block;margin:30px auto;width: 100%;}
+.main_footer{background-color: #39c0e8;}
+.main_footer img{display: block;margin: 50px auto;width: 861px;height: 255px;}
+
+
+.msg_sucess{color: #0c8f00;display: block;margin:40px 0;}
+.msg_sucess h1{font-size: 2em;margin:0 0 20px 0;color:#900!important;}
+.destaque_chave{text-transform: uppercase;}
+.dest_chave_strong{font-weight: 700;}
+
+

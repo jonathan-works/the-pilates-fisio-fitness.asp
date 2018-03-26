@@ -1,0 +1,94 @@
+/*globales*/
+.eliminar{background:#FFFBC1;border:1px solid #FF0000;}
+.eliminar h1{color:#FF0000; font-size:1em;margin-bottom:12px} 
+.eliminar h2{color:#0000FF; font-size:1em;margin-bottom:12px} 
+
+body{background-color:#FFFFFF}
+input:focus, textarea:focus, select:focus{background:#FFFBC1;}
+
+/*estructura */
+.container{background:#FFFFFF;}
+.container02 {border:1px solid #BFBFBF;}
+
+/* InfoMsg */
+.mensaje{border:1px solid red;}
+
+/* DataErrorMsg (mensaje de error de arquitectura) */
+.dataErrorMsg{color:#FF0000}
+
+/* cabecera (navbar)*/
+.red-bar {background:#FF0000}
+
+.red-bar .f-back{border-right:1px solid #FFFFFF;background-color:#FF0000!important;}
+.red-bar input {background-color:#FF0000;color:#FFFFFF}
+.red-bar button{background:#FF0000;color:#FFFFFF}
+.red-bar .f-cabecera{border-left:1px solid #FFFFFF;}
+.red-bar .green{background-color:#008000}
+
+/* titulo */
+.title.rendermodeH1{background-image: url(title_h1.gif)}
+.title.rendermodeH2{background-image: url(title_h2.gif)}
+
+/* links */
+a{color:#FF0000;}
+
+/* links con bksNextEventName (submit en formulario) */
+.a-submit{background-color:#FFFFFF;color:#FF0000}
+
+/* hr */
+.hr-gray{background:#CCCCCC;}
+.hr-red{background:#FF0000;}
+
+/*datos contexto*/
+.datosContexto .dato-title span, .datos-table table caption span {background-color:#FFFFFF}
+.datosContexto .dataSet {border:4px solid #E8E8E8;}
+
+/* contenedor */
+.contenedor{background-color:#FFFFFF;border:1px solid #BFBFBF}
+.contenedor h2.contenedorH2{background-color:#E8E8E8;border-top:1px solid #FFFFFF}
+.busqueda {background-color:#F6F6F6;}
+.contenedor .busqueda {background-color:#F6F6F6;}
+
+/* elementos formulario*/
+.f-footer{background-color:#DDDDDD}
+.f-submit{margin:0 1px;background-color:#FFFFFF;color:#FF0000}
+.f-submit[disabled]{color:#333333}
+.f-submit.disabled{color:#333333}
+.f-select[disabled]{background:#E5E5E5}
+.f-select.disabled{background:#E5E5E5}
+.f-file[disabled]{background:#E5E5E5}
+.f-file.disabled{background:#E5E5E5}
+.f-input[disabled]{background:#E5E5E5}
+.f-input.disabled{background:#E5E5E5}
+.f-textarea[disabled]{background:#E5E5E5}
+.f-textarea.disabled{background:#E5E5E5}
+.f-radio[disabled]{background:#E5E5E5}
+.f-radio.disabled{background:#E5E5E5}
+.f-checkbox[disabled]{background:#E5E5E5}
+.f-checkbox.disabled{background:#E5E5E5}
+
+/*FORMULARIO*/
+.formulario1 .f-input, .formulario1 .f-select, .formulario1 .f-textarea, .formulario1 .f-file{border:1px solid #CCCCCC;}
+
+/* INPUT CHECKBOX */
+.f-checkbox{margin-right:0.2em;height:1em;width:1em;font-size:1.2em;margin-top:6px;margin-bottom:0px;display:inline}
+.check legend, .radio legend{color:#000000}
+.check .marginb4{border:1px solid #FFFFFF}
+/* TITLE */
+.f-title{border-top:1px solid #000000!important;}
+.f-title legend{color:#000000}
+.erroneo{background-color:#FFE4B1}
+.obligatorio{background-color:#C6F3FF}
+.erroneo{background-color:#FFE4B1}
+
+/*SIZE*/
+.f-size1 label strong, .check strong, .radio strong, .f-radio strong{background-color:#F1F1F1}
+.f-size2 label strong {background-color:#F1F1F1}
+.f-size3 label strong{background-color:#F1F1F1}
+.l-size1 strong{background-color:#F1F1F1}
+
+/* propiedades especiales del footer de tabla con formulario */
+.table-form {background-color:#E8E8E8;border:1px solid #BFBFBF}
+.table-form .button {background-color:#F4F4F4;color:#000000}
+.table-form input{color:#FF0000}
+.table-form .f-submit-r, .table-form .f-submit-l{background-color:#FCFBFB}
